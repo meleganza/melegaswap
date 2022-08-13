@@ -52,9 +52,19 @@ const Home: React.FC = () => {
   const items=[<img className='item' alt="b1" src="./banners/b1.png"/>,
   <img className='item' alt="b2" src="./banners/b2.png"/>,
 <img className='item' alt="b3" src="./banners/b3.png"/>]
+const items2=[<img className='item' alt="b1" src="./banners/sb1.png"/>,
+<img className='item' alt="b2" src="./banners/sb2.png"/>,
+<img className='item' alt="b3" src="./banners/sb3.png"/>,
+<img className='item' alt="b4" src="./banners/sb4.png"/>,
+<img className='item' alt="b5" src="./banners/sb5.png"/>,
+<img className='item' alt="b6" src="./banners/sb6.png"/>,
+<img className='item' alt="b7" src="./banners/sb7.png"/>]
 
   const responsive = {
     500: { items: 3 }
+};
+const responsive2 = {
+  500: { items: 4 }
 };
   const { theme } = useTheme()
   const { account } = useWeb3React()
@@ -76,6 +86,11 @@ const Home: React.FC = () => {
     </div>
     <div style={{margin:"1.5rem"}}>
     <FarmsPoolsRow  />
+    </div>
+    <div className="container">
+        
+        <AliceCarousel disableButtonsControls={!false} disableDotsControls={!false} autoPlayInterval={2000} responsive={responsive2} autoPlay={!false} infinite={!false} items={items2}/>
+      
     </div>
     <br/>
       
