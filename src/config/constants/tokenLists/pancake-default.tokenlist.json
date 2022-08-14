@@ -62,12 +62,39 @@
       "logoURI": "https://melega.finance/images/tokens/0x963556de0eb8138E97A85F0A86eE0acD159D210b.png"
     },
     {
-      "name": "SafeMoon",
-      "symbol": "SAFEMOON",
-      "address": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3",
+      "name": "MASTERM",
+      "symbol": "MXMX",
+      "address": "0xc93B7e6d6445f8e7de92abDDbFBC8057CdCaA1a6",
       "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://melega.finance/images/tokens/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xc93B7e6d6445f8e7de92abDDbFBC8057CdCaA1a6.png"
+    }
+    ,
+    {
+      "name": "MM72",
+      "symbol": "MM72",
+      "address": "0xdF9e1A85dB4f985D5BB5644aD07d9D7EE5673B5E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xdF9e1A85dB4f985D5BB5644aD07d9D7EE5673B5E.png"
+    }
+    ,
+    {
+      "name": "GIOTTO",
+      "symbol": "GIOTTO",
+      "address": "0xD04Ee1B6A9c4E4942f4A3D88C47B256bA5323297",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xD04Ee1B6A9c4E4942f4A3D88C47B256bA5323297.png"
+    }
+    ,
+    {
+      "name": "2G CARBON COIN",
+      "symbol": "2GCC",
+      "address": "0x1a515bf4e35AA2DF67109281DE6B3b00Ec37675E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x1a515bf4e35AA2DF67109281DE6B3b00Ec37675E.png"
     }
   ]
 }

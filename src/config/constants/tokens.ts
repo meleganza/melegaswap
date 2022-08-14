@@ -73,6 +73,42 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  mxmx: {
+    symbol: 'MXMX',
+    address: {
+      56: '0xc93B7e6d6445f8e7de92abDDbFBC8057CdCaA1a6',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  mm72: {
+    symbol: 'MM72',
+    address: {
+      56: '0xdF9e1A85dB4f985D5BB5644aD07d9D7EE5673B5E',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  gitto: {
+    symbol: 'GIOTTO',
+    address: {
+      56: '0xD04Ee1B6A9c4E4942f4A3D88C47B256bA5323297',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  gcc2: {
+    symbol: '2GCC',
+    address: {
+      56: '0x1a515bf4e35AA2DF67109281DE6B3b00Ec37675E',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   moceans: {
     symbol: 'MOCEANS',
     address: {

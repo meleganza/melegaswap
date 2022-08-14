@@ -39,6 +39,17 @@ const farms: FarmConfig[] = [
     token: tokens.busd,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 3,
+    lpSymbol: 'GIOTTO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x443f2e9A5877e2896d1248288c73AA6B7402fbBe',
+    },
+    token: tokens.gitto,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
