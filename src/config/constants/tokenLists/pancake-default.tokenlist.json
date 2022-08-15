@@ -30,6 +30,14 @@
       "logoURI": "https://melega.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
       "name": "Ethereum Token",
       "symbol": "ETH",
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
@@ -96,5 +104,42 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x1a515bf4e35AA2DF67109281DE6B3b00Ec37675E.png"
     }
+    ,
+    {
+      "name": "ZOLOTO",
+      "symbol": "ZLT",
+      "address": "0x502EEd71FFe313252cADc745fac1223e126e002e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x502EEd71FFe313252cADc745fac1223e126e002e.png"
+    }
+    ,
+    {
+      "name": "MISSION 1",
+      "symbol": "M01",
+      "address": "0x4034875250F797D00b819e9011c5BB9c2e799631",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x4034875250F797D00b819e9011c5BB9c2e799631.png"
+    }
+    ,
+    {
+      "name": "REMEMBER",
+      "symbol": "RMBR",
+      "address": "0xE7ba8bCf0fe998c77163B42c96C0b12a834b06Ed",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xE7ba8bCf0fe998c77163B42c96C0b12a834b06Ed.png"
+    }
+    ,
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    }
+    
   ]
 }

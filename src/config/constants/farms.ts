@@ -50,6 +50,116 @@ const farms: FarmConfig[] = [
     token: tokens.gitto,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 4,
+    lpSymbol: 'ZLT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xD656C120E843012C33187E8732B83F0c1FC1f858',
+    },
+    token: tokens.zoloto,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 5,
+    lpSymbol: 'MXMX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8481c346D5348A7b543Cb3755beBB68799d375d0',
+    },
+    token: tokens.mxmx,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 6,
+    lpSymbol: 'MM72-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7825da4753eb52d918dAc368f59D1FB734daFB72',
+    },
+    token: tokens.mm72,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 7,
+    lpSymbol: '2GCC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xfEf01a730432A74d359B01CA9a6c51e2583E4224',
+    },
+    token: tokens.gcc2,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 8,
+    lpSymbol: 'M01-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x2E1B5FdDa0A20e1cd8E4131408a0BbEF4FAeB8a2',
+    },
+    token: tokens.m01,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 9,
+    lpSymbol: 'RMBR-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xBd47F3a3D0B7C21Ab393a157d0A46a1733eC1b01',
+    },
+    token: tokens.rmbr,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 10,
+    lpSymbol: 'MARCO-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0c655F723F8765009016426aa454950216B5Bc08',
+    },
+    token: tokens.cake,
+    quoteToken: tokens.busd,
+  }
+  ,
+  {
+    pid: 11,
+    lpSymbol: 'MARCO-USDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xb1857b7A6650C5711cCFae451d79bF86C6CbAca4',
+    },
+    token: tokens.cake,
+    quoteToken: tokens.usdt,
+  }
+  ,
+  {
+    pid: 12,
+    lpSymbol: 'MARCO-USDC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6804D8b2be83f8e38b26552aD445906C696a671C',
+    },
+    token: tokens.cake,
+    quoteToken: tokens.usdc,
+  }
+  ,
+  {
+    pid: 13,
+    lpSymbol: 'MARCO-CAKE LP',
+    lpAddresses: {
+      97: '',
+      56: '0x75E6E495a4bDA582CbEd52dbfCb6F69D39C2cAeA',
+    },
+    token: tokens.cake,
+    quoteToken: tokens.pancake,
+  }
 ]
 
 export default farms

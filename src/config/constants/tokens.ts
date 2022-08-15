@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  pancake: {
+    symbol: 'CAKE',
+    address: {
+      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   mxmx: {
     symbol: 'MXMX',
     address: {
@@ -109,6 +118,34 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  m01: {
+    symbol: 'M01',
+    address: {
+      56: '0x4034875250F797D00b819e9011c5BB9c2e799631',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
+  rmbr: {
+    symbol: 'RMBR',
+    address: {
+      56: '0xE7ba8bCf0fe998c77163B42c96C0b12a834b06Ed',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
+  zoloto: {
+    symbol: 'ZLT',
+    address: {
+      56: '0x502EEd71FFe313252cADc745fac1223e126e002e',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  
   moceans: {
     symbol: 'MOCEANS',
     address: {
