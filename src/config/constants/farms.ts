@@ -135,8 +135,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xb1857b7A6650C5711cCFae451d79bF86C6CbAca4',
     },
-    token: tokens.cake,
-    quoteToken: tokens.usdt,
+    token: tokens.usdt,
+    quoteToken: tokens.cake,
   }
   ,
   {
@@ -146,8 +146,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x6804D8b2be83f8e38b26552aD445906C696a671C',
     },
-    token: tokens.cake,
-    quoteToken: tokens.usdc,
+    token: tokens.usdc,
+    quoteToken: tokens.cake,
   }
   ,
   {
@@ -157,8 +157,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x75E6E495a4bDA582CbEd52dbfCb6F69D39C2cAeA',
     },
-    token: tokens.cake,
-    quoteToken: tokens.pancake,
+    token: tokens.pancake,
+    quoteToken: tokens.cake,
   }
 ]
 
