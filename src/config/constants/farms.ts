@@ -160,6 +160,49 @@ const farms: FarmConfig[] = [
     token: tokens.pancake,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 14,
+    lpSymbol: 'MXMX-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x17313681251d12e0d7df38168E18B6B19367Bd09',
+    },
+    token: tokens.mxmx,
+    quoteToken: tokens.busd,
+  },
+  {
+    pid: 15,
+    lpSymbol: 'MXMX-USDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xD4C94859046693E670D6008886A2cD75aA4B2Db4',
+    },
+    token: tokens.mxmx,
+    quoteToken: tokens.usdt,
+  }
+  ,
+  {
+    pid: 16,
+    lpSymbol: 'MARCO-DOGE LP',
+    lpAddresses: {
+      97: '',
+      56: '0xd36421fdF280bA36Db6FBb67F4985aF91b47d16c',
+    },
+    token: tokens.doge,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 17,
+    lpSymbol: 'MARCO-DAI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x42d6B0155d1c9cb480ed30c331e32DD08c49541e',
+    },
+    token: tokens.dai,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
