@@ -50,7 +50,7 @@ const Footer = () => {
             id="clickExchangeHelp"
             as="a"
             external
-            href="mailto:support@melega.finance"
+            href="mailto:support@melegaswap.finance"
             variant="subtle"
           >
             {t('Need help ?')}
