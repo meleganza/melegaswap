@@ -219,7 +219,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'MARCO-USDD LP',
     lpAddresses: {
       97: '',
-      56: '0x004EdaC5B404Cad0a0E77F87EB2B99E130a346B3',
+      56: '0x0A6477716f1a2682EC0442Cc07Ae7E329aaE4EA2',
     },
     token: tokens.usdd,
     quoteToken: tokens.cake,
