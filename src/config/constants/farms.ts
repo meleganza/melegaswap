@@ -202,6 +202,27 @@ const farms: FarmConfig[] = [
     },
     token: tokens.dai,
     quoteToken: tokens.cake,
+  },
+  {
+    pid: 18,
+    lpSymbol: 'MARCO-SHIB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x004EdaC5B404Cad0a0E77F87EB2B99E130a346B3',
+    },
+    token: tokens.shib,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 19,
+    lpSymbol: 'MARCO-USDD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x004EdaC5B404Cad0a0E77F87EB2B99E130a346B3',
+    },
+    token: tokens.usdd,
+    quoteToken: tokens.cake,
   }
 ]
 

@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  shib: {
+    symbol: 'SHIB',
+    address: {
+      56: '0x2859e4544C4bB03966803b044A93563Bd2D0DD4D',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  usdd: {
+    symbol: 'USDD',
+    address: {
+      56: '0xd17479997F34dd9156Deef8F95A52D81D265be9c',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   pancake: {
     symbol: 'CAKE',
     address: {

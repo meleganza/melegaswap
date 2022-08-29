@@ -130,6 +130,23 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xE7ba8bCf0fe998c77163B42c96C0b12a834b06Ed.png"
+    },
+    {
+      "name": "Binance-Peg SHIBA INU Token",
+      "symbol": "SHIB",
+      "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D.png"
+    }
+    ,
+    {
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xd17479997F34dd9156Deef8F95A52D81D265be9c.png"
     }
     ,
     {
