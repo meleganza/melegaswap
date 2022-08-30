@@ -91,6 +91,33 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  marcobnb: {
+    symbol: 'MARCO-BNB',
+    address: {
+      56: '0x94bAD9CDC0AEdB114456FFD973f1a7602bD18522',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  mxmxbnb: {
+    symbol: 'MXMX-BNB',
+    address: {
+      56: '0x63CC9688F90A92FF19dd3e0904F5b1464865cB9b',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  mm72bnb: {
+    symbol: 'MM72-BNB',
+    address: {
+      56: '0x8Cc55E5A3C1601F44383aD506Aa2347165e6C685',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   pancake: {
     symbol: 'CAKE',
     address: {
