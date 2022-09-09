@@ -263,7 +263,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'MM72-USDT LP',
     lpAddresses: {
       97: '',
-      56: '0x5B610D743CeeC54EDccD5E724d75A768E30D2a45',
+      56: '0xA3f45B7C666883F06C88906E76Dfa9831c5545D0',
     },
     token: tokens.mm72,
     quoteToken: tokens.usdt,
