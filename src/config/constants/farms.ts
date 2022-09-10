@@ -265,8 +265,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xA3f45B7C666883F06C88906E76Dfa9831c5545D0',
     },
-    token: tokens.mm72,
-    quoteToken: tokens.usdt,
+    token: tokens.usdt,
+    quoteToken: tokens.mm72,
   }
 ]
 
