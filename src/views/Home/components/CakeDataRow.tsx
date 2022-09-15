@@ -136,6 +136,8 @@ const CakeDataRow = () => {
         <a style={{margin:"0.5rem"}} href='https://www.instagram.com/melega.finance/'><img alt="logo" src="/instaicon.png" style={{width:"16px"}}/></a>
         <a style={{margin:"0.5rem"}} href='https://twitter.com/meleganza'><img alt="logo" src="/twiticon.png" style={{width:"16px"}}/></a>
         <a style={{margin:"0.5rem"}} href='https://melega.tumblr.com/'><img alt="logo" src="/tmblicon.png" style={{width:"16px"}}/></a>
+        <a style={{margin:"0.5rem"}} href='https://medium.com/@melega'><img alt="logo" src="/medicon.png" style={{width:"16px"}}/></a>
+        <a style={{margin:"0.5rem"}} href='https://www.youtube.com/channel/UC_kjHoXOkPSSB4HeHNZMq-Q'><img alt="logo" src="/youicon.png" style={{width:"16px"}}/></a>
         </Flex>
         </InnerDiv3>
         
