@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  mm19: {
+    symbol: 'MM19',
+    address: {
+      56: '0x3c19956E1EC649831a3728934145D557778D48Eb',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   shib: {
     symbol: 'SHIB',
     address: {

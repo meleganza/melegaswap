@@ -158,6 +158,15 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     }
+    ,
+    {
+      "name": "MM19",
+      "symbol": "MM19",
+      "address": "0x3c19956E1EC649831a3728934145D557778D48Eb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x3c19956E1EC649831a3728934145D557778D48Eb.png"
+    }
     
   ]
 }
