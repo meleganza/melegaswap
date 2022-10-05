@@ -5,7 +5,7 @@ export const DEFAULT_META: PageMeta = {
   title: 'MelegaSwap',
   description:
     'The most popular AMM on BSC by user count! Earn MARCO through yield farming or win it in the Lottery, then stake it in MARCO Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by MelegaSwap), NFTs, and more, on a platform you can trust.',
-  image: 'https://melega.finance/images/hero.png',
+  image: 'https://melega.finance/logo.png',
 }
 
 export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {
