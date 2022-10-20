@@ -10,7 +10,9 @@ import { getAddress } from '../addressHelpers'
  * Returns the total number of pools that were active at a given block
  */
 export const getActivePools = async (block?: number) => {
+  
   const eligiblePools = pools
+  
     .filter((pool) => pool.sousId !== 0)
     .filter((pool) => pool.isFinished === false || pool.isFinished === undefined)
   const blockNumber = block || (await simpleRpcProvider.getBlockNumber())
@@ -18,6 +20,7 @@ export const getActivePools = async (block?: number) => {
     address: getAddress(contractAddress),
     name: 'startBlock',
   }))
+  
   const endBlockCalls = eligiblePools.map(({ contractAddress }) => ({
     address: getAddress(contractAddress),
     name: 'bonusEndBlock',
@@ -36,7 +39,7 @@ export const getActivePools = async (block?: number) => {
     if (startBlock.gte(blockNumber) || endBlock.lte(blockNumber)) {
       return accum
     }
-
+    
     return [...accum, poolCheck]
   }, [])
 }

@@ -39,6 +39,7 @@ const useGetVotingPower = (block?: number, isActive = true): State & { isLoading
       try {
         const blockNumber = block || (await simpleRpcProvider.getBlockNumber())
         const eligiblePools = await getActivePools(blockNumber)
+        
         const poolAddresses = eligiblePools.map(({ contractAddress }) => getAddress(contractAddress))
         const {
           cakeBalance,
@@ -49,7 +50,7 @@ const useGetVotingPower = (block?: number, isActive = true): State & { isLoading
           cakeVaultBalance,
           verificationHash,
         } = await getVotingPower(account, poolAddresses, blockNumber)
-
+        
         if (isActive) {
           setVotingPower((prevVotingPower) => ({
             ...prevVotingPower,
