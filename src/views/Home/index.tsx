@@ -50,8 +50,8 @@ const UserBannerWrapper = styled(Container)`
 
 const Home: React.FC = () => {
   const items=[<a href='/farms'><img className='item' alt="b1" src="./banners/b1.png"/></a>,
-  <a href='/farms'><img className='item' alt="b3" src="./banners/b3.png"/></a>,
-  <a href='/farms'><img className='item' alt="b2" src="./banners/b2.png"/></a>]
+  <a href='/ilo'><img className='item' alt="b3" src="./banners/b3.png"/></a>,
+  <a href='https://www.melegaswap.finance/apply'><img className='item' alt="b2" src="./banners/b2.png"/></a>]
 const items2=[<a href='/pools'><img className='item' alt="b1" src="./banners/sb1.png"/></a>,
 <a href='/pools'><img className='item' alt="b2" src="./banners/sb2.png"/></a>,
 <a href='/pools'><img className='item' alt="b3" src="./banners/sb3.png"/></a>,

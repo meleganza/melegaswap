@@ -116,15 +116,7 @@ const getDisplayApr = (cakeRewardsApr?: number, lpRewardsApr?: number) => {
 }
 
 const Farms: React.FC = () => {
-  const items=[<img className='item' alt="b1" src="./banners/b1.png"/>,
-  <img className='item' alt="b2" src="./banners/b2.png"/>,
-  <img className='item' alt="b3" src="./banners/b3.png"/>,
-  <img className='item' alt="b4" src="./banners/b4.png"/>,
-  <img className='item' alt="b5" src="./banners/b5.png"/>]
-
-  const responsive = {
-    500: { items: 4 }
-};
+ 
   const { path } = useRouteMatch()
   const { pathname } = useLocation()
   const { t } = useTranslation()
