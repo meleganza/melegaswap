@@ -163,6 +163,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  bear: {
+    symbol: 'BEAR',
+    address: {
+      56: '0x6effC3B9eA59a081E7132ad2E491D1AE523394F5',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   gcc2: {
     symbol: '2GCC',
     address: {

@@ -167,6 +167,15 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x3c19956E1EC649831a3728934145D557778D48Eb.png"
     }
+    ,
+    {
+      "name": "TEDDY",
+      "symbol": "BEAR",
+      "address": "0x6effC3B9eA59a081E7132ad2E491D1AE523394F5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x6effC3B9eA59a081E7132ad2E491D1AE523394F5.png"
+    }
     
   ]
 }
