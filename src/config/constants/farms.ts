@@ -290,6 +290,50 @@ const farms: FarmConfig[] = [
     token: tokens.bear,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 26,
+    lpSymbol: 'MARCO-VAI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4c4666572E3A315fA3Cf732E455Da77073ce5b2B',
+    },
+    token: tokens.vai,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 27,
+    lpSymbol: 'MARCO-ETH LP',
+    lpAddresses: {
+      97: '',
+      56: '0x82a1Bb35955a5eAc598665F4255817e13f1E6A7E',
+    },
+    token: tokens.eth,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 28,
+    lpSymbol: 'MARCO-BTCB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x84f6372D7e53C75C2D505Bb6D67aEBf116850A08',
+    },
+    token: tokens.bear,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 29,
+    lpSymbol: 'MARCO-DOT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3bc28dEe541413D37A212C4ccC4b743C6B904c53',
+    },
+    token: tokens.dot,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms

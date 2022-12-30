@@ -176,6 +176,24 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x6effC3B9eA59a081E7132ad2E491D1AE523394F5.png"
     }
+    ,
+    {
+      "name": "Binance-Peg Polkadot Token",
+      "symbol": "DOT",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+    }
+    ,
+    {
+      "name": "VAI Stablecoin",
+      "symbol": "VAI",
+      "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png"
+    }
     
   ]
 }
