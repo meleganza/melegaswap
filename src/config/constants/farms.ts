@@ -320,7 +320,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x84f6372D7e53C75C2D505Bb6D67aEBf116850A08',
     },
-    token: tokens.bear,
+    token: tokens.btcb,
     quoteToken: tokens.cake,
   }
   ,
