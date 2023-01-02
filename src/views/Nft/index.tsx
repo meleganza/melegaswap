@@ -1,6 +1,7 @@
 import { Button, Card, Flex, Heading, Text, useModal } from '@pancakeswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import BigNumber from 'bignumber.js'
+import ConnectWalletButton from 'components/ConnectWalletButton'
 import Page from 'components/Layout/Page'
 import PageHeader from 'components/PageHeader'
 import tokens from 'config/constants/tokens'
@@ -42,6 +43,7 @@ const Nft: React.FC = () => {
   const { account } = useWeb3React()
   const [costMint, setCostMint] = useState("0");
   const [maxmint, setMaxmint] = useState("0");
+  const [ispaused, setIspaused] = useState(true);
   const [isdisable, setIsdisable] = useState(true);
 
   useEffect(()=>{
@@ -50,18 +52,26 @@ const Nft: React.FC = () => {
       const ispause=await contract.paused.call();
       const cost=await contract.costPublic.call();
       const max=await contract.maxMintAmount.call();
-      const uquota=await contract.userquota(account);
-      setUserquota(uquota)
+      
+     setIspaused(ispause);
       setCostMint("".concat(cost))
       setMaxmint("".concat(max))
-      console.log(ispause,uquota!==0)
-      if(max-uquota!==0&&!ispause&&await currencyETH.balanceOf(account)<new BigNumber(costMint).multipliedBy(amountMint))
+      
+      
+    }
+    async function loadData2()
+    {
+      const contract = getDNFTContract(getDNFTAddress());
+      const uquota=await contract.userquota(account);
+      setUserquota(uquota)
+      if(Number(maxmint)-uquota!==0&&!ispaused&&await currencyETH.balanceOf(account)<new BigNumber(costMint).multipliedBy(amountMint))
       setIsdisable(false);
       else
       setIsdisable(true);
     }
-    if(account)
     loadData();
+    if(account)
+    loadData2();
   },[account])
 
   const handleContributeSuccess = async (amount: BigNumber) => {
@@ -129,7 +139,7 @@ const Nft: React.FC = () => {
                 </div>
                 </div>
         <br/>
-        <Button disabled={isdisable}  onClick={onPresentContributeModal}>Mint</Button>
+        {account?<Button disabled={isdisable}  onClick={onPresentContributeModal}>Mint</Button>:<ConnectWalletButton/>}
         
       </FarmCardInnerContainer>
 
