@@ -46,6 +46,8 @@ import masterChef from 'config/abi/masterchef.json'
 import sousChef from 'config/abi/sousChef.json'
 import sousChefV2 from 'config/abi/sousChefV2.json'
 import sousChefBnb from 'config/abi/sousChefBnb.json'
+import NFTAbi from 'config/abi/Nft.json'
+import NftMarketAbi from 'config/abi/NftMarket.json'
 import claimRefundAbi from 'config/abi/claimRefund.json'
 import tradingCompetitionAbi from 'config/abi/tradingCompetition.json'
 import easterNftAbi from 'config/abi/easterNft.json'
@@ -63,7 +65,12 @@ const getContract = (abi: any, address: string, signer?: ethers.Signer | ethers.
   const signerOrProvider = signer ?? simpleRpcProvider
   return new ethers.Contract(address, abi, signerOrProvider)
 }
-
+export const getDNFTContract = (address: string, signer?: ethers.Signer | ethers.providers.Provider) => {
+  return getContract(NFTAbi, address, signer)
+}
+export const getNftMarketContract = (address: string, signer?: ethers.Signer | ethers.providers.Provider) => {
+  return getContract(NftMarketAbi, address, signer)
+}
 export const getBep20Contract = (address: string, signer?: ethers.Signer | ethers.providers.Provider) => {
   return getContract(bep20Abi, address, signer)
 }

@@ -29,6 +29,12 @@ export const getNftStakingcraneAddress = () => {
 export const getDNFTcraneAddress = () => {
   return getAddress(addresses.dragonNftcrane)
 }
+export const getDNFTAddress = () => {
+  return getAddress(addresses.Nft)
+}
+export const getNftMarketAddress = () => {
+  return getAddress(addresses.nftmarket)
+}
 export const getLotteryV2Address = () => {
   return getAddress(addresses.lotteryV2)
 }

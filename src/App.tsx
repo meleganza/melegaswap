@@ -8,6 +8,7 @@ import { usePollCoreFarmData } from 'state/farms/hooks'
 import { useFetchProfile } from 'state/profile/hooks'
 import { DatePickerPortal } from 'components/DatePicker'
 import { RedirectToSellcrane } from 'views/Nftcrane/Redirects'
+import { RedirectToBuy, RedirectToSell } from 'views/Nft/Redirects'
 import GlobalStyle from './style/Global'
 import Menu from './components/Menu'
 import SuspenseWithChunkError from './components/SuspenseWithChunkError'
@@ -25,6 +26,7 @@ import {
 } from './views/AddLiquidity/redirects'
 import RedirectOldRemoveLiquidityPathStructure from './views/RemoveLiquidity/redirects'
 import { RedirectPathToSwapOnly, RedirectToSwap } from './views/Swap/redirects'
+
 
 // Route-based code splitting
 // Only pool is included in the main bundle because of it's the most visited page
@@ -50,6 +52,9 @@ const PoolFinder = lazy(() => import('./views/PoolFinder'))
 const RemoveLiquidity = lazy(() => import('./views/RemoveLiquidity'))
 const ViewNFTscrane = lazy(() => import('./views/Nftcrane/ViewNFTs'))
 const NftStakingcrane = lazy(() => import('./views/Nftcrane/staking'))
+const Nft = lazy(() => import('./views/Nft'))
+const ViewNFTs = lazy(() => import('./views/Nft/ViewNFTs'))
+const NftMarket = lazy(() => import('./views/Nft/market'))
 // This config is required for number formatting
 BigNumber.config({
   EXPONENTIAL_AT: 1000,
@@ -78,6 +83,22 @@ const App: React.FC = () => {
             </Route>
             <Route path="/pools">
               <Pools />
+            </Route>
+
+            <Route path="/viewNFTs">
+              <ViewNFTs />
+            </Route>
+            
+            <Route path="/sellNFT" component={RedirectToSell}/>
+            <Route path="/buyNFT" component={RedirectToBuy}/>
+            
+            <Route path="/nft">
+              <Nft />
+            </Route>
+            
+           
+            <Route path="/nftmarket">
+              <NftMarket />
             </Route>
            
             {/* Using this format because these components use routes injected props. We need to rework them with hooks */}

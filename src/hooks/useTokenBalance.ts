@@ -137,4 +137,30 @@ export const useGetETHBalance = () => {
   return { balance, fetchStatus, refresh: setLastUpdated }
 }
 
+export const useGetBabyMarcoBalance = () => {
+  const [fetchStatus, setFetchStatus] = useState(FetchStatus.NOT_FETCHED)
+  const [balance, setBalance] = useState(BIG_ZERO)
+  const { account,library } = useWeb3React()
+  const { lastUpdated, setLastUpdated } = useLastUpdated()
+
+  useEffect(() => {
+    const fetchBalance = async () => {
+      try {
+        const currency1contract=getBep20Contract(tokens.cake.address[97]);
+        const walletBalance = await currency1contract.balanceOf(account)
+        setBalance(new BigNumber(walletBalance.toString()))
+        setFetchStatus(FetchStatus.SUCCESS)
+      } catch {
+        setFetchStatus(FetchStatus.FAILED)
+      }
+    }
+
+    if (account) {
+      fetchBalance()
+    }
+  }, [account, lastUpdated, setBalance, setFetchStatus,library])
+
+  return { balance, fetchStatus, refresh: setLastUpdated }
+}
+
 export default useTokenBalance

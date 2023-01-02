@@ -28,6 +28,8 @@ import {
   getDNFTcraneContract,
   getIfoV3Contract,
   getwrappedBNBContract,
+  getDNFTContract,
+  getNftMarketContract,
 } from 'utils/contractHelpers'
 import { getMulticallAddress } from 'utils/addressHelpers'
 
@@ -51,7 +53,14 @@ export const useIfoV1Contract = (address: string) => {
   const { library } = useActiveWeb3React()
   return useMemo(() => getIfoV1Contract(address, library.getSigner()), [address, library])
 }
-
+export const useDNFTContract = (address: string) => {
+  const { library } = useActiveWeb3React()
+  return useMemo(() => getDNFTContract(address, library.getSigner()), [address, library])
+}
+export const useNftMarketContract = (address: string) => {
+  const { library } = useActiveWeb3React()
+  return useMemo(() => getNftMarketContract(address, library.getSigner()), [address, library])
+}
 export const useIfoV2Contract = (address: string) => {
   const { library } = useActiveWeb3React()
   return useMemo(() => getIfoV2Contract(address, library.getSigner()), [address, library])
