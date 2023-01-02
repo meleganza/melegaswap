@@ -51,7 +51,7 @@ const handleContributeSuccess = async (amount: BigNumber) => {
   
       toastSuccess(
         t('Success!'),
-        t('You have contributed to this Market!'),
+        t('NFT transaction successfully completed!'),
       )
     }
     const [onPresentContributeModal] = useModal(
