@@ -821,6 +821,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://venus.io/',
   },
+  babymarco: {
+    symbol: 'BABYMARCO',
+    address: {
+      56: '0x055135F0470C4C8d7C88a576f892ac60c3f70316',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   wbnb: {
     symbol: 'wBNB',
     address: {

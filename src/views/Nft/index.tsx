@@ -11,7 +11,7 @@ import useToast from 'hooks/useToast'
 import React, { useEffect, useCallback, useState, useMemo, useRef } from 'react'
 import styled from 'styled-components'
 import { getDNFTAddress } from 'utils/addressHelpers'
-import { getDNFTContract } from 'utils/contractHelpers'
+import { getBep20Contract, getDNFTContract } from 'utils/contractHelpers'
 import MintModal from './MintModal'
 import Timer from './Timer'
 
@@ -39,11 +39,9 @@ const Nft: React.FC = () => {
   const [userquota, setUserquota] = useState(0);
   const { toastError, toastSuccess } = useToast()
   const writeContract=useDNFTContract(getDNFTAddress());
-  const currencyETH=useERC20(tokens.cake.address[97]);
   const { account } = useWeb3React()
   const [costMint, setCostMint] = useState("0");
   const [maxmint, setMaxmint] = useState("0");
-  const [ispaused, setIspaused] = useState(true);
   const [isdisable, setIsdisable] = useState(true);
 
   useEffect(()=>{
@@ -53,29 +51,26 @@ const Nft: React.FC = () => {
       const cost=await contract.costPublic.call();
       const max=await contract.maxMintAmount.call();
       
-     setIspaused(ispause);
       setCostMint("".concat(cost))
       setMaxmint("".concat(max))
       
-      
-    }
-    async function loadData2()
-    {
-      const contract = getDNFTContract(getDNFTAddress());
-      const uquota=await contract.userquota(account);
+      if(account)
+      {
+        const uquota=await contract.userquota(account);
       setUserquota(uquota)
-      if(Number(maxmint)-uquota!==0&&!ispaused&&await currencyETH.balanceOf(account)<new BigNumber(costMint).multipliedBy(amountMint))
+  const currencyETH=getBep20Contract(tokens.babymarco.address[56]);
+      const mybal=await currencyETH.balanceOf(account)
+      console.log(ispause,uquota!==0,account,mybal,costMint,amountMint)
+      
+      if(max-uquota!==0&&!ispause&&mybal<new BigNumber(costMint).multipliedBy(amountMint))
       setIsdisable(false);
       else
       setIsdisable(true);
+      }
     }
-    async function mainload()
-    {
-      await loadData();
-    if(account)
-    loadData2();
-    }
-    mainload();
+        loadData();
+     
+    
   },[account])
 
   const handleContributeSuccess = async (amount: BigNumber) => {

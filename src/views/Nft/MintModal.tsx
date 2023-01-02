@@ -43,7 +43,7 @@ const MintModal: React.FC<Props> = ({
   console.log(userCurrencyBalance)
   console.log("------------------1")
   const contract=useDNFTContract(getDNFTAddress());
-  const currencyETH=useERC20(tokens.cake.address[97]);
+  const currencyETH=useERC20(tokens.babymarco.address[56]);
   
   const { t } = useTranslation()
   const valueWithTokenDecimals = new BigNumber(value).times(DEFAULT_TOKEN_DECIMAL)

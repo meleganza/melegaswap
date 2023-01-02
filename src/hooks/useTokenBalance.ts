@@ -146,7 +146,7 @@ export const useGetBabyMarcoBalance = () => {
   useEffect(() => {
     const fetchBalance = async () => {
       try {
-        const currency1contract=getBep20Contract(tokens.cake.address[97]);
+        const currency1contract=getBep20Contract(tokens.babymarco.address[56]);
         const walletBalance = await currency1contract.balanceOf(account)
         setBalance(new BigNumber(walletBalance.toString()))
         setFetchStatus(FetchStatus.SUCCESS)

@@ -36,7 +36,7 @@ const BuyModal: React.FC<Props> = ({
 }) => {
   const [value, setValue] = useState('')
   const { account } = useWeb3React()
-  const currency=useERC20(tokens.cake.address[97]);
+  const currency=useERC20(tokens.babymarco.address[56]);
   const contract=useNftMarketContract(getNftMarketAddress());
   const { toastError, toastSuccess } = useToast()
   const hist=useHistory();
@@ -50,7 +50,7 @@ const BuyModal: React.FC<Props> = ({
     async function loaddata() {
      if(account)
       {
-        const cur=getBep20Contract(tokens.cake.address[97]);
+        const cur=getBep20Contract(tokens.babymarco.address[56]);
       const allowance=await cur.allowance(account,getNftMarketAddress())
       const nftmarket=getNftMarketContract(getNftMarketAddress());
       const res=await nftmarket.NftInfos(tid)
