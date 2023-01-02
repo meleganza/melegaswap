@@ -69,9 +69,13 @@ const Nft: React.FC = () => {
       else
       setIsdisable(true);
     }
-    loadData();
+    async function mainload()
+    {
+      await loadData();
     if(account)
     loadData2();
+    }
+    mainload();
   },[account])
 
   const handleContributeSuccess = async (amount: BigNumber) => {
