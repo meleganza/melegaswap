@@ -60,9 +60,9 @@ const Nft: React.FC = () => {
       setUserquota(uquota)
   const currencyETH=getBep20Contract(tokens.babymarco.address[56]);
       const mybal=await currencyETH.balanceOf(account)
-      console.log(ispause,uquota!==0,account,mybal,costMint,amountMint)
+      console.log(max-uquota!==0,!ispause,account,mybal.toString(),costMint,amountMint)
       
-      if(max-uquota!==0&&!ispause&&mybal<new BigNumber(costMint).multipliedBy(amountMint))
+      if(max-uquota!==0&&!ispause&&mybal>=new BigNumber(costMint).multipliedBy(amountMint))
       setIsdisable(false);
       else
       setIsdisable(true);
