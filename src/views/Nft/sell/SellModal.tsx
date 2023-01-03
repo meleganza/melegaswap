@@ -55,7 +55,7 @@ const SellModal: React.FC<Props> = ({
   },[contract,tid])
 
   return (
-    <Modal title={t('', { })} onDismiss={onDismiss}>
+    <Modal title={t('Set your NFT price in BabyMarco', { })} onDismiss={onDismiss}>
       <ModalBody maxWidth="350px">
         
         
