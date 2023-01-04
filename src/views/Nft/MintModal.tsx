@@ -64,20 +64,16 @@ const MintModal: React.FC<Props> = ({
   },[account])
 
   return (
-    <Modal title={t('', { })} onDismiss={onDismiss}>
+    <Modal title={t('Minting', { })} onDismiss={onDismiss}>
       <ModalBody maxWidth="350px">
         
         
       
-        <Text color="textSubtle" textAlign="right" fontSize="12px" mb="16px">
+        <Text color="textSubtle" textAlign="left" fontSize="12px" mb="16px">
           {t('Balance: ')+getFullDisplayBalance(userCurrencyBalance, 18, 6)}
         </Text>
        
-        <Text color="textSubtle" fontSize="12px" mb="24px">
-          {t(
-            'If you don\'t commit enough BABYMARCO tokens, you may not mint any NFT at all and will only receive a full refund of your BABYMARCO.',
-          )}
-        </Text>
+        
         <Button
         display={steps===1?"block":"none"}
           disabled={isDisable}

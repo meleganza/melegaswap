@@ -68,6 +68,11 @@ const ViewNFTs: React.FC = () => {
       {
         const res=await gmarketcontract.getList()
         const alldata=[];
+        console.log(res.length)
+        if(res.length===0)
+        setMystate(<Text style={{"textAlign":"center",width:"100%"}}>Currently there is no BabyMarco NFT listed in the market.</Text>)
+        else
+        {
         for(let i=0;i<res.length;i++)
         {
             const uri=await contract.tokenURI(res[i].tokenId);
@@ -146,6 +151,7 @@ const ViewNFTs: React.FC = () => {
             
         }
          setMystate(alldata);
+        }
       }
     }
     loadData();
@@ -159,10 +165,10 @@ const ViewNFTs: React.FC = () => {
     <>
       <PageHeader>
         <Heading as="h1" scale="xxl" color="secondary" mb="24px">
-          {t('Market')}
+          {t('BabyMarco NFT Marketplace')}
         </Heading>
         <Heading scale="lg" color="text">
-          {t('Buy your NFTs')}
+          {t('Buy and sell BabyMarco NFTs')}
         </Heading>
         
       </PageHeader>

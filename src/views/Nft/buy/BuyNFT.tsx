@@ -178,10 +178,10 @@ const handleContributeSuccess = async (amount: BigNumber) => {
     <>
       <PageHeader>
         <Heading as="h1" scale="xxl" color="secondary" mb="24px">
-          {t('NFTs')}
+          {t('BabyMarco NFT Marketplace')}
         </Heading>
         <Heading scale="lg" color="text">
-          {t('Buy your NFTs')}
+          {t('Buy and sell BabyMarco NFTs')}
         </Heading>
         
       </PageHeader>

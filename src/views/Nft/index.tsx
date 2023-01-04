@@ -94,7 +94,7 @@ const Nft: React.FC = () => {
     <>
       <PageHeader>
         <Heading as="h1" scale="xxl" color="secondary" mb="24px">
-          {t('NFTs')}
+          {t('BabyMarco NFT Mining Page')}
         </Heading>
         <br/>
         <p style={{"color":"#fff"}}>Note: To Purchase BabyMarco NFT Directly, there will be two transaction confirmations that you will need to approve on Metamask. Once these transactions are Approved, the deal will be completed. Thank you and Welcome to BabyMarco Town!</p>
@@ -103,7 +103,7 @@ const Nft: React.FC = () => {
       <Page style={{textAlign:"center",width:"300px"}}>
         <StyledCard isActive={!false}>
       <FarmCardInnerContainer>
-      <img alt="banner" src="/banners/b3.png"/>
+      <img alt="banner" src="/nftbanner.gif"/>
         <Timer msg={isdisable?"false":"true"}/>
         <br/>
         <Flex justifyContent="space-between">

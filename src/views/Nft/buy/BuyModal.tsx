@@ -68,7 +68,7 @@ const BuyModal: React.FC<Props> = ({
   },[account])
 
   return (
-    <Modal title={t('', { })} onDismiss={onDismiss}>
+    <Modal title={t('Buying', { })} onDismiss={onDismiss}>
       <ModalBody maxWidth="350px">
         
         

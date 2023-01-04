@@ -55,10 +55,12 @@ const SellModal: React.FC<Props> = ({
   },[contract,tid])
 
   return (
-    <Modal title={t('Set your NFT price in BabyMarco', { })} onDismiss={onDismiss}>
+    <Modal title={t('Listing', { })} onDismiss={onDismiss}>
       <ModalBody maxWidth="350px">
         
-        
+      <Text color="textSubtle" textAlign="left" fontSize="12px" mb="16px">
+          {t('Set your NFT price:')}
+        </Text>
         <BalanceInput
           value={value}
           onUserInput={async e=>{

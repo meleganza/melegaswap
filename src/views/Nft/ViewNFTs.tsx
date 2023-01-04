@@ -66,6 +66,10 @@ const ViewNFTs: React.FC = () => {
         const len=nftsids.length;
         
         const alldata=[];
+        if(len===0)
+        setMystate(<Text style={{"textAlign":"center",width:"100%"}}>No BabyMarco NFTs have been found in your wallet yet.</Text>)
+        else
+        {
         for(let i=0;i<len;i++)
         {
             const uri=await contract.tokenURI(nftsids[i]);
@@ -140,6 +144,7 @@ const ViewNFTs: React.FC = () => {
         }
          setMystate(alldata);
       }
+      }
     }
     if(account)
     loadData();
@@ -153,10 +158,10 @@ const ViewNFTs: React.FC = () => {
     <>
       <PageHeader>
         <Heading as="h1" scale="xxl" color="secondary" mb="24px">
-          {t('NFTs')}
+          {t('BabyMarco NFT Wallet')}
         </Heading>
         <Heading scale="lg" color="text">
-          {t('All your NFTs')}
+          {t('Here you will find all your mined or bought BabyMarco NFTs')}
         </Heading>
         
       </PageHeader>
