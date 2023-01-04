@@ -161,7 +161,7 @@ const ViewNFTs: React.FC = () => {
           {t('BabyMarco NFT Wallet')}
         </Heading>
         <Heading scale="lg" color="text">
-          {t('Here you will find all your mined or bought BabyMarco NFTs')}
+          {t('Here you will find all your minted or bought BabyMarco NFTs')}
         </Heading>
         
       </PageHeader>
