@@ -94,7 +94,7 @@ const Nft: React.FC = () => {
     <>
       <PageHeader>
         <Heading as="h1" scale="xxl" color="secondary" mb="24px">
-          {t('BabyMarco NFT Mining Page')}
+          {t('BabyMarco NFT Minting Page')}
         </Heading>
         <br/>
         <p style={{"color":"#fff"}}>Note: To Purchase BabyMarco NFT Directly, there will be two transaction confirmations that you will need to approve on Metamask. Once these transactions are Approved, the deal will be completed. Thank you and Welcome to BabyMarco Town!</p>
