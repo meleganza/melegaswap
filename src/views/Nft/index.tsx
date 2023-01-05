@@ -17,7 +17,14 @@ import Timer from './Timer'
 
 const StyledCard = styled(Card)`
   align-self: center;
-  width:300px;
+  
+  @media screen and (min-width: 700px) {
+    margin-top:2%;
+  margin-bottom:2%;
+  margin-left:20%;
+  margin-right:20%;
+  }
+  
 `
 
 const FarmCardInnerContainer = styled(Flex)`
@@ -92,6 +99,7 @@ const Nft: React.FC = () => {
 
   return (
     <>
+    <img alt="topbanner" src="/1920640.png"/>
       <PageHeader>
         <Heading as="h1" scale="xxl" color="secondary" mb="24px">
           {t('BabyMarco NFT Minting Page')}
@@ -100,7 +108,7 @@ const Nft: React.FC = () => {
         <p style={{"color":"#fff"}}>Note: To Purchase BabyMarco NFT Directly, there will be two transaction confirmations that you will need to approve on Metamask. Once these transactions are Approved, the deal will be completed. Thank you and Welcome to BabyMarco Town!</p>
       
       </PageHeader>
-      <Page style={{textAlign:"center",width:"300px"}}>
+      <Page style={{textAlign:"center"}}>
         <StyledCard isActive={!false}>
       <FarmCardInnerContainer>
       <img alt="banner" src="/nftbanner.gif"/>
@@ -121,8 +129,8 @@ const Nft: React.FC = () => {
           <Text bold>{Number(maxmint)- userquota} NFT</Text>
         </Flex>
         <br/>
-        <div style={{display:"block", width:"300px",textAlign:"center"}}>
-                   <div style={{display:"flex", width:"260px",marginLeft:"30px",textAlign:"center"}}>
+        <div style={{ width:"100%",textAlign:"center"}}>
+                   <div style={{display:"flex",justifyContent:"center"}}>
                     <button  type='button' style={{marginLeft:"30px",marginRight:"30px",borderRadius:"10px",width:"30px",height:"30px",borderColor:"#fff", fontSize:"15px",fontWeight:"bolder"}} onClick={()=>{
                       if(amountMint>1)
                       setAmountMint(amountMint-1)

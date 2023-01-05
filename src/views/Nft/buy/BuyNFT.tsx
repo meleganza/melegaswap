@@ -176,6 +176,7 @@ const handleContributeSuccess = async (amount: BigNumber) => {
 
   return (
     <>
+    <img alt="topbanner" src="/1920640.png"/>
       <PageHeader>
         <Heading as="h1" scale="xxl" color="secondary" mb="24px">
           {t('BabyMarco NFT Marketplace')}
