@@ -43,7 +43,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     items: [
       
       {
-        label: t('Minting'),
+        label: t('MINT IT NOW'),
         href: '/nft',
       },
       {
