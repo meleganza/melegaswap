@@ -101,20 +101,20 @@ const Nft: React.FC = () => {
     <>
     <img alt="topbanner" src="/1920640.png"/>
     <div style={{display:"flex",margin:"1rem", float:"right"}}>
-      <a href="/"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./webicon.png'/></a>
-      <a href="/"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./teleicon.png'/></a>
-      <a href="/"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./twiticon.png'/></a>
-      <a href="/"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./instaicon.png'/></a>
+      <a href="https://www.melegaswap.finance/babymarco"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./webicon.png'/></a>
+      <a href="https://t.me/melegacommunity"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./teleicon.png'/></a>
+      <a href="https://twitter.com/mlegacy"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./twiticon.png'/></a>
+      <a href="https://www.instagram.com/melega.finance/"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./instaicon.png'/></a>
     </div>
       <PageHeader >
-        <Heading style={{textAlign:"center"}} as="h1" scale="xxl" color="secondary" m="24px">
+        <Heading style={{textAlign:"left"}} as="h1" scale="xxl" color="secondary" m="24px">
           {t('BabyMarco NFT Minting Page')}
         </Heading>
         <br/>
-        <p style={{"color":"#fff"}}>Mint and collect the BabyMarco NFTs. The first collection is limited to 1,000 pieces and is FREE ROYALTIES. It is characterized by rarity. You can find NORMAL, RARE, SUPER RARE or SUPER SUPER RARE pieces.</p>
-        <p style={{"color":"#fff"}}>Ownership of BabyMarco NFT will entitle you to priority participation in $BabyMarco&apos;s Airdrops as well as voting rights in the Melega DAO.</p>
+        <p style={{"color":"#fff" , margin:"24px"}}>Mint and collect the BabyMarco NFTs. The first collection is limited to 1,000 pieces and is FREE ROYALTIES. It is characterized by rarity. You can find NORMAL, RARE, SUPER RARE or SUPER SUPER RARE pieces.</p>
+        <p style={{"color":"#fff", margin:"24px"}}>Ownership of BabyMarco NFT will entitle you to priority participation in $BabyMarco&apos;s Airdrops as well as voting rights in the Melega DAO.</p>
         <br/>
-        <p style={{"color":"#fff"}}>Note: To Purchase BabyMarco NFT Directly, there will be two transaction confirmations that you will need to approve on Metamask. Once these transactions are Approved, the deal will be completed. Thank you and Welcome to BabyMarco Town!</p>
+        <p style={{"color":"#fff", margin:"24px"}}>Note: To Purchase BabyMarco NFT Directly, there will be two transaction confirmations that you will need to approve on Metamask. Once these transactions are Approved, the deal will be completed. Thank you and Welcome to BabyMarco Town!</p>
       
       </PageHeader>
       <Page style={{textAlign:"center"}}>

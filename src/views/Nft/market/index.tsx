@@ -10,7 +10,7 @@ import { useDNFTContract, useERC20, useNftMarketContract } from 'hooks/useContra
 import useToast from 'hooks/useToast'
 import { startsWith } from 'lodash'
 import React, { useEffect, useCallback, useState, useMemo, useRef } from 'react'
-import { Route, useHistory } from 'react-router-dom'
+import { Link, Route, useHistory } from 'react-router-dom'
 import styled from 'styled-components'
 import { getCakeAddress, getDNFTAddress, getNftMarketAddress } from 'utils/addressHelpers'
 import { getDNFTContract, getNftMarketContract } from 'utils/contractHelpers'
@@ -70,7 +70,7 @@ const ViewNFTs: React.FC = () => {
         const alldata=[];
         console.log(res.length)
         if(res.length===0)
-        setMystate(<Text style={{"textAlign":"center",width:"100%"}}>Currently there is no BabyMarco NFT listed in the market.</Text>)
+        setMystate(<div style={{"textAlign":"center",width:"100%"}}><div style={{border:"1px solid white",padding:"2rem"}}><Text style={{margin:"1rem"}}>No BabyMarco NFTs have been found in the marketplace yet.</Text><Link style={{border:"2px solid white",borderRadius:"10px",color:"#fff",padding:"2px"}} to="/nft">MINT IT NOW</Link></div></div>)
         else
         {
         for(let i=0;i<res.length;i++)

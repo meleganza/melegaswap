@@ -3,13 +3,14 @@ import { useWeb3React } from '@web3-react/core'
 import axios from 'axios'
 
 import BigNumber from 'bignumber.js'
+import ConnectWalletButton from 'components/ConnectWalletButton'
 import Page from 'components/Layout/Page'
 import PageHeader from 'components/PageHeader'
 import { useTranslation } from 'contexts/Localization'
 import { useDNFTContract } from 'hooks/useContract'
 import useToast from 'hooks/useToast'
 import React, { useEffect, useCallback, useState, useMemo, useRef } from 'react'
-import { Route, useHistory } from 'react-router-dom'
+import { Link, Route, useHistory } from 'react-router-dom'
 import styled from 'styled-components'
 import { getDNFTAddress } from 'utils/addressHelpers'
 import { getDNFTContract } from 'utils/contractHelpers'
@@ -67,7 +68,7 @@ const ViewNFTs: React.FC = () => {
         
         const alldata=[];
         if(len===0)
-        setMystate(<Text style={{"textAlign":"center",width:"100%"}}>No BabyMarco NFTs have been found in your wallet yet.</Text>)
+        setMystate(<div style={{"textAlign":"center",width:"100%"}}><div style={{border:"1px solid white",padding:"2rem"}}><Text style={{margin:"1rem"}}>No BabyMarco NFTs have been found in your wallet yet.</Text><Link style={{border:"2px solid white",borderRadius:"10px",color:"#fff",padding:"2px"}} to="/nft">MINT IT NOW</Link></div></div>)
         else
         {
         for(let i=0;i<len;i++)
@@ -145,9 +146,12 @@ const ViewNFTs: React.FC = () => {
          setMystate(alldata);
       }
       }
+      
     }
     if(account)
     loadData();
+    else
+      setMystate(<div style={{"textAlign":"center",width:"100%"}}><ConnectWalletButton/></div>)
   },[account])
 
  
