@@ -68,7 +68,7 @@ const ViewNFTs: React.FC = () => {
         
         const alldata=[];
         if(len===0)
-        setMystate(<div style={{"textAlign":"center",width:"100%"}}><div style={{border:"1px solid white",padding:"2rem"}}><Text style={{margin:"1rem"}}>No BabyMarco NFTs have been found in your wallet yet.</Text><Link style={{border:"2px solid white",borderRadius:"10px",color:"#fff",padding:"2px"}} to="/nft">MINT IT NOW</Link></div></div>)
+        setMystate(<div style={{"textAlign":"center",width:"100%"}}><div style={{border:"1px solid white",padding:"2rem"}}><Text style={{margin:"1rem"}}>No BabyMarco NFTs have been found in your wallet yet.</Text><a  href="/nft"><img style={{width:"auto",height:"3rem"}} alt="mint" src="/mint.png"/></a></div></div>)
         else
         {
         for(let i=0;i<len;i++)

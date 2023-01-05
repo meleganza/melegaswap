@@ -103,7 +103,7 @@ const Nft: React.FC = () => {
     <div style={{display:"flex",margin:"1rem", float:"right"}}>
       <a href="https://www.melegaswap.finance/babymarco"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./webicon.png'/></a>
       <a href="https://t.me/melegacommunity"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./teleicon.png'/></a>
-      <a href="https://twitter.com/mlegacy"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./twiticon.png'/></a>
+      <a href="https://twitter.com/meleganza"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./twiticon.png'/></a>
       <a href="https://www.instagram.com/melega.finance/"><img alt="ins" style={{width:"30px",height:"30px",margin:"1rem"}} src='./instaicon.png'/></a>
     </div>
       <PageHeader >
