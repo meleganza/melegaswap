@@ -334,6 +334,17 @@ const farms: FarmConfig[] = [
     token: tokens.dot,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 30,
+    lpSymbol: 'VOLT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xf1D2a396848d81616d650b099ddD639331b552b1',
+    },
+    token: tokens.volt,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

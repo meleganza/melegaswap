@@ -145,6 +145,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  volt: {
+    symbol: 'VOLT',
+    address: {
+      56: '0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://voltinu.in/',
+  },
   mm72: {
     symbol: 'MM72',
     address: {

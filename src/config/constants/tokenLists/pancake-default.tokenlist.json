@@ -178,6 +178,15 @@
     }
     ,
     {
+      "name": "Volt Inu",
+      "symbol": "VOLT",
+      "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac.png"
+    }
+    ,
+    {
       "name": "Binance-Peg Polkadot Token",
       "symbol": "DOT",
       "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
