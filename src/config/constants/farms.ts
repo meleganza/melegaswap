@@ -344,6 +344,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.volt,
     quoteToken: tokens.wbnb,
+  },
+  {
+    pid: 31,
+    lpSymbol: 'VOLT-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0xf1D2a396848d81616d650b099ddD639331b552b1',
+    },
+    token: tokens.volt,
+    quoteToken: tokens.cake,
   }
 ]
 

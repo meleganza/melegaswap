@@ -307,11 +307,11 @@ const pools: PoolConfig[] = [
     earningToken: tokens.volt,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
-      56: '0x247d01695158024521ae06be2bf881de71545320',
+      56: '0xc5c866268b2F02C8074A2bf6dF2908cEe1172A83',
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
-    tokenPerBlock: '1350',
+    tokenPerBlock: '2700',
     sortOrder: 1,
     isFinished: false,
   }
