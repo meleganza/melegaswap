@@ -350,7 +350,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'VOLT-MARCO LP',
     lpAddresses: {
       97: '',
-      56: '0xf1D2a396848d81616d650b099ddD639331b552b1',
+      56: '0xc5c866268b2F02C8074A2bf6dF2908cEe1172A83',
     },
     token: tokens.volt,
     quoteToken: tokens.cake,
