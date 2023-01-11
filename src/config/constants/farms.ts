@@ -354,6 +354,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.volt,
     quoteToken: tokens.cake,
+  },
+  {
+    pid: 32,
+    lpSymbol: 'FBTC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x9152995AEc7C2dEBCc6e2d34c5E30d3d25D4cEa4',
+    },
+    token: tokens.fbtc,
+    quoteToken: tokens.wbnb,
   }
 ]
 

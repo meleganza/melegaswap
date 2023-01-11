@@ -184,6 +184,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac.png"
+    },
+    {
+      "name": "Freebitcoinx",
+      "symbol": "FBTC",
+      "address": "0x39C6dB7f07146A9C4ccdF7e2F7d7A02B5BF61910",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x39C6dB7f07146A9C4ccdF7e2F7d7A02B5BF61910.png"
     }
     ,
     {

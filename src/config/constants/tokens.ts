@@ -145,6 +145,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  fbtc: {
+    symbol: 'FBTC',
+    address: {
+      56: '0x39C6dB7f07146A9C4ccdF7e2F7d7A02B5BF61910',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
   volt: {
     symbol: 'VOLT',
     address: {
