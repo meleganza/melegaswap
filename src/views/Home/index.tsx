@@ -57,7 +57,9 @@ const items2=[<a href='/pools'><img className='item' alt="b1" src="./banners/sb1
 <a href='/pools'><img className='item' alt="b3" src="./banners/sb3.png"/></a>,
 <a href='/pools'><img className='item' alt="b4" src="./banners/sb4.png"/></a>,
 <a href='/pools'><img className='item' alt="b5" src="./banners/sb5.png"/></a>,
-<a href='/pools'><img className='item' alt="b8" src="./banners/sb8.png"/></a>,]
+<a href='/pools'><img className='item' alt="b8" src="./banners/sb8.png"/></a>,
+<a href='/pools'><img className='item' alt="b5" src="./banners/sb6.png"/></a>,
+<a href='/pools'><img className='item' alt="b5" src="./banners/sb7.png"/></a>]
 
   const responsive = {
     500: { items: 3 }

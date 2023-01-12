@@ -365,6 +365,17 @@ const farms: FarmConfig[] = [
     token: tokens.fbtc,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 33,
+    lpSymbol: 'GWT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xDcf86B2472aFd4C16132d9A4C9891A16aF439be5',
+    },
+    token: tokens.gwt,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  gwt: {
+    symbol: 'GWT',
+    address: {
+      56: '0x0cf1460Cceb0a6DE0722E9f932C1ea6F7c54AA35',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   mm19: {
     symbol: 'MM19',
     address: {
