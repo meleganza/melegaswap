@@ -60,6 +60,22 @@ display:flex;
   }
 `
 
+const MaximizeDiv = styled('div')`
+
+display:flex;
+padding:5px;
+flex-direction:column;
+justify-Content:center;
+  ${({ theme }) => theme.mediaQueries.sm} {
+    display:flex;
+padding:5px;
+flex-direction:row;
+justify-Content:space-between;
+
+    
+  }
+`
+
 const emissionsPerBlock = 0.162118
 
 const CakeDataRow = () => {
@@ -76,8 +92,8 @@ const CakeDataRow = () => {
   return (
     <OuterDiv style={{"textAlign":"center",padding:"2rem"}}>
         <InnerDiv1 style={{padding:"1rem",textAlign:"center",border:"1px solid", borderRadius:"1rem"}}>
-        <Flex style={{padding:"5px",width:"100%"}}>
-          <Flex flexDirection="column" style={{width:"40%"}}>
+        <MaximizeDiv >
+          <Flex flexDirection="column" >
           <Flex padding="1rem"  style={{textAlign:"center",alignItems:"center"}}>
             <img alt="logo" src="/logo.png" style={{width:"32px"}}/>
             {cakePriceBusd?<p>&nbsp;&nbsp;&nbsp;$ {cakePriceBusd.toFixed(7)}</p>:<Skeleton/>}
@@ -88,7 +104,7 @@ const CakeDataRow = () => {
             &nbsp;&nbsp;&nbsp;<Link to="/swap"><Button>Buy</Button></Link>
           </Flex>
           </Flex>
-          <Flex paddingLeft="2rem" flexDirection="column" style={{width:"60%"}}>
+          <Flex  flexDirection="column">
           <Flex padding="1rem" justifyContent="space-between" style={{textAlign:"center",alignItems:"center"}}>
             <p>Max Supply:</p>{totalSupply?<p>{totalSupply.div('1000000000000000000').toString()}</p>:<Skeleton/>}
           </Flex>
@@ -96,10 +112,10 @@ const CakeDataRow = () => {
             <p>Market Cap:</p>{mcap?<p>{mcapString}</p>:<Skeleton/>}
           </Flex>
           <Flex padding="1rem" justifyContent="space-between" style={{textAlign:"center",alignItems:"center"}}>
-            <p>Total Burned:</p>{burnedBalance?<p>{burnedBalance.toString()}</p>:<Skeleton/>}
+            <p>Total Burned:</p>{burnedBalance?<p>&nbsp;{burnedBalance.toString()}</p>:<Skeleton/>}
           </Flex>
           </Flex>
-        </Flex>
+        </MaximizeDiv>
         
         </InnerDiv1>
         <br/>

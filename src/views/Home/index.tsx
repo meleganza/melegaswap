@@ -49,29 +49,38 @@ const UserBannerWrapper = styled(Container)`
 
 
 const Home: React.FC = () => {
-  const items=[<a href='/farms'><img className='item' alt="b1" src="./banners/b1.png"/></a>,
+  const items=[
+  <a href='/farms'><img className='item' alt="b1" src="./banners/b1.png"/></a>,
   <a href='/ilo'><img className='item' alt="b3" src="./banners/b3.png"/></a>,
-  <a href='https://www.melegaswap.finance/apply'><img className='item' alt="b2" src="./banners/b2.png"/></a>]
-const items2=[<a href='/pools'><img className='item' alt="b1" src="./banners/sb1.png"/></a>,
+  <a href='https://www.melegaswap.finance/apply'><img className='item' alt="b2" src="./banners/b2.png"/></a>
+]
+const items2=[
+<a href='/pools'><img className='item' alt="b1" src="./banners/sb1.png"/></a>,
 <a href='/pools'><img className='item' alt="b2" src="./banners/sb2.png"/></a>,
 <a href='/pools'><img className='item' alt="b3" src="./banners/sb3.png"/></a>,
 <a href='/pools'><img className='item' alt="b4" src="./banners/sb4.png"/></a>,
 <a href='/pools'><img className='item' alt="b5" src="./banners/sb5.png"/></a>,
-<a href='/pools'><img className='item' alt="b8" src="./banners/sb8.png"/></a>,
-<a href='/pools'><img className='item' alt="b5" src="./banners/sb6.png"/></a>,
-<a href='/pools'><img className='item' alt="b5" src="./banners/sb7.png"/></a>]
+<a href='/pools'><img className='item' alt="b6" src="./banners/sb6.png"/></a>,
+<a href='/pools'><img className='item' alt="b7" src="./banners/sb7.png"/></a>,
+<a href='/pools'><img className='item' alt="b8" src="./banners/sb8.png"/></a>
 
-  const responsive = {
-    500: { items: 3 }
-};
-const responsive2 = {
-  500: { items: 4 }
-};
-  const { theme } = useTheme()
-  const { account } = useWeb3React()
 
-  const HomeSectionContainerStyles = { margin: '0', width: '100%', maxWidth: '968px' }
 
+]
+const responsive={
+  
+  1024: {
+      items: 3,
+      itemsFit: 'contain',
+  }
+}
+const responsive2={
+  
+  1024: {
+      items: 4,
+      itemsFit: 'contain',
+  }
+}
   return (
     <>
     
@@ -82,15 +91,15 @@ const responsive2 = {
 
       <div className="container">
         
-        <AliceCarousel disableButtonsControls={!false} disableDotsControls={!false}  responsive={responsive} autoPlay={!false}  items={items}/>
+        <AliceCarousel name='banner' disableButtonsControls={!false} disableDotsControls={!false} responsive={responsive}  autoPlay={!false}  items={items}/>
       
     </div>
     <div style={{margin:"1.5rem"}}>
     <FarmsPoolsRow  />
     </div>
-    <div className="container">
+    <div >
         
-        <AliceCarousel disableButtonsControls={!false} disableDotsControls={!false}  responsive={responsive2} autoPlay={!false}  items={items2}/>
+        <AliceCarousel name='subbanner' disableButtonsControls={!false} disableDotsControls={!false}  responsive={responsive2} autoPlay={!false}  items={items2}/>
       
     </div>
     <br/>
