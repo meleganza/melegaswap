@@ -90,7 +90,7 @@ const responsive2 = {
     </div>
     <div className="container">
         
-        <AliceCarousel disableButtonsControls={!false} disableDotsControls={!false} autoPlayInterval={2000} responsive={responsive2} autoPlay={!false} infinite={!false} items={items2}/>
+        <AliceCarousel disableButtonsControls={!false} disableDotsControls={!false} responsive={responsive2} autoPlay={!false} infinite={!false} items={items2}/>
       
     </div>
     <br/>
