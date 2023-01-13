@@ -378,7 +378,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 34,
-    lpSymbol: 'QCWC-BNB LP',
+    lpSymbol: 'MARCO-QCWC LP',
     lpAddresses: {
       97: '',
       56: '0x4142B4a2857E1D8cD2cdCBCcB5D2fE871c7b4E80',
@@ -388,7 +388,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 35,
-    lpSymbol: 'OSTRICH-BNB LP',
+    lpSymbol: 'MARCO-OSTRICH LP',
     lpAddresses: {
       97: '',
       56: '0x24d0aC1D7a12835d013cb6386F1a13C41fF7F2ce',
