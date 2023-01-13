@@ -214,6 +214,13 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xFd0a4f965a6F70426053B575FD190E464aa3C5AE.png"
+    },{
+      "name": "koalabear",
+      "symbol": "KOALA",
+      "address": "0xA1217C0cce65A37E77cF43Af277c0B29D808652c",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xA1217C0cce65A37E77cF43Af277c0B29D808652c.png"
     }
     ,
     {

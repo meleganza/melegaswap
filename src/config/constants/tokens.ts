@@ -72,6 +72,14 @@ const tokens = {
     },
     decimals: 18,
     projectLink: 'https://melega.finance/',
+  },koala: {
+    symbol: 'KOALA',
+    address: {
+      56: '0xA1217C0cce65A37E77cF43Af277c0B29D808652c',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://koabear.net',
   },
   qcwc: {
     symbol: 'QCWC',

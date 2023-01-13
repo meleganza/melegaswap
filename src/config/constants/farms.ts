@@ -396,6 +396,17 @@ const farms: FarmConfig[] = [
     token: tokens.ostrich,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 36,
+    lpSymbol: 'KOALA-USDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xbd19ebeC69eB3D70EAF840a24FC599bba9d1052A',
+    },
+    token: tokens.koala,
+    quoteToken: tokens.usdt,
+  }
 ]
 
 export default farms
