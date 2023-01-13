@@ -373,6 +373,34 @@ const pools: PoolConfig[] = [
     tokenPerBlock: '35',
     sortOrder: 1,
     isFinished: false,
+  },
+  {
+    sousId: 26,
+    stakingToken: tokens.cake,
+    earningToken: tokens.qcwc,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x5d2a3bd3dd873eadc314e119e622b74ecf7d7684',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '1770',
+    sortOrder: 1,
+    isFinished: false,
+  },
+  {
+    sousId: 27,
+    stakingToken: tokens.cake,
+    earningToken: tokens.ostrich,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xeb0dd96bb5ba9b50798ebbe19c67a406204cb555',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '260',
+    sortOrder: 1,
+    isFinished: false,
   }
 ]
 

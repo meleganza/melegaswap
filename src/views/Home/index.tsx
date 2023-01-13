@@ -62,8 +62,9 @@ const items2=[
 <a href='/pools'><img className='item' alt="b5" src="./banners/sb5.png"/></a>,
 <a href='/pools'><img className='item' alt="b6" src="./banners/sb6.png"/></a>,
 <a href='/pools'><img className='item' alt="b7" src="./banners/sb7.png"/></a>,
-<a href='/pools'><img className='item' alt="b8" src="./banners/sb8.png"/></a>
-
+<a href='/pools'><img className='item' alt="b8" src="./banners/sb8.png"/></a>,
+<a href='/pools'><img className='item' alt="b9" src="./banners/sb9.png"/></a>,
+<a href='/pools'><img className='item' alt="b10" src="./banners/sb10.png"/></a>
 
 
 ]

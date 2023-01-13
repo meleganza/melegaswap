@@ -375,6 +375,26 @@ const farms: FarmConfig[] = [
     },
     token: tokens.gwt,
     quoteToken: tokens.wbnb,
+  },
+  {
+    pid: 34,
+    lpSymbol: 'QCWC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4142B4a2857E1D8cD2cdCBCcB5D2fE871c7b4E80',
+    },
+    token: tokens.qcwc,
+    quoteToken: tokens.cake,
+  },
+  {
+    pid: 35,
+    lpSymbol: 'OSTRICH-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x24d0aC1D7a12835d013cb6386F1a13C41fF7F2ce',
+    },
+    token: tokens.ostrich,
+    quoteToken: tokens.cake,
   }
 ]
 

@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  qcwc: {
+    symbol: 'QCWC',
+    address: {
+      56: '0x1Bd7A9D9675385ad78628ec6Bb87e11F578264E8',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  ostrich: {
+    symbol: 'OSTRICH',
+    address: {
+      56: '0xFd0a4f965a6F70426053B575FD190E464aa3C5AE',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   gwt: {
     symbol: 'GWT',
     address: {
