@@ -406,6 +406,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.koala,
     quoteToken: tokens.usdt,
+  } ,
+  {
+    pid: 37,
+    lpSymbol: 'KOALA-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x005ab723E40401dFe81C4d427DA62b4ea89Ec4eA',
+    },
+    token: tokens.koala,
+    quoteToken: tokens.wbnb,
   }
 ]
 

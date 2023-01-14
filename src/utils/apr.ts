@@ -42,6 +42,7 @@ export const getFarmApr = (
     cakeRewardsAprAsNumber = cakeRewardsApr.toNumber()
   }
   const lpRewardsApr = lpAprs[farmAddress?.toLocaleLowerCase()] ?? 0
+  console.log(poolLiquidityUsd.toString())
   return { cakeRewardsApr: cakeRewardsAprAsNumber, lpRewardsApr }
 }
 
