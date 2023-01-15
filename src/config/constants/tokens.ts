@@ -108,6 +108,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  froge: {
+    symbol: 'FROGE',
+    address: {
+      56: '0xe875E0d597A0b71715da182B9A2277bDB4353ADD',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
   mm19: {
     symbol: 'MM19',
     address: {

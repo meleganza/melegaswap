@@ -416,6 +416,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.koala,
     quoteToken: tokens.wbnb,
+  } ,
+  {
+    pid: 38,
+    lpSymbol: 'FROGE-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0xe2c1D33a6b38E750F7C327a75e8bCF801722Fb7d',
+    },
+    token: tokens.froge,
+    quoteToken: tokens.cake,
   }
 ]
 

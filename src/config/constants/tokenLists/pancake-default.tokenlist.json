@@ -222,6 +222,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xA1217C0cce65A37E77cF43Af277c0B29D808652c.png"
     }
+    ,{
+      "name": "EverFrogeInu",
+      "symbol": "FROGE",
+      "address": "0xe875E0d597A0b71715da182B9A2277bDB4353ADD",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xe875E0d597A0b71715da182B9A2277bDB4353ADD.png"
+    }
     ,
     {
       "name": "Binance-Peg Polkadot Token",
