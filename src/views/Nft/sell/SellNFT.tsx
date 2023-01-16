@@ -95,7 +95,7 @@ const handleContributeSuccess = async (amount: BigNumber) => {
                   <Text bold>{resp.data.description.substring(8)}</Text>
                 </Flex>
                 <br/>
-                <img alt="nft" src={"https://red-wonderful-stork-305.mypinata.cloud/ipfs/Qmc3ED4CJoqJiWPS1Nmt8r6JR8vCQWLHGRifZkHDrCKNTD/nft.png".concat(tid).concat(".png")} onError={err=>{err.currentTarget.src="/logo.png"}}/>
+                <img alt="nft" src={"https://red-wonderful-stork-305.mypinata.cloud/ipfs/QmRqb3TUnbxjLPzJqhgKkzpysfFmdsvSdiUBqVYFCKSYxb/DOG".concat(tid).concat(".png")} onError={err=>{err.currentTarget.src="/logo.png"}}/>
                 <br/>
                 <Flex justifyContent="space-between">
                   <Text>Selling Price</Text>
@@ -147,7 +147,7 @@ const handleContributeSuccess = async (amount: BigNumber) => {
                   <Text bold>{resp.desc}</Text>
                 </Flex>
                 <br/>
-                <img alt="nft" src={"https://red-wonderful-stork-305.mypinata.cloud/ipfs/Qmc3ED4CJoqJiWPS1Nmt8r6JR8vCQWLHGRifZkHDrCKNTD/nft.png".concat(tid).concat(".png")} onError={err=>{err.currentTarget.src="/logo.png"}}/>
+                <img alt="nft" src={"https://red-wonderful-stork-305.mypinata.cloud/ipfs/QmRqb3TUnbxjLPzJqhgKkzpysfFmdsvSdiUBqVYFCKSYxb/DOG".concat(tid).concat(".png")} onError={err=>{err.currentTarget.src="/logo.png"}}/>
         <br/>
                 <Flex justifyContent="space-between">
                   <Text>Selling Price</Text>
