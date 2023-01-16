@@ -427,6 +427,17 @@ const farms: FarmConfig[] = [
     token: tokens.froge,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 39,
+    lpSymbol: 'ROTTO-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xef2e91559b3360e5c287fAC62c9034A5ea4AE1E0',
+    },
+    token: tokens.rotto,
+    quoteToken: tokens.busd,
+  }
 ]
 
 export default farms

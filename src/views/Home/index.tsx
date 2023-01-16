@@ -66,8 +66,8 @@ const items2=[
 <a href='/pools'><img className='item' alt="b9" src="./banners/sb9.png"/></a>,
 <a href='/pools'><img className='item' alt="b10" src="./banners/sb10.png"/></a>,
 <a href='/pools'><img className='item' alt="b11" src="./banners/sb11.png"/></a>,
-<a href='/pools'><img className='item' alt="b12" src="./banners/sb12.png"/></a>
-
+<a href='/pools'><img className='item' alt="b12" src="./banners/sb12.png"/></a>,
+<a href='/pools'><img className='item' alt="b13" src="./banners/sb13.png"/></a>
 ]
 const responsive={
   

@@ -72,7 +72,17 @@ const tokens = {
     },
     decimals: 18,
     projectLink: 'https://melega.finance/',
-  },koala: {
+  },
+  rotto: {
+    symbol: 'ROTTO',
+    address: {
+      56: '0x9Ae58314b3e11Bc836eCa62302264b617641c6ed',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
+  koala: {
     symbol: 'KOALA',
     address: {
       56: '0xA1217C0cce65A37E77cF43Af277c0B29D808652c',

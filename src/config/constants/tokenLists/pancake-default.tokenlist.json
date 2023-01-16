@@ -230,6 +230,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xe875E0d597A0b71715da182B9A2277bDB4353ADD.png"
     }
+    ,{
+      "name": "Rottoken",
+      "symbol": "ROTTO",
+      "address": "0x9Ae58314b3e11Bc836eCa62302264b617641c6ed",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x9Ae58314b3e11Bc836eCa62302264b617641c6ed.png"
+    }
     ,
     {
       "name": "Binance-Peg Polkadot Token",
