@@ -238,6 +238,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x9Ae58314b3e11Bc836eCa62302264b617641c6ed.png"
     }
+    ,{
+      "name": "Global payment currency electronic",
+      "symbol": "GPAY",
+      "address": "0xaA3ECC6D3e77Dd33cF259859b0cA58CA93A07A9c",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xaA3ECC6D3e77Dd33cF259859b0cA58CA93A07A9c.png"
+    }
     ,
     {
       "name": "Binance-Peg Polkadot Token",

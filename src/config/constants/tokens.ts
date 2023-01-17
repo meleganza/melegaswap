@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  gpay: {
+    symbol: 'GPAY',
+    address: {
+      56: '0xaA3ECC6D3e77Dd33cF259859b0cA58CA93A07A9c',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://gpaycoins.com',
+  },
   rotto: {
     symbol: 'ROTTO',
     address: {

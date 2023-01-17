@@ -437,6 +437,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.rotto,
     quoteToken: tokens.busd,
+  },
+  {
+    pid: 40,
+    lpSymbol: 'GPAY-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x53B134E5B12D2BF914d23f556465B3b14efcdE69',
+    },
+    token: tokens.gpay,
+    quoteToken: tokens.wbnb,
   }
 ]
 
