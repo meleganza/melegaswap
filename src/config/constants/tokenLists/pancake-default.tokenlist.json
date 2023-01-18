@@ -246,6 +246,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xaA3ECC6D3e77Dd33cF259859b0cA58CA93A07A9c.png"
     }
+    ,{
+      "name": "GoogWai",
+      "symbol": "GGW",
+      "address": "0x9Acda5B7Ba829172036D030d5A664298eA0a7129",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x9Acda5B7Ba829172036D030d5A664298eA0a7129.png"
+    }
     ,
     {
       "name": "Binance-Peg Polkadot Token",

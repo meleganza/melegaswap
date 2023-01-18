@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  ggw: {
+    symbol: 'GGW',
+    address: {
+      56: '0x9Acda5B7Ba829172036D030d5A664298eA0a7129',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://googwaiglobal.com',
+  },
   gpay: {
     symbol: 'GPAY',
     address: {

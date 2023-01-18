@@ -458,6 +458,20 @@ const pools: PoolConfig[] = [
     tokenPerBlock: '0.0069',
     sortOrder: 1,
     isFinished: false,
+  },
+  {
+    sousId: 32,
+    stakingToken: tokens.cake,
+    earningToken: tokens.ggw,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x875ad0536575073422ceb75783fd66a22ca0d166',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '6000000',
+    sortOrder: 1,
+    isFinished: false,
   }
 ]
 

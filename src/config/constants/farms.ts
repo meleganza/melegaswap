@@ -447,6 +447,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.gpay,
     quoteToken: tokens.wbnb,
+  },
+  {
+    pid: 41,
+    lpSymbol: 'GGW-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x9819ba5974E5A5062d9cC91ED1a39E5eeb8D43F8',
+    },
+    token: tokens.ggw,
+    quoteToken: tokens.wbnb,
   }
 ]
 
