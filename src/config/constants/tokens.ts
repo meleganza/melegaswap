@@ -89,7 +89,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 9,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://linktr.ee/rottoken',
   },
   koala: {
     symbol: 'KOALA',
@@ -98,7 +98,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 9,
-    projectLink: 'https://koabear.net',
+    projectLink: 'https://twitter.com/infok0ala',
   },
   qcwc: {
     symbol: 'QCWC',
@@ -107,7 +107,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://qatarchampswc.com/',
   },
   ostrich: {
     symbol: 'OSTRICH',
@@ -116,7 +116,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://linktr.ee/ostrichclubcoin',
   },
   gwt: {
     symbol: 'GWT',
@@ -125,7 +125,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://t.me/gemguardwallet',
   },
   froge: {
     symbol: 'FROGE',
@@ -134,7 +134,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 9,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://linktr.ee/everfrogeinu',
   },
   mm19: {
     symbol: 'MM19',
@@ -206,7 +206,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://www.masterm.world/',
   },
   fbtc: {
     symbol: 'FBTC',
@@ -215,7 +215,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 9,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://freebitcoinx.com',
   },
   volt: {
     symbol: 'VOLT',
@@ -233,7 +233,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://www.mm72.io/',
   },
   gitto: {
     symbol: 'GIOTTO',
@@ -251,7 +251,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://www.teddy.finance/',
   },
   gcc2: {
     symbol: '2GCC',
@@ -260,7 +260,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://www.2gcc.eu/',
   },
   m01: {
     symbol: 'M01',
