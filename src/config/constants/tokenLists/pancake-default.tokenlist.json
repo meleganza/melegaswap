@@ -253,6 +253,13 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x9Acda5B7Ba829172036D030d5A664298eA0a7129.png"
+    } ,{
+      "name": "HashBit-Peg HBIT Token",
+      "symbol": "HBIT",
+      "address": "0xEda3866f07566d9379a91A07F8D62e19C03183e0",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xEda3866f07566d9379a91A07F8D62e19C03183e0.png"
     }
     ,
     {

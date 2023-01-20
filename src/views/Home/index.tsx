@@ -70,6 +70,7 @@ const items2=[
 <a href='/pools'><img className='item' alt="b13" src="./banners/sb13.png"/></a>,
 <a href='/pools'><img className='item' alt="b14" src="./banners/sb14.png"/></a>,
 <a href='/pools'><img className='item' alt="b15" src="./banners/sb15.png"/></a>,
+<a href='/pools'><img className='item' alt="b16" src="./banners/sb16.png"/></a>,
 ]
 const responsive={
   

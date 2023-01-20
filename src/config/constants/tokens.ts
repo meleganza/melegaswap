@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  hbit: {
+    symbol: 'HBIT',
+    address: {
+      56: '0xEda3866f07566d9379a91A07F8D62e19C03183e0',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   ggw: {
     symbol: 'GGW',
     address: {

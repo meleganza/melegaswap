@@ -457,6 +457,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.ggw,
     quoteToken: tokens.wbnb,
+  },
+  {
+    pid: 42,
+    lpSymbol: 'HBIT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x2415807a26c84C35Ff8898142556c4A41738f138',
+    },
+    token: tokens.hbit,
+    quoteToken: tokens.wbnb,
   }
 ]
 
