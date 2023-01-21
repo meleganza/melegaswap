@@ -468,6 +468,17 @@ const farms: FarmConfig[] = [
     token: tokens.hbit,
     quoteToken: tokens.wbnb,
   }
+  // ,
+  // {
+  //   pid: 43,
+  //   lpSymbol: 'MARCO-KOALA LP',
+  //   lpAddresses: {
+  //     97: '',
+  //     56: '0x2415807a26c84C35Ff8898142556c4A41738f138',
+  //   },
+  //   token: tokens.koala,
+  //   quoteToken: tokens.cake,
+  // }
 ]
 
 export default farms
