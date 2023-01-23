@@ -73,6 +73,23 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  lira: {
+    symbol: 'LIRA',
+    address: {
+      56: '0xA80a006A48dc7203EB3AA7E0b3816918d242CFC4',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://lira.financial/',
+  },spx: {
+    symbol: 'SPX',
+    address: {
+      56: '0xB705CFFb90A1169C56D5Bf78a5a25B439CD4d381',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.swapdepot.net/',
+  },
   hbit: {
     symbol: 'HBIT',
     address: {

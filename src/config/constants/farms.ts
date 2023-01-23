@@ -479,6 +479,38 @@ const farms: FarmConfig[] = [
     token: tokens.koala,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 44,
+    lpSymbol: 'LIRA-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x51D3e3B8Fc52B34466F19d1f9Cdba7F28DF95181',
+    },
+    token: tokens.lira,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 45,
+    lpSymbol: 'MARCO-LIRA LP',
+    lpAddresses: {
+      97: '',
+      56: '0x79Ccd7f1687f71a45d3746374236061CE677c12b',
+    },
+    token: tokens.lira,
+    quoteToken: tokens.cake,
+  },
+  {
+    pid: 46,
+    lpSymbol: 'MARCO-SPX LP',
+    lpAddresses: {
+      97: '',
+      56: '0x45fF0D167289A92df343535E4ECfFB9FF0C702c7',
+    },
+    token: tokens.spx,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms

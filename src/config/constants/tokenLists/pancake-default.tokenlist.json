@@ -148,7 +148,24 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xd17479997F34dd9156Deef8F95A52D81D265be9c.png"
     }
-    
+    ,
+    {
+      "name": "Lira",
+      "symbol": "LIRA",
+      "address": "0xA80a006A48dc7203EB3AA7E0b3816918d242CFC4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xA80a006A48dc7203EB3AA7E0b3816918d242CFC4.png"
+    }
+    ,
+    {
+      "name": "SWAPX",
+      "symbol": "SPX",
+      "address": "0xB705CFFb90A1169C56D5Bf78a5a25B439CD4d381",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xB705CFFb90A1169C56D5Bf78a5a25B439CD4d381.png"
+    }
     ,
     {
       "name": "PancakeSwap Token",
