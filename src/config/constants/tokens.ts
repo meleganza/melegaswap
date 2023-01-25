@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  lois: {
+    symbol: 'LOIS',
+    address: {
+      56: '0xad09104083d182D067CAe2a123C6F1b052D2eA42',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://lois.zone/',
+  },
+  dogebit: {
+    symbol: 'DOG',
+    address: {
+      56: '0x1DE5Dbcb14Cb8CB9e6A73677066181325CE53f7c',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.dogebit.online/',
+  },
   lira: {
     symbol: 'LIRA',
     address: {

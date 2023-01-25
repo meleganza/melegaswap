@@ -165,6 +165,22 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xB705CFFb90A1169C56D5Bf78a5a25B439CD4d381.png"
+    },
+    {
+      "name": "LOIS",
+      "symbol": "LOIS",
+      "address": "0xad09104083d182D067CAe2a123C6F1b052D2eA42",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xad09104083d182D067CAe2a123C6F1b052D2eA42.png"
+    },
+    {
+      "name": "DogeBit",
+      "symbol": "DOG",
+      "address": "0x1DE5Dbcb14Cb8CB9e6A73677066181325CE53f7c",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x1DE5Dbcb14Cb8CB9e6A73677066181325CE53f7c.png"
     }
     ,
     {

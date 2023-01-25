@@ -511,6 +511,27 @@ const farms: FarmConfig[] = [
     token: tokens.spx,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 47,
+    lpSymbol: 'MARCO-LOIS LP',
+    lpAddresses: {
+      97: '',
+      56: '0xf83Fc461E9BF886cF6a60256cA1Fb4eeBeEeF2ce',
+    },
+    token: tokens.lois,
+    quoteToken: tokens.cake,
+  },
+  {
+    pid: 48,
+    lpSymbol: 'MARCO-DOG LP',
+    lpAddresses: {
+      97: '',
+      56: '0x110fc3c2BE135553Aee5A132BBf30cb858a3dA8c',
+    },
+    token: tokens.dogebit,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
