@@ -543,6 +543,50 @@ const farms: FarmConfig[] = [
     token: tokens.C4Cv2,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 50,
+    lpSymbol: 'LIRA-HBIT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x53eD8B7E8f2D221c28337FFe89BF89D16fcf5ED1',
+    },
+    token: tokens.lira,
+    quoteToken: tokens.hbit,
+  }
+  ,
+  {
+    pid: 51,
+    lpSymbol: 'MARCO-MXMX LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1e090805D6A9CEa65e61aF67e272377CfDfD564D',
+    },
+    token: tokens.mxmx,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 52,
+    lpSymbol: 'MARCO-2GCC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x68daD1b10fbED92EDec1Afd9c5ffD7f6D78f7065',
+    },
+    token: tokens.gcc2,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 53,
+    lpSymbol: 'MARCO-BEAR LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3fD9C2CD6186A0e90d0357CE100b3C13Bc2accDA',
+    },
+    token: tokens.bear,
+    quoteToken: tokens.cake,
+  }
   
 ]
 
