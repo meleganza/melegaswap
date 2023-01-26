@@ -532,6 +532,18 @@ const farms: FarmConfig[] = [
     token: tokens.dogebit,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 49,
+    lpSymbol: 'MARCO-C4Cv2 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1BbdBB9306b0F3a62981BEa3A67336180d4ad935',
+    },
+    token: tokens.C4Cv2,
+    quoteToken: tokens.cake,
+  }
+  
 ]
 
 export default farms

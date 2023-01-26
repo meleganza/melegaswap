@@ -175,6 +175,22 @@
       "logoURI": "https://melega.finance/images/tokens/0xad09104083d182D067CAe2a123C6F1b052D2eA42.png"
     },
     {
+      "name": "Crypto 4 A Cause Fund v2",
+      "symbol": "C4Cv2",
+      "address": "0x8929dfe88b3A781E07d8Ca08FD0633eB3e79DE2C",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x8929dfe88b3A781E07d8Ca08FD0633eB3e79DE2C.png"
+    },
+    {
+      "name": "Control2XY",
+      "symbol": "Ctrl2XY",
+      "address": "0x51e91e3e1E87b923D087cc94ab6678854567c745",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x51e91e3e1E87b923D087cc94ab6678854567c745.png"
+    },
+    {
       "name": "DogeBit",
       "symbol": "DOG",
       "address": "0x1DE5Dbcb14Cb8CB9e6A73677066181325CE53f7c",

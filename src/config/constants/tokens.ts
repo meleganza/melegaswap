@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  C4Cv2: {
+    symbol: 'C4Cv2',
+    address: {
+      56: '0x8929dfe88b3A781E07d8Ca08FD0633eB3e79DE2C',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://crypto4ac.net/',
+  },
+  Ctrl2XY: {
+    symbol: 'Ctrl2XY',
+    address: {
+      56: '0x51e91e3e1E87b923D087cc94ab6678854567c745',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   lois: {
     symbol: 'LOIS',
     address: {
