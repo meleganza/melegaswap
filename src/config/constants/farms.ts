@@ -587,6 +587,17 @@ const farms: FarmConfig[] = [
     token: tokens.bear,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 54,
+    lpSymbol: 'GPAY-2GCC LP',
+    lpAddresses: {
+      97: '',
+      56: '0xc09ecE1ECee683Cc53D19CB4CE27eaa6Ef3141ff',
+    },
+    token: tokens.gcc2,
+    quoteToken: tokens.gpay,
+  }
   
 ]
 
