@@ -82,6 +82,33 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://crypto4ac.net/',
   },
+  sfe: {
+    symbol: 'SFE',
+    address: {
+      56: '0x02878FFf5d7CD4F8dc8eCB6701fc98c560fDC1b4',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://snowflaketoken.io/',
+  },
+  befx: {
+    symbol: 'BEFX',
+    address: {
+      56: '0xFcab93b4b98Ac0F9C65A724B10cd5Ed1892bB9D7',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://belifex.com/',
+  },
+  fwc: {
+    symbol: 'FWC',
+    address: {
+      56: '0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.fwctoken.io/',
+  },
   Ctrl2XY: {
     symbol: 'Ctrl2XY',
     address: {

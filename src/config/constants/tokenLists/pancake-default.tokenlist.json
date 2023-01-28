@@ -296,6 +296,30 @@
       "logoURI": "https://melega.finance/images/tokens/0xaA3ECC6D3e77Dd33cF259859b0cA58CA93A07A9c.png"
     }
     ,{
+      "name": "Snowflake Token",
+      "symbol": "SFE",
+      "address": "0x02878FFf5d7CD4F8dc8eCB6701fc98c560fDC1b4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x02878FFf5d7CD4F8dc8eCB6701fc98c560fDC1b4.png"
+    }
+    ,{
+      "name": "Belifex",
+      "symbol": "BEFX",
+      "address": "0xFcab93b4b98Ac0F9C65A724B10cd5Ed1892bB9D7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xFcab93b4b98Ac0F9C65A724B10cd5Ed1892bB9D7.png"
+    }
+    ,{
+      "name": "Football World Community",
+      "symbol": "Fwc",
+      "address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc.png"
+    }
+    ,{
       "name": "GoogWai",
       "symbol": "GGW",
       "address": "0x9Acda5B7Ba829172036D030d5A664298eA0a7129",

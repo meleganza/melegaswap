@@ -598,6 +598,39 @@ const farms: FarmConfig[] = [
     token: tokens.gcc2,
     quoteToken: tokens.gpay,
   }
+  ,
+  {
+    pid: 55,
+    lpSymbol: 'SFE-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7755F749F5b16d2335D928EcBc9Da3aF210546fe',
+    },
+    token: tokens.sfe,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 56,
+    lpSymbol: 'BEFX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x9C7D868232B503DD23C5bD57D1F42564f43117C1',
+    },
+    token: tokens.befx,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 57,
+    lpSymbol: 'FWC-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xe923F39def21c2BA761A973f4c87B2c656b310e1',
+    },
+    token: tokens.fwc,
+    quoteToken: tokens.busd,
+  }
   
 ]
 
