@@ -109,6 +109,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://www.fwctoken.io/',
   },
+  borz: {
+    symbol: 'BORZ',
+    address: {
+      56: '0x08DA9EB6147694e671A455d946A620A70d721EaE',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://borztoken.com/',
+  },
   Ctrl2XY: {
     symbol: 'Ctrl2XY',
     address: {

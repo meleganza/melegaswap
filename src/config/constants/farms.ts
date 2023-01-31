@@ -631,7 +631,17 @@ const farms: FarmConfig[] = [
     token: tokens.fwc,
     quoteToken: tokens.busd,
   }
-  
+  ,
+  {
+    pid: 58,
+    lpSymbol: 'BORZ-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x61ef3c8f0463921a76b0e20f717BfCA9F634C56E',
+    },
+    token: tokens.borz,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms

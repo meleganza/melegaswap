@@ -320,6 +320,14 @@
       "logoURI": "https://melega.finance/images/tokens/0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc.png"
     }
     ,{
+      "name": "Borzoi Inu",
+      "symbol": "BORZ",
+      "address": "0x08DA9EB6147694e671A455d946A620A70d721EaE",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x08DA9EB6147694e671A455d946A620A70d721EaE.png"
+    }
+    ,{
       "name": "GoogWai",
       "symbol": "GGW",
       "address": "0x9Acda5B7Ba829172036D030d5A664298eA0a7129",
