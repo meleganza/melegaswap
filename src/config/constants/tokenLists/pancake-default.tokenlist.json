@@ -166,14 +166,7 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xB705CFFb90A1169C56D5Bf78a5a25B439CD4d381.png"
     },
-    {
-      "name": "LOIS",
-      "symbol": "LOIS",
-      "address": "0xad09104083d182D067CAe2a123C6F1b052D2eA42",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://melega.finance/images/tokens/0xad09104083d182D067CAe2a123C6F1b052D2eA42.png"
-    },
+    
     {
       "name": "Crypto 4 A Cause Fund v2",
       "symbol": "C4Cv2",
