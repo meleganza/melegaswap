@@ -653,6 +653,28 @@ const farms: FarmConfig[] = [
     token: tokens.fas,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 60,
+    lpSymbol: 'LIRA-2GCC LP',
+    lpAddresses: {
+      97: '',
+      56: '0xFe4651cc36905E71511b881f7bdB8250606Cd704',
+    },
+    token: tokens.lira,
+    quoteToken: tokens.gcc2,
+  }
+  ,
+  {
+    pid: 61,
+    lpSymbol: 'GPAY-M01 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4B12EA1fc357Db0957a364d07B71d7236612722a',
+    },
+    token: tokens.gpay,
+    quoteToken: tokens.m01,
+  }
 ]
 
 export default farms
