@@ -642,6 +642,17 @@ const farms: FarmConfig[] = [
     token: tokens.borz,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 59,
+    lpSymbol: 'FAS-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xaa1634C5e09B2F8855e7646edE3c01B1B0d3CeC7',
+    },
+    token: tokens.fas,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

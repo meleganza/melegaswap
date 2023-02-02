@@ -622,6 +622,21 @@ const pools: PoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
+  ,
+  {
+    sousId: 43,
+    stakingToken: tokens.cake,
+    earningToken: tokens.fas,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x41b30962bb6ece9113ee9821a683017006752575',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.012',
+    sortOrder: 1,
+    isFinished: false,
+  }
 ]
 
 export default pools

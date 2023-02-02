@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  fas: {
+    symbol: 'FAS',
+    address: {
+      56: '0x471ed23831918959Bbd85C479120A4365DB7F31a',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://linktr.ee/fasst',
+  },
   C4Cv2: {
     symbol: 'C4Cv2',
     address: {
@@ -376,7 +385,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 9,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://www.mission1.club/',
   },
   rmbr: {
     symbol: 'RMBR',
