@@ -225,39 +225,39 @@ const farms: FarmConfig[] = [
     quoteToken: tokens.cake,
   }
   ,
-  {
-    pid: 20,
-    lpSymbol: 'MARCOLP-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x9209c62C7A0Fa63919b48Ab4d18942b0BDF646c5',
-    },
-    token: tokens.marcobnb,
-    quoteToken: tokens.wbnb,
-  }
-  ,
-  {
-    pid: 21,
-    lpSymbol: 'MXMXLP-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x92D67958e922d46EceA95d0C8AC9446b83aF5075',
-    },
-    token: tokens.mxmxbnb,
-    quoteToken: tokens.wbnb,
-  }
-  ,
-  {
-    pid: 22,
-    lpSymbol: 'MM72LP-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x5B610D743CeeC54EDccD5E724d75A768E30D2a45',
-    },
-    token: tokens.mm72bnb,
-    quoteToken: tokens.wbnb,
-  }
-  ,
+  // {
+  //   pid: 20,
+  //   lpSymbol: 'MARCOLP-BNB LP',
+  //   lpAddresses: {
+  //     97: '',
+  //     56: '0x9209c62C7A0Fa63919b48Ab4d18942b0BDF646c5',
+  //   },
+  //   token: tokens.marcobnb,
+  //   quoteToken: tokens.wbnb,
+  // }
+  // ,
+  // {
+  //   pid: 21,
+  //   lpSymbol: 'MXMXLP-BNB LP',
+  //   lpAddresses: {
+  //     97: '',
+  //     56: '0x92D67958e922d46EceA95d0C8AC9446b83aF5075',
+  //   },
+  //   token: tokens.mxmxbnb,
+  //   quoteToken: tokens.wbnb,
+  // }
+  // ,
+  // {
+  //   pid: 22,
+  //   lpSymbol: 'MM72LP-BNB LP',
+  //   lpAddresses: {
+  //     97: '',
+  //     56: '0x5B610D743CeeC54EDccD5E724d75A768E30D2a45',
+  //   },
+  //   token: tokens.mm72bnb,
+  //   quoteToken: tokens.wbnb,
+  // }
+  // ,
   {
     pid: 23,
     lpSymbol: 'MM72-USDT LP',
