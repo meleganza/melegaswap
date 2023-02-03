@@ -675,6 +675,28 @@ const farms: FarmConfig[] = [
     token: tokens.gpay,
     quoteToken: tokens.m01,
   }
+  ,
+  {
+    pid: 62,
+    lpSymbol: 'CTI-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4cF18Cef70147c8659d10227577B0377Ef211ABf',
+    },
+    token: tokens.cti,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 63,
+    lpSymbol: 'CVL-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0xeBa697Bd9588fF34061AD47cFe9017A29341EC8f',
+    },
+    token: tokens.cvl,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms

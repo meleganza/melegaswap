@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  cti: {
+    symbol: 'CTI',
+    address: {
+      56: '0xB9a5676C1614ab480B361A447D1e99c8826e84C9',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://communityinu.org/',
+  },
+  cvl: {
+    symbol: 'CVL',
+    address: {
+      56: '0x9C845ed620C4AECfB7C4EA1693e135663A55cFc1',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://cryptoverseland.org/',
+  },
   fas: {
     symbol: 'FAS',
     address: {

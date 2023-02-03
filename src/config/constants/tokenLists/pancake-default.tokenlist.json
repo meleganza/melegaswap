@@ -168,6 +168,24 @@
     },
     
     {
+      "name": "Community Inu",
+      "symbol": "CTI",
+      "address": "0xB9a5676C1614ab480B361A447D1e99c8826e84C9",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xB9a5676C1614ab480B361A447D1e99c8826e84C9.png"
+    },
+    
+    {
+      "name": "CryptoVerseLand",
+      "symbol": "CVL",
+      "address": "0x9C845ed620C4AECfB7C4EA1693e135663A55cFc1",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x9C845ed620C4AECfB7C4EA1693e135663A55cFc1.png"
+    },
+    
+    {
       "name": "Crypto 4 A Cause Fund v2",
       "symbol": "C4Cv2",
       "address": "0x8929dfe88b3A781E07d8Ca08FD0633eB3e79DE2C",
