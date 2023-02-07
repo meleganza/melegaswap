@@ -697,6 +697,28 @@ const farms: FarmConfig[] = [
     token: tokens.cvl,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 64,
+    lpSymbol: 'GIOTTO-M01 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x91012f390EC692Bcdd4356bbBD0c021AE6dF62ce',
+    },
+    token: tokens.gitto,
+    quoteToken: tokens.m01,
+  }
+  ,
+  {
+    pid: 65,
+    lpSymbol: 'ZLT-M01 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x5b7abe34510Ec0D0cdb062CC52a6399d40F81DFA',
+    },
+    token: tokens.zoloto,
+    quoteToken: tokens.m01,
+  }
 ]
 
 export default farms
