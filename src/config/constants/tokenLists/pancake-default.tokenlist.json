@@ -175,6 +175,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xB9a5676C1614ab480B361A447D1e99c8826e84C9.png"
     },
+    {
+      "name": "PooChain",
+      "symbol": "POOP",
+      "address": "0xa1611E8D4070dee36EF308952CF34255c92a01c5",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xa1611E8D4070dee36EF308952CF34255c92a01c5.png"
+    },
     
     {
       "name": "CryptoVerseLand",

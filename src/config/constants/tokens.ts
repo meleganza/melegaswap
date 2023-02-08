@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  poop: {
+    symbol: 'POOP',
+    address: {
+      56: '0xa1611E8D4070dee36EF308952CF34255c92a01c5',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.poochain.co/',
+  },
   cti: {
     symbol: 'CTI',
     address: {

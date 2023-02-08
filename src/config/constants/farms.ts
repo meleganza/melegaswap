@@ -719,6 +719,17 @@ const farms: FarmConfig[] = [
     token: tokens.zoloto,
     quoteToken: tokens.m01,
   }
+  ,
+  {
+    pid: 66,
+    lpSymbol: 'POOP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4e6D297f9Cd3e93D0Ae5BbD8330bBD751996F03c',
+    },
+    token: tokens.poop,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
