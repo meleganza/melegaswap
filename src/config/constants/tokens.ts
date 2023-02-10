@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  luck: {
+    symbol: 'LUCK',
+    address: {
+      56: '0xeE86B71B787f6DCF83a9856D181dda2b7b8398B0',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://4lc.site/',
+  },
   poop: {
     symbol: 'POOP',
     address: {

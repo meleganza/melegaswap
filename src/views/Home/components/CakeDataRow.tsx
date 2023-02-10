@@ -142,7 +142,7 @@ const CakeDataRow = () => {
         <h1 style={{fontSize:"1.5rem"}}>Services</h1>
         <br/>
         <a style={{margin:"0.5rem"}} href='https://www.melegaswap.finance/apply'>Apply for listing</a>
-        <a style={{margin:"0.5rem"}} href='https://melega.space/'>Ecosystem</a>
+        <a style={{margin:"0.5rem"}} href='https://melega.space/'>Melega Space</a>
         </Flex>
         </InnerDiv2>
         <br/>

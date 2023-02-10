@@ -729,6 +729,16 @@ const farms: FarmConfig[] = [
     },
     token: tokens.poop,
     quoteToken: tokens.wbnb,
+  },
+  {
+    pid: 67,
+    lpSymbol: 'POOP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x5a19fde41461eb998e74839e8a7527e7dc376850',
+    },
+    token: tokens.luck,
+    quoteToken: tokens.wbnb,
   }
 ]
 

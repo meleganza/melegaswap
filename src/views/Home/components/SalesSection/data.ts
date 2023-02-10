@@ -41,7 +41,7 @@ export const earnSectionData: SalesSectionProps = {
 export const cakeSectionData: SalesSectionProps = {
   headingText: 'MARCO makes our world go round.',
   bodyText:
-    'MARCO token is at the heart of the MelegaSwap ecosystem. Buy it, win it, farm it, spend it, stake it... heck, you can even vote with it!',
+    'MARCO token is at the heart of the MelegaSwap Melega Space. Buy it, win it, farm it, spend it, stake it... heck, you can even vote with it!',
   reverse: false,
   primaryButton: {
     to: '/swap?outputCurrency=0x963556de0eb8138E97A85F0A86eE0acD159D210b',
