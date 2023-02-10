@@ -722,7 +722,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 66,
-    lpSymbol: 'LUCK-BNB LP',
+    lpSymbol: 'POOP-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x4e6D297f9Cd3e93D0Ae5BbD8330bBD751996F03c',
@@ -732,7 +732,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 67,
-    lpSymbol: 'POOP-BNB LP',
+    lpSymbol: 'LUCK-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x5a19fde41461eb998e74839e8a7527e7dc376850',
