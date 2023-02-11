@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  hse: {
+    symbol: 'HSE',
+    address: {
+      56: '0x4a6D76C3a65f296468d7910c79f12Fdd5202A920',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://hest.live/',
+  },
   luck: {
     symbol: 'LUCK',
     address: {

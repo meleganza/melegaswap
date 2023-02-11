@@ -740,6 +740,17 @@ const farms: FarmConfig[] = [
     token: tokens.luck,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 68,
+    lpSymbol: 'HSE-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0F329A55e665686c1153C7157441BeEb04174679',
+    },
+    token: tokens.hse,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

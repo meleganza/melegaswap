@@ -159,6 +159,15 @@
     }
     ,
     {
+      "name": "Hest stake",
+      "symbol": "HSE",
+      "address": "0x4a6D76C3a65f296468d7910c79f12Fdd5202A920",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x4a6D76C3a65f296468d7910c79f12Fdd5202A920.png"
+    }
+    ,
+    {
       "name": "4LEAF CLOVER",
       "symbol": "LUCK",
       "address": "0xeE86B71B787f6DCF83a9856D181dda2b7b8398B0",
