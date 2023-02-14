@@ -751,6 +751,39 @@ const farms: FarmConfig[] = [
     token: tokens.hse,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 69,
+    lpSymbol: 'TPCV3-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA8C3FD42A5bAc6418D01f7889B3d4FD01e542cA2',
+    },
+    token: tokens.tpcv3,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 70,
+    lpSymbol: 'SPACEAPE-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8cD571B07df38460DCDEC21a95Cb36127593Ea3B',
+    },
+    token: tokens.spaceape,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 71,
+    lpSymbol: 'SFEA-SFE LP',
+    lpAddresses: {
+      97: '',
+      56: '0x33Da61a585b9341F511698637ED0B4cFE61ab47b',
+    },
+    token: tokens.sfea,
+    quoteToken: tokens.sfe,
+  }
 ]
 
 export default farms

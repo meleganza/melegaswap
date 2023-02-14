@@ -73,6 +73,33 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  sfea: {
+    symbol: 'SFEA',
+    address: {
+      56: '0x9D4C96e79aDf11b887cD5E30E78A2Ba88a984114',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://snowflaketoken.io/',
+  },
+  tpcv3: {
+    symbol: 'TPCv3',
+    address: {
+      56: '0xD8405d25f108a0Dd6db68082F1554f08eA6794f3',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.thetransplantcoin.com',
+  },
+  spaceape: {
+    symbol: 'SpaceApe',
+    address: {
+      56: '0xe7D73b62256c30B5c3F3389Ab6186bD0D95f8ea9',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.spaceapebsc.com/',
+  },
   hse: {
     symbol: 'HSE',
     address: {
@@ -82,6 +109,7 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://hest.live/',
   },
+
   luck: {
     symbol: 'LUCK',
     address: {

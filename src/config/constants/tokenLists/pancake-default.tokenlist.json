@@ -264,6 +264,33 @@
     }
     ,
     {
+      "name": "The Transplant Coin v3",
+      "symbol": "TPCv3",
+      "address": "0xD8405d25f108a0Dd6db68082F1554f08eA6794f3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xD8405d25f108a0Dd6db68082F1554f08eA6794f3.png"
+    }
+    ,
+    {
+      "name": "Snowflake Aid Token",
+      "symbol": "SFEA",
+      "address": "0x9D4C96e79aDf11b887cD5E30E78A2Ba88a984114",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x9D4C96e79aDf11b887cD5E30E78A2Ba88a984114.png"
+    }
+    ,
+    {
+      "name": "Space Ape Coin",
+      "symbol": "SpaceApe",
+      "address": "0xe7D73b62256c30B5c3F3389Ab6186bD0D95f8ea9",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xe7D73b62256c30B5c3F3389Ab6186bD0D95f8ea9.png"
+    }
+    ,
+    {
       "name": "Volt Inu",
       "symbol": "VOLT",
       "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
