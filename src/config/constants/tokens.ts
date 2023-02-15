@@ -82,6 +82,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://snowflaketoken.io/',
   },
+  ggtkn: {
+    symbol: 'GGTKN',
+    address: {
+      56: '0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://ggtkn.com/',
+  },
   tpcv3: {
     symbol: 'TPCv3',
     address: {

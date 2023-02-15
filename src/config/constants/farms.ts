@@ -784,6 +784,28 @@ const farms: FarmConfig[] = [
     token: tokens.sfea,
     quoteToken: tokens.sfe,
   }
+  ,
+  {
+    pid: 72,
+    lpSymbol: 'SFE-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xCd6Ee29017F14dBe79f26968874Cf502347450F8',
+    },
+    token: tokens.sfe,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 73,
+    lpSymbol: 'GGTKN-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x99C47A3C9895c47ab1a5F18341b8fC1720DD022e',
+    },
+    token: tokens.ggtkn,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

@@ -273,6 +273,15 @@
     }
     ,
     {
+      "name": "GG TOKEN",
+      "symbol": "GGTKN",
+      "address": "0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F.png"
+    }
+    ,
+    {
       "name": "Snowflake Aid Token",
       "symbol": "SFEA",
       "address": "0x9D4C96e79aDf11b887cD5E30E78A2Ba88a984114",
