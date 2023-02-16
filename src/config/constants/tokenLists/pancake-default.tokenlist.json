@@ -271,6 +271,25 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xD8405d25f108a0Dd6db68082F1554f08eA6794f3.png"
     }
+
+    ,
+    {
+      "name": "SBDEX COIN",
+      "symbol": "SBDEX",
+      "address": "0x48B15cb805268f88b927e17EC39f078Ca68C388E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x48B15cb805268f88b927e17EC39f078Ca68C388E.png"
+    }
+    ,
+    {
+      "name": "RugToken",
+      "symbol": "RUG",
+      "address": "0xd8751EE1be064dDda268a29fe48538706661820b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xd8751EE1be064dDda268a29fe48538706661820b.png"
+    }
     ,
     {
       "name": "GG TOKEN",

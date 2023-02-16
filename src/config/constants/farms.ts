@@ -806,6 +806,28 @@ const farms: FarmConfig[] = [
     token: tokens.ggtkn,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 74,
+    lpSymbol: 'SBDEX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6521d46A2dEA6580095956D697Dc72E480CD26B6',
+    },
+    token: tokens.sbdex,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 75,
+    lpSymbol: 'RUG-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x079C06834F9575a2BE909D187084513622ca27F2',
+    },
+    token: tokens.rug,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  sbdex: {
+    symbol: 'SBDEX',
+    address: {
+      56: '0x48B15cb805268f88b927e17EC39f078Ca68C388E',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.sbdexcoin.com/',
+  },
+  rug: {
+    symbol: 'RUG',
+    address: {
+      56: '0xd8751EE1be064dDda268a29fe48538706661820b',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://linktr.ee/rugtoken',
+  },
   sfea: {
     symbol: 'SFEA',
     address: {
