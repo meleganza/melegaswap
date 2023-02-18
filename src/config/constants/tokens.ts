@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  lcsc: {
+    symbol: 'LCSTOKEN',
+    address: {
+      56: '0xE5086eF5e4Bc6b7CE5606CdEC5524E8ea407D50e',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://learncryptosecrets.com',
+  },
   sbdex: {
     symbol: 'SBDEX',
     address: {

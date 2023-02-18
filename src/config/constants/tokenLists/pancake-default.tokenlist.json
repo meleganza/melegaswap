@@ -283,6 +283,15 @@
     }
     ,
     {
+      "name": "Learn Crypto Secrets",
+      "symbol": "LCSTOKEN",
+      "address": "0xE5086eF5e4Bc6b7CE5606CdEC5524E8ea407D50e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xE5086eF5e4Bc6b7CE5606CdEC5524E8ea407D50e.png"
+    }
+    ,
+    {
       "name": "RugToken",
       "symbol": "RUG",
       "address": "0xd8751EE1be064dDda268a29fe48538706661820b",

@@ -828,6 +828,17 @@ const farms: FarmConfig[] = [
     token: tokens.rug,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 76,
+    lpSymbol: 'LCSTOKEN-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x40Ec919bc6052C810ef31a8d5737c830114EF288',
+    },
+    token: tokens.lcsc,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
