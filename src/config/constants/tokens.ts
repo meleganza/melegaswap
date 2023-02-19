@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  dyn: {
+    symbol: 'DYN',
+    address: {
+      56: '0x26212BEbb11F22c938C4d0655962BDA60D14C47C',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.dyakon.eu/',
+  },
   lcsc: {
     symbol: 'LCSTOKEN',
     address: {

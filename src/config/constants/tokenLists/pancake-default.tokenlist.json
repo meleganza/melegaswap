@@ -271,7 +271,15 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xD8405d25f108a0Dd6db68082F1554f08eA6794f3.png"
     }
-
+    ,
+    {
+      "name": "DYAKON",
+      "symbol": "DYN",
+      "address": "0x26212BEbb11F22c938C4d0655962BDA60D14C47C",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x26212BEbb11F22c938C4d0655962BDA60D14C47C.png"
+    }
     ,
     {
       "name": "SBDEX COIN",

@@ -838,6 +838,27 @@ const farms: FarmConfig[] = [
     },
     token: tokens.lcsc,
     quoteToken: tokens.wbnb,
+  },
+  {
+    pid: 77,
+    lpSymbol: 'BORZ-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA5427dc9E81a8d51Fdb0A8A7CD9AEDa9591a5B43',
+    },
+    token: tokens.borz,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 78,
+    lpSymbol: 'DYN-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x58b80D19A2d74aAb63a888a4e0891b696d071074',
+    },
+    token: tokens.dyn,
+    quoteToken: tokens.wbnb,
   }
 ]
 
