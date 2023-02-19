@@ -860,6 +860,17 @@ const farms: FarmConfig[] = [
     token: tokens.dyn,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 79,
+    lpSymbol: 'IPL-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xD84A8D737dcD790FB14618501CdDb4fAE0F49778',
+    },
+    token: tokens.ipl,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

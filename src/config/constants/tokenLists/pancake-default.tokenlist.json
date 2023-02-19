@@ -282,6 +282,15 @@
     }
     ,
     {
+      "name": "INSEPARABLE",
+      "symbol": "IPL",
+      "address": "0xD625E86E41ECf854D7baEd5f519a4a57991417Bb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xD625E86E41ECf854D7baEd5f519a4a57991417Bb.png"
+    }
+    ,
+    {
       "name": "SBDEX COIN",
       "symbol": "SBDEX",
       "address": "0x48B15cb805268f88b927e17EC39f078Ca68C388E",

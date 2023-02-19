@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  ipl: {
+    symbol: 'IPL',
+    address: {
+      56: '0xD625E86E41ECf854D7baEd5f519a4a57991417Bb',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.inseparable.cba.pl/',
+  },
   dyn: {
     symbol: 'DYN',
     address: {
