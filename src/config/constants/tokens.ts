@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  susu: {
+    symbol: 'SUSU',
+    address: {
+      56: '0x583Bf0642a92cF7512dd120f7669BDd8173b7A4F',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'http://www.susumi.io',
+  },
   ipl: {
     symbol: 'IPL',
     address: {

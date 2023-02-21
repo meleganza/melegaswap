@@ -291,6 +291,15 @@
     }
     ,
     {
+      "name": "Susumi Coin",
+      "symbol": "SUSU",
+      "address": "0x583Bf0642a92cF7512dd120f7669BDd8173b7A4F",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x583Bf0642a92cF7512dd120f7669BDd8173b7A4F.png"
+    }
+    ,
+    {
       "name": "SBDEX COIN",
       "symbol": "SBDEX",
       "address": "0x48B15cb805268f88b927e17EC39f078Ca68C388E",

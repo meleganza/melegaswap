@@ -871,6 +871,17 @@ const farms: FarmConfig[] = [
     token: tokens.ipl,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 80,
+    lpSymbol: 'SUSU-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0676f0b348C60437Eb530a9d864581ecAecffB7b',
+    },
+    token: tokens.susu,
+    quoteToken: tokens.busd,
+  }
 ]
 
 export default farms
