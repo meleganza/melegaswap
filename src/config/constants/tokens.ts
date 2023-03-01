@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  WHEXDAO: {
+    symbol: 'WHEXDAO',
+    address: {
+      56: '0x1fFD93F8c3d99bDAA4A012A0Fc26868F00Cfa5c2',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'http://whexcosystem.com',
+  },
   susu: {
     symbol: 'SUSU',
     address: {

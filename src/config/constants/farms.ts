@@ -882,6 +882,17 @@ const farms: FarmConfig[] = [
     token: tokens.susu,
     quoteToken: tokens.busd,
   }
+  ,
+  {
+    pid: 81,
+    lpSymbol: 'WHEXDAO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x32e7f908145E96E0dF986E1E662b4d110C78c184',
+    },
+    token: tokens.WHEXDAO,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

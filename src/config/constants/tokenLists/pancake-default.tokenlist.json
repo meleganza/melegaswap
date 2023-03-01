@@ -291,6 +291,15 @@
     }
     ,
     {
+      "name": "WHEXcosystem DAO",
+      "symbol": "WHEXDAO",
+      "address": "0x1fFD93F8c3d99bDAA4A012A0Fc26868F00Cfa5c2",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x1fFD93F8c3d99bDAA4A012A0Fc26868F00Cfa5c2.png"
+    }
+    ,
+    {
       "name": "Susumi Coin",
       "symbol": "SUSU",
       "address": "0x583Bf0642a92cF7512dd120f7669BDd8173b7A4F",
