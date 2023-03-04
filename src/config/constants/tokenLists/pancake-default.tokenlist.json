@@ -291,6 +291,24 @@
     }
     ,
     {
+      "name": "Hancoin",
+      "symbol": "DIGA",
+      "address": "0x725ee71e9376366Cb2c978C12cfBe10E82EFc874",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x725ee71e9376366Cb2c978C12cfBe10E82EFc874.png"
+    }
+    ,
+    {
+      "name": "Sweeptoken",
+      "symbol": "SWEEP",
+      "address": "0x09c704c1EB9245Af48f058878e72129557a10F04",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x09c704c1EB9245Af48f058878e72129557a10F04.png"
+    }
+    ,
+    {
       "name": "WHEXcosystem DAO",
       "symbol": "WHEXDAO",
       "address": "0x1fFD93F8c3d99bDAA4A012A0Fc26868F00Cfa5c2",

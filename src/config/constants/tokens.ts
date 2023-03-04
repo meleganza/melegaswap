@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  diga: {
+    symbol: 'DIGA',
+    address: {
+      56: '0x725ee71e9376366Cb2c978C12cfBe10E82EFc874',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://hancoin.finance/',
+  },
+  sweep: {
+    symbol: 'SWEEP',
+    address: {
+      56: '0x09c704c1EB9245Af48f058878e72129557a10F04',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.sweepproject.com/',
+  },
   WHEXDAO: {
     symbol: 'WHEXDAO',
     address: {

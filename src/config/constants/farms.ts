@@ -893,6 +893,28 @@ const farms: FarmConfig[] = [
     token: tokens.WHEXDAO,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 82,
+    lpSymbol: 'DIGA-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x9C8be4d92021C9669D3a526D51d131bFfbb78203',
+    },
+    token: tokens.diga,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 83,
+    lpSymbol: 'SWEEP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xBc96d691dc546391E115d17aC050a22D651FA401',
+    },
+    token: tokens.sweep,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
