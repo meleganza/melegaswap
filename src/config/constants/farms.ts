@@ -915,6 +915,39 @@ const farms: FarmConfig[] = [
     token: tokens.sweep,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 84,
+    lpSymbol: 'XPHX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6F47AEAA25267321CD499d8Da11f54175e392d90',
+    },
+    token: tokens.XPHX,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 85,
+    lpSymbol: 'HYPEC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x410FFBD6f6ff6364416EA5e3bE6CDFbA0558AcD7',
+    },
+    token: tokens.HYPEC,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 86,
+    lpSymbol: 'DOGEUM-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x51DE40396691D9FfaF78a9eD13Dd9d1090D97F27',
+    },
+    token: tokens.DOGEUM,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

@@ -906,6 +906,51 @@ const pools: PoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
+  ,
+  {
+    sousId: 62,
+    stakingToken: tokens.cake,
+    earningToken: tokens.XPHX,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x234f56b68506e554814fc1cc4234c0778d98c181',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.0112',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 63,
+    stakingToken: tokens.cake,
+    earningToken: tokens.HYPEC,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xe88f9d118ae5d41abca7a6be8d44463bdc7ab7ba',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '8.5',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 64,
+    stakingToken: tokens.cake,
+    earningToken: tokens.DOGEUM,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xbe9fc3b86d4ea4f8ae0a8966639c655912bdbe84',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '2500000',
+    sortOrder: 1,
+    isFinished: false,
+  }
 ]
 
 export default pools

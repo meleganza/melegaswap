@@ -73,6 +73,33 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  XPHX: {
+    symbol: 'XPHX',
+    address: {
+      56: '0x8729123aC749359144DB4396F8ecF32976f7A86e',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'http://xphxco.org',
+  },
+  HYPEC: {
+    symbol: 'HYPEC',
+    address: {
+      56: '0xBc64Cd76FF32Bb8695079Af834f672e8ECe62dd4',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://cervejahype.com/',
+  },
+  DOGEUM: {
+    symbol: 'DOGEUM',
+    address: {
+      56: '0xE83981C6E294881D92697FdC887D19Acd9A820E3',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'http://dogeum.io',
+  },
   diga: {
     symbol: 'DIGA',
     address: {

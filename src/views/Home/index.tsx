@@ -104,7 +104,7 @@ const responsive2={
     </div>
     <div >
         
-        <AliceCarousel name='subbanner' disableButtonsControls={!false} disableDotsControls={!false}  responsive={responsive2} autoPlay={!false}  items={items2}/>
+        <AliceCarousel name='subbanner' disableButtonsControls={!false} disableDotsControls={!false}  responsive={responsive2} autoPlay={!false} autoPlayInterval={0} animationDuration={2000} items={items2}/>
       
     </div>
     <br/>

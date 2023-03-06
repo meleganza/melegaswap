@@ -300,6 +300,33 @@
     }
     ,
     {
+      "name": "PhoenixCo Token",
+      "symbol": "XPHX",
+      "address": "0x8729123aC749359144DB4396F8ecF32976f7A86e",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x8729123aC749359144DB4396F8ecF32976f7A86e.png"
+    }
+    ,
+    {
+      "name": "Hype",
+      "symbol": "HYPEC",
+      "address": "0xBc64Cd76FF32Bb8695079Af834f672e8ECe62dd4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xBc64Cd76FF32Bb8695079Af834f672e8ECe62dd4.png"
+    }
+    ,
+    {
+      "name": "Dogeum Token",
+      "symbol": "DOGEUM",
+      "address": "0xE83981C6E294881D92697FdC887D19Acd9A820E3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xE83981C6E294881D92697FdC887D19Acd9A820E3.png"
+    }
+    ,
+    {
       "name": "Sweeptoken",
       "symbol": "SWEEP",
       "address": "0x09c704c1EB9245Af48f058878e72129557a10F04",
