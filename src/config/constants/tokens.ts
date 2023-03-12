@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  help: {
+    symbol: 'HELP',
+    address: {
+      56: '0xB0666C07E65D43958359ad25AE0307a36005B54d',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://helprewardtoken.io/',
+  },
   XPHX: {
     symbol: 'XPHX',
     address: {

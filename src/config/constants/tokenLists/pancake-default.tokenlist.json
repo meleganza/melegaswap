@@ -309,6 +309,15 @@
     }
     ,
     {
+      "name": "HELP Reward Token",
+      "symbol": "HELP",
+      "address": "0xB0666C07E65D43958359ad25AE0307a36005B54d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xB0666C07E65D43958359ad25AE0307a36005B54d.png"
+    }
+    ,
+    {
       "name": "Hype",
       "symbol": "HYPEC",
       "address": "0xBc64Cd76FF32Bb8695079Af834f672e8ECe62dd4",

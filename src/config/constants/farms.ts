@@ -948,6 +948,17 @@ const farms: FarmConfig[] = [
     token: tokens.DOGEUM,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 87,
+    lpSymbol: 'HELP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x84BF506f3b519ef1cc8889D211e56B046896A2c6',
+    },
+    token: tokens.help,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
