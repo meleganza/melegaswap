@@ -887,7 +887,7 @@ const pools: PoolConfig[] = [
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
-    tokenPerBlock: '117',
+    tokenPerBlock: '1000',
     sortOrder: 1,
     isFinished: false,
   }
@@ -947,7 +947,7 @@ const pools: PoolConfig[] = [
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
-    tokenPerBlock: '10000',
+    tokenPerBlock: '30000',
     sortOrder: 1,
     isFinished: false,
   }
@@ -963,6 +963,21 @@ const pools: PoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     harvest: true,
     tokenPerBlock: '3.47',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 66,
+    stakingToken: tokens.cake,
+    earningToken: tokens.alt,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x7fed37a509396f7125043fe430829d306bb42559',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '18',
     sortOrder: 1,
     isFinished: false,
   }

@@ -318,6 +318,15 @@
     }
     ,
     {
+      "name": "Allspot",
+      "symbol": "ALT",
+      "address": "0x2a6677F132D4aB9c9F8d6a72113094232eA1F830",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x2a6677F132D4aB9c9F8d6a72113094232eA1F830.png"
+    }
+    ,
+    {
       "name": "Hype",
       "symbol": "HYPEC",
       "address": "0xBc64Cd76FF32Bb8695079Af834f672e8ECe62dd4",

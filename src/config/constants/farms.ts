@@ -959,6 +959,17 @@ const farms: FarmConfig[] = [
     token: tokens.help,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 88,
+    lpSymbol: 'ALT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3B743d85aEE0F27aCB5154cdf453cce27acD41A8',
+    },
+    token: tokens.alt,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

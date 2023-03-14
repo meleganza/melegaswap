@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  alt: {
+    symbol: 'ALT',
+    address: {
+      56: '0x2a6677F132D4aB9c9F8d6a72113094232eA1F830',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://allspot.store/',
+  },
   help: {
     symbol: 'HELP',
     address: {
