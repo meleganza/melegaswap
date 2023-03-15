@@ -970,6 +970,50 @@ const farms: FarmConfig[] = [
     token: tokens.alt,
     quoteToken: tokens.busd,
   }
+  ,
+  {
+    pid: 89,
+    lpSymbol: 'BEP40-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xe2A68B1C1dfA3ab427E1f4E6FA6943944741291d',
+    },
+    token: tokens.BEP40,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 90,
+    lpSymbol: 'WHEX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3E91c7AB0BeE50881d8805690D020CcC1be101fd',
+    },
+    token: tokens.WHEX,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 91,
+    lpSymbol: 'BTCF-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xC20652C24A23b0aadce0915a72A16202E6EA8D6c',
+    },
+    token: tokens.BTCF,
+    quoteToken: tokens.busd,
+  }
+  ,
+  {
+    pid: 92,
+    lpSymbol: 'DOWA-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xD0808Ef15d37346E29031ab91F98Df049192eA1b',
+    },
+    token: tokens.DOWA,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

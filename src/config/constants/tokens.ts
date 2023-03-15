@@ -73,6 +73,42 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  BEP40: {
+    symbol: 'BEP40',
+    address: {
+      56: '0xDA54d75063eA90BC29ba50B6d998929CAe866b16',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://bep40.com/',
+  },
+  WHEX: {
+    symbol: 'WHEX',
+    address: {
+      56: '0x31e79A378fb85D8c4d51489E5c90ecAF9c17935A',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.whexcosystem.com/',
+  },
+  BTCF: {
+    symbol: 'BTCF',
+    address: {
+      56: '0x1972633C2BE10c4B977d3260Fee1cFf228bf2a5d',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 6,
+    projectLink: 'https://btcf.info/en',
+  },
+  DOWA: {
+    symbol: 'DOWA',
+    address: {
+      56: '0x651909Ea73704b0556a564F732cCF8b195F295Cc',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://dogwars.io',
+  },
   alt: {
     symbol: 'ALT',
     address: {

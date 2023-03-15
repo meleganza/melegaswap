@@ -318,6 +318,42 @@
     }
     ,
     {
+      "name": "BEP40.COM",
+      "symbol": "BEP40",
+      "address": "0xDA54d75063eA90BC29ba50B6d998929CAe866b16",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xDA54d75063eA90BC29ba50B6d998929CAe866b16.png"
+    }
+    ,
+    {
+      "name": "Whale Exploder",
+      "symbol": "WHEX",
+      "address": "0x31e79A378fb85D8c4d51489E5c90ecAF9c17935A",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x31e79A378fb85D8c4d51489E5c90ecAF9c17935A.png"
+    }
+    ,
+    {
+      "name": "BITCOIN FUTURE",
+      "symbol": "BTCF",
+      "address": "0x1972633C2BE10c4B977d3260Fee1cFf228bf2a5d",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://melega.finance/images/tokens/0x1972633C2BE10c4B977d3260Fee1cFf228bf2a5d.png"
+    }
+    ,
+    {
+      "name": "Dogwars",
+      "symbol": "DOWA",
+      "address": "0x651909Ea73704b0556a564F732cCF8b195F295Cc",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x651909Ea73704b0556a564F732cCF8b195F295Cc.png"
+    }
+    ,
+    {
       "name": "Allspot",
       "symbol": "ALT",
       "address": "0x2a6677F132D4aB9c9F8d6a72113094232eA1F830",
