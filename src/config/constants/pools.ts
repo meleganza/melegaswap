@@ -581,7 +581,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 40,
     stakingToken: tokens.cake,
-    earningToken: tokens.befx,
+    earningToken: tokens.befxold,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0xbd6051ea98d2994d45fdf0063a18e66bd6df8874',
@@ -1038,6 +1038,21 @@ const pools: PoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     harvest: true,
     tokenPerBlock: '95000',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 71,
+    stakingToken: tokens.cake,
+    earningToken: tokens.befx,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x71d252fe7d8235e3b63f2205e5f9f1ea0088d306',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.35',
     sortOrder: 1,
     isFinished: false,
   }
