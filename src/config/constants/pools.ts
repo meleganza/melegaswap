@@ -981,6 +981,66 @@ const pools: PoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
+  ,
+  {
+    sousId: 67,
+    stakingToken: tokens.cake,
+    earningToken: tokens.BEP40,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x460ba6ac88ec0d74cc916012db79591f81f99be9',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.85',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 68,
+    stakingToken: tokens.cake,
+    earningToken: tokens.WHEX,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xbfc35b0cc6aa7cdfa015a16ffa4b46a46acd8d6c',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '12000000000000',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 69,
+    stakingToken: tokens.cake,
+    earningToken: tokens.BTCF,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x2591afb4996b12395a7c2ee69363d8c7608355a3',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.00052',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 70,
+    stakingToken: tokens.cake,
+    earningToken: tokens.DOWA,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x61831a7ec4b7b15d7522d7755b61809af7d6f212',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '95000',
+    sortOrder: 1,
+    isFinished: false,
+  }
 ]
 
 export default pools

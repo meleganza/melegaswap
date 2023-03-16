@@ -550,10 +550,10 @@
     ,{
       "name": "Belifex",
       "symbol": "BEFX",
-      "address": "0xFcab93b4b98Ac0F9C65A724B10cd5Ed1892bB9D7",
+      "address": "0x75B2fdd95418e093fCA7DB858B36549e5e412076",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://melega.finance/images/tokens/0xFcab93b4b98Ac0F9C65A724B10cd5Ed1892bB9D7.png"
+      "logoURI": "https://melega.finance/images/tokens/0x75B2fdd95418e093fCA7DB858B36549e5e412076.png"
     }
     ,{
       "name": "Football World Community",

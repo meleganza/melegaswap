@@ -344,14 +344,23 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://snowflaketoken.io/',
   },
-  befx: {
+  befxold: {
     symbol: 'BEFX',
     address: {
       56: '0xFcab93b4b98Ac0F9C65A724B10cd5Ed1892bB9D7',
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://belifex.com/',
+    projectLink: 'https://linktr.ee/belifex',
+  },
+  befx: {
+    symbol: 'BEFX',
+    address: {
+      56: '0x75B2fdd95418e093fCA7DB858B36549e5e412076',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://linktr.ee/belifex',
   },
   fwc: {
     symbol: 'FWC',

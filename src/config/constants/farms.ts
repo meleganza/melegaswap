@@ -617,7 +617,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x9C7D868232B503DD23C5bD57D1F42564f43117C1',
     },
-    token: tokens.befx,
+    token: tokens.befxold,
     quoteToken: tokens.wbnb,
   }
   ,
@@ -1012,6 +1012,17 @@ const farms: FarmConfig[] = [
       56: '0xD0808Ef15d37346E29031ab91F98Df049192eA1b',
     },
     token: tokens.DOWA,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 93,
+    lpSymbol: 'BEFX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0f9793160960f33b402BdDfCB6cd410D361e6624',
+    },
+    token: tokens.befx,
     quoteToken: tokens.wbnb,
   }
 ]
