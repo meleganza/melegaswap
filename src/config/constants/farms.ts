@@ -1025,6 +1025,28 @@ const farms: FarmConfig[] = [
     token: tokens.befx,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 94,
+    lpSymbol: 'MRABBIT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x36F32642Ab0C815709eE131e239CCC0ee51B7f82',
+    },
+    token: tokens.MRABBIT,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 95,
+    lpSymbol: 'FNT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xbF34cdE9D1225f43cCC5080Db2F80C4bE884ECE5',
+    },
+    token: tokens.FNT,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

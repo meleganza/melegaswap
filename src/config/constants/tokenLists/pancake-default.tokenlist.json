@@ -327,6 +327,24 @@
     }
     ,
     {
+      "name": "Mr Rabbit Coin",
+      "symbol": "MRABBIT",
+      "address": "0xbFDA21Db28D5f3dc9586c190804871F831C6eb4F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xbFDA21Db28D5f3dc9586c190804871F831C6eb4F.png"
+    }
+    ,
+    {
+      "name": "Fortnite Token",
+      "symbol": "FNT",
+      "address": "0xD6c08040Db9d34932BA34c2cE10Ed37b4667A96a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xD6c08040Db9d34932BA34c2cE10Ed37b4667A96a.png"
+    }
+    ,
+    {
       "name": "Whale Exploder",
       "symbol": "WHEX",
       "address": "0x31e79A378fb85D8c4d51489E5c90ecAF9c17935A",

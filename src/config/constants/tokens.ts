@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  MRABBIT: {
+    symbol: 'MRABBIT',
+    address: {
+      56: '0xbFDA21Db28D5f3dc9586c190804871F831C6eb4F',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://mrrabbit.io',
+  },
+  FNT: {
+    symbol: 'FNT',
+    address: {
+      56: '0xD6c08040Db9d34932BA34c2cE10Ed37b4667A96a',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://fortnite-token.gitbook.io/fortnite-token/',
+  },
   BEP40: {
     symbol: 'BEP40',
     address: {
