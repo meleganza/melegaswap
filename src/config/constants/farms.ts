@@ -1047,6 +1047,17 @@ const farms: FarmConfig[] = [
     token: tokens.FNT,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 96,
+    lpSymbol: 'wCHK-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xc1abc7bEc45faadD806647b9B211973e7B4814c3',
+    },
+    token: tokens.wCHK,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

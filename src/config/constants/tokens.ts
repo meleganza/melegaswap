@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  wCHK: {
+    symbol: 'wCHK',
+    address: {
+      56: '0xCd03bCF9ABBaE8ea85C74Ca079B98768380A2950',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   MRABBIT: {
     symbol: 'MRABBIT',
     address: {

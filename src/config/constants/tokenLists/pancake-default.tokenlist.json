@@ -327,6 +327,15 @@
     }
     ,
     {
+      "name": "WRAPPED CHIKO TOKEN",
+      "symbol": "wCHK",
+      "address": "0xCd03bCF9ABBaE8ea85C74Ca079B98768380A2950",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xCd03bCF9ABBaE8ea85C74Ca079B98768380A2950.png"
+    }
+    ,
+    {
       "name": "Mr Rabbit Coin",
       "symbol": "MRABBIT",
       "address": "0xbFDA21Db28D5f3dc9586c190804871F831C6eb4F",
