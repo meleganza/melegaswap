@@ -336,6 +336,15 @@
     }
     ,
     {
+      "name": "YourKiss",
+      "symbol": "YKS",
+      "address": "0x00855c21754FE85fD4E38Ac23D2B3E091B04a042",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x00855c21754FE85fD4E38Ac23D2B3E091B04a042.png"
+    }
+    ,
+    {
       "name": "Mr Rabbit Coin",
       "symbol": "MRABBIT",
       "address": "0xbFDA21Db28D5f3dc9586c190804871F831C6eb4F",

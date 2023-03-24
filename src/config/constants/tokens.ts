@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  YKS: {
+    symbol: 'YKS',
+    address: {
+      56: '0x00855c21754FE85fD4E38Ac23D2B3E091B04a042',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'http://www.yourkiss.xyz',
+  },
   wCHK: {
     symbol: 'wCHK',
     address: {
@@ -80,7 +89,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://www.chikoverse.com/',
   },
   MRABBIT: {
     symbol: 'MRABBIT',
