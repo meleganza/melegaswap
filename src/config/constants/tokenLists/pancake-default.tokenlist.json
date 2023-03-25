@@ -336,6 +336,15 @@
     }
     ,
     {
+      "name": "BernaSwap Token",
+      "symbol": "Bera",
+      "address": "0xa76a484658192cac6a0B7D135699BE2C480929aB",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xa76a484658192cac6a0B7D135699BE2C480929aB.png"
+    }
+    ,
+    {
       "name": "YourKiss",
       "symbol": "YKS",
       "address": "0x00855c21754FE85fD4E38Ac23D2B3E091B04a042",

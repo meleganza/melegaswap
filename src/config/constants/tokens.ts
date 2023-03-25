@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  Bera: {
+    symbol: 'Bera',
+    address: {
+      56: '0xa76a484658192cac6a0B7D135699BE2C480929aB',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.bernaswap.finance/',
+  },
   YKS: {
     symbol: 'YKS',
     address: {
