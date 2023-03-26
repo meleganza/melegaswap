@@ -354,6 +354,15 @@
     }
     ,
     {
+      "name": "REALTOKEN",
+      "symbol": "REAL",
+      "address": "0x7b767Ae48D8BB479EFF5427aE5Ab8A90e4198276",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x7b767Ae48D8BB479EFF5427aE5Ab8A90e4198276.png"
+    }
+    ,
+    {
       "name": "Mr Rabbit Coin",
       "symbol": "MRABBIT",
       "address": "0xbFDA21Db28D5f3dc9586c190804871F831C6eb4F",

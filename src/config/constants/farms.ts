@@ -1080,6 +1080,17 @@ const farms: FarmConfig[] = [
     token: tokens.Bera,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 99,
+    lpSymbol: 'REAL-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x2Ab9727C2b0Ed72c01498B3c469964dbaba0EDDE',
+    },
+    token: tokens.REAL,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

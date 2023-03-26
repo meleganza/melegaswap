@@ -82,6 +82,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.bernaswap.finance/',
   },
+  REAL: {
+    symbol: 'REAL',
+    address: {
+      56: '0x7b767Ae48D8BB479EFF5427aE5Ab8A90e4198276',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://realtoken.social',
+  },
   YKS: {
     symbol: 'YKS',
     address: {
