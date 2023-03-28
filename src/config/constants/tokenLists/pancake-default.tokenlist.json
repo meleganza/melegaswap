@@ -372,6 +372,15 @@
     }
     ,
     {
+      "name": "Reflex",
+      "symbol": "RFX",
+      "address": "0xB44c63a09adF51f5E62CC7B63628b1B789941FA0",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xB44c63a09adF51f5E62CC7B63628b1B789941FA0.png"
+    }
+    ,
+    {
       "name": "REALTOKEN",
       "symbol": "REAL",
       "address": "0x7b767Ae48D8BB479EFF5427aE5Ab8A90e4198276",

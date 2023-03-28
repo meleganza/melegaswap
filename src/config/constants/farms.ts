@@ -1113,6 +1113,17 @@ const farms: FarmConfig[] = [
     token: tokens.FLOSHIDO,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 102,
+    lpSymbol: 'RFX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4a3D4885A82CD48C805b432E16066c1D44e1AC1C',
+    },
+    token: tokens.RFX,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

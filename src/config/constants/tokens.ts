@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  RFX: {
+    symbol: 'RFX',
+    address: {
+      56: '0xB44c63a09adF51f5E62CC7B63628b1B789941FA0',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   TREE: {
     symbol: 'TREE',
     address: {
