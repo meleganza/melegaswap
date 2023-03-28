@@ -1091,6 +1091,28 @@ const farms: FarmConfig[] = [
     token: tokens.REAL,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 100,
+    lpSymbol: 'TREE-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x71Fc590900C421bC9B3590BA55056dEa9df19589',
+    },
+    token: tokens.TREE,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 101,
+    lpSymbol: 'FLOSHIDO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x135cCfB6Eb2C1E890F18379C104FC52cf4f0355f',
+    },
+    token: tokens.FLOSHIDO,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

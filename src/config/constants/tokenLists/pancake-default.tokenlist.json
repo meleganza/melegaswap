@@ -354,6 +354,24 @@
     }
     ,
     {
+      "name": "TreeNity",
+      "symbol": "TREE",
+      "address": "0x089DE503a02529e10205EcfaA59db5421e755556",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x089DE503a02529e10205EcfaA59db5421e755556.png"
+    }
+    ,
+    {
+      "name": "FLOSHIDO INU",
+      "symbol": "Floshido",
+      "address": "0x87e04a05499cb8d352c2E367870D4cf0Ead460F0",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x87e04a05499cb8d352c2E367870D4cf0Ead460F0.png"
+    }
+    ,
+    {
       "name": "REALTOKEN",
       "symbol": "REAL",
       "address": "0x7b767Ae48D8BB479EFF5427aE5Ab8A90e4198276",

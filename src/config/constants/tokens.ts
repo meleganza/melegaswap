@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  TREE: {
+    symbol: 'TREE',
+    address: {
+      56: '0x089DE503a02529e10205EcfaA59db5421e755556',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://treenity.space/',
+  },
+  FLOSHIDO: {
+    symbol: 'FLOSHIDO',
+    address: {
+      56: '0x87e04a05499cb8d352c2E367870D4cf0Ead460F0',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'http://floshido.com',
+  },
   Bera: {
     symbol: 'Bera',
     address: {
