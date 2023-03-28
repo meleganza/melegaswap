@@ -9,12 +9,12 @@ import { PublicIfoData } from 'views/Ifos/types'
 
 const Timer: React.FC<any> = ({msg}) => {
   const { t } = useTranslation()
-  const secondsUntilEnd=1646506800-(new Date().getTime()/1000);
+  const secondsUntilEnd=1688083199-(new Date().getTime()/1000);
   const timeUntil = getTimePeriods(secondsUntilEnd)
-  console.log(timeUntil)
+  console.log(msg,timeUntil)
   return (
     <Flex justifyContent="center" m="10px">
-      {msg==="false"?<>
+      {msg===false?<>
         
         <PocketWatchIcon width="28px" mr="16px" />
         <Flex alignItems="center">
