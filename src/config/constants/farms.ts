@@ -1124,6 +1124,17 @@ const farms: FarmConfig[] = [
     token: tokens.RFX,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 103,
+    lpSymbol: 'MIR-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x796e3846Fe1ac6D839154737Da28110aaA9D419C',
+    },
+    token: tokens.MIR,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

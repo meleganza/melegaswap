@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  MIR: {
+    symbol: 'MIR',
+    address: {
+      56: '0x2134f3A7b18aE4161fBaB6EcCCa7497E17a6777b',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://mir-token.com',
+  },
   RFX: {
     symbol: 'RFX',
     address: {
