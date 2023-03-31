@@ -1193,7 +1193,7 @@ const pools: PoolConfig[] = [
   }
   ,
   {
-    sousId: 80,
+    sousId: 81,
     stakingToken: tokens.cake,
     earningToken: tokens.MIR,
     contractAddress: {
