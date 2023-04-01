@@ -73,6 +73,33 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  TFT: {
+    symbol: 'TFT',
+    address: {
+      56: '0xf647EE2DB2Ce2f42b4A851eFDc89656CC4A3c590',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'http://tombetsportsfantoken.com',
+  },
+  LMCSWAP: {
+    symbol: 'LMCSWAP',
+    address: {
+      56: '0x383094a91Ef2767Eed2B063ea40465670bf1C83f',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://limocoin.net',
+  },
+  bytc: {
+    symbol: 'bytc',
+    address: {
+      56: '0xae0D9f4E2ba939289955fB96b3ed6c7EBbEea6b5',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://bytecommerce.io/',
+  },
   MIR: {
     symbol: 'MIR',
     address: {

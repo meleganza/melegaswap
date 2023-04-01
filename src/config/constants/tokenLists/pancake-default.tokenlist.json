@@ -363,6 +363,33 @@
     }
     ,
     {
+      "name": "TomBet Fan Token",
+      "symbol": "TFT",
+      "address": "0xf647EE2DB2Ce2f42b4A851eFDc89656CC4A3c590",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xf647EE2DB2Ce2f42b4A851eFDc89656CC4A3c590.png"
+    }
+    ,
+    {
+      "name": "LIMOCOIN SWAP",
+      "symbol": "LMCSWAP",
+      "address": "0x383094a91Ef2767Eed2B063ea40465670bf1C83f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x383094a91Ef2767Eed2B063ea40465670bf1C83f.png"
+    }
+    ,
+    {
+      "name": "Bytecommerce",
+      "symbol": "bytc",
+      "address": "0xae0D9f4E2ba939289955fB96b3ed6c7EBbEea6b5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xae0D9f4E2ba939289955fB96b3ed6c7EBbEea6b5.png"
+    }
+    ,
+    {
       "name": "FLOSHIDO INU",
       "symbol": "Floshido",
       "address": "0x87e04a05499cb8d352c2E367870D4cf0Ead460F0",

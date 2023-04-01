@@ -1206,6 +1206,51 @@ const pools: PoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
+  ,
+  {
+    sousId: 82,
+    stakingToken: tokens.cake,
+    earningToken: tokens.TFT,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x31d764d47d8a50c6a354b1449f5927888c2525dc',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.015',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 83,
+    stakingToken: tokens.cake,
+    earningToken: tokens.LMCSWAP,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xc096c2c66e4ff53dd98b271d85735111b93b827b',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '1.75',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 84,
+    stakingToken: tokens.cake,
+    earningToken: tokens.bytc,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x359086ac3c48c33695ecf3bb4b09c710a5e7eedb',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '165',
+    sortOrder: 1,
+    isFinished: false,
+  }
 ]
 
 export default pools

@@ -1135,6 +1135,39 @@ const farms: FarmConfig[] = [
     token: tokens.MIR,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 104,
+    lpSymbol: 'TFT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3ff4C9f2B9eF1938bEfa2Ef7BCa71A2479A08953',
+    },
+    token: tokens.TFT,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 105,
+    lpSymbol: 'LMCSWAP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x5EC62Eac240F3E81A397677017f866E31761264C',
+    },
+    token: tokens.LMCSWAP,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 106,
+    lpSymbol: 'BYTC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xf4eFCE0862E5AF477B31abd773067CC5d4FF4e4C',
+    },
+    token: tokens.bytc,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
