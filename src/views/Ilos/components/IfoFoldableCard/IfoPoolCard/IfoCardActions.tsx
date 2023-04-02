@@ -31,8 +31,8 @@ const IfoCardActions: React.FC<Props> = ({  publicIfoData}) => {
         <div>
         <ContributeButtonBNB publicIfoData={publicIfoData} />
         <br/>
-        <br/>
-        <ContributeButtonETH publicIfoData={publicIfoData} />
+        {/* <br/>
+        <ContributeButtonETH publicIfoData={publicIfoData} /> */}
         </div>
       )}
     {/* sell button */}
