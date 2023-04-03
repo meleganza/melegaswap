@@ -381,6 +381,15 @@
     }
     ,
     {
+      "name": "Kush Coin",
+      "symbol": "KUSH",
+      "address": "0x0a6C10AB62408F8AF68B7132A929aA816b0d85D1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x0a6C10AB62408F8AF68B7132A929aA816b0d85D1.png"
+    }
+    ,
+    {
       "name": "Bytecommerce",
       "symbol": "bytc",
       "address": "0xae0D9f4E2ba939289955fB96b3ed6c7EBbEea6b5",

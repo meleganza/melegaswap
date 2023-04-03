@@ -1168,6 +1168,17 @@ const farms: FarmConfig[] = [
     token: tokens.bytc,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 107,
+    lpSymbol: 'KUSH-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xe18448B931B832928D3cb709Da51DA71FADa5154',
+    },
+    token: tokens.KUSH,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

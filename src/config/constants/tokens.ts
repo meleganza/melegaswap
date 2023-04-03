@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  KUSH: {
+    symbol: 'KUSH',
+    address: {
+      56: '0x0a6C10AB62408F8AF68B7132A929aA816b0d85D1',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.kushcoin.cc/',
+  },
   TFT: {
     symbol: 'TFT',
     address: {
