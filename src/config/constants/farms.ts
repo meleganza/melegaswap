@@ -1179,6 +1179,40 @@ const farms: FarmConfig[] = [
     token: tokens.KUSH,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 108,
+    lpSymbol: 'SHIBACASH-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x20919173f9600be72Ba3ed09125ec682a8FcBc5E',
+    },
+    token: tokens.SHIBACASH,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 109,
+    lpSymbol: 'RMOON-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8Ea2Aa7e3AF826037EFa1E8F5c2AeDf6657cA83B',
+    },
+    token: tokens.RMOON,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 110,
+    lpSymbol: 'KAREN-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x42A3c9FEd9fdD0737B9368a9f551f4aDd28f656c',
+    },
+    token: tokens.KAREN,
+    quoteToken: tokens.wbnb,
+  }
+ 
 ]
 
 export default farms

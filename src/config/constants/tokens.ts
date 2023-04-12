@@ -73,6 +73,33 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  SHIBACASH: {
+    symbol: 'SHIBACASH',
+    address: {
+      56: '0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
+  RMOON: {
+    symbol: 'RMOON',
+    address: {
+      56: '0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
+  KAREN: {
+    symbol: 'KAREN',
+    address: {
+      56: '0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
   KUSH: {
     symbol: 'KUSH',
     address: {
