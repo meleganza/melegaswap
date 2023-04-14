@@ -435,6 +435,15 @@
     }
     ,
     {
+      "name": "FART COIN",
+      "symbol": "FRTC",
+      "address": "0x88B985007d714d1578BCcdEc2303212c14946cdC",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x88B985007d714d1578BCcdEc2303212c14946cdC.png"
+    }
+    ,
+    {
       "name": "MIR TOKEN",
       "symbol": "MIR",
       "address": "0x2134f3A7b18aE4161fBaB6EcCCa7497E17a6777b",

@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  FRTC: {
+    symbol: 'FRTC',
+    address: {
+      56: '0x88B985007d714d1578BCcdEc2303212c14946cdC',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://fartcoin.gold/',
+  },
   SHIBACASH: {
     symbol: 'SHIBACASH',
     address: {

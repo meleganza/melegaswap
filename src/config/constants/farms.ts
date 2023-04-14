@@ -1212,6 +1212,17 @@ const farms: FarmConfig[] = [
     token: tokens.KAREN,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 111,
+    lpSymbol: 'FRTC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xa952FCc2cf6d82a78Fa1469aD7440C9c81b9587E',
+    },
+    token: tokens.FRTC,
+    quoteToken: tokens.wbnb,
+  }
  
 ]
 
