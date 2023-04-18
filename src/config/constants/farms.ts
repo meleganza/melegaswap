@@ -1256,6 +1256,17 @@ const farms: FarmConfig[] = [
     token: tokens.UFCB,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 115,
+    lpSymbol: 'UFCB-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA5261287b07C1CE9884a20DE3548D1bC92b5a1a2',
+    },
+    token: tokens.UFCB,
+    quoteToken: tokens.wbnb,
+  }
  
 ]
 
