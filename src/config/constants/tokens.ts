@@ -73,6 +73,33 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  EBTC: {
+    symbol: 'EBTC',
+    address: {
+      56: '0x756FB749575cAaE216Fc728E91a6cdBb637dA1f2',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'http://www.extremebtc.org/',
+  },
+  PHDAO: {
+    symbol: 'PHDAO',
+    address: {
+      56: '0xeec0f509e651135c7Cd01C07eA140064cf9AC41b',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'http://xphxco.org/',
+  },
+  UFCB: {
+    symbol: 'UFCB',
+    address: {
+      56: '0x92514cC3143228F2A25D1e19ABF0d9Bd719Ec50d',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://ufcb.world',
+  },
   FRTC: {
     symbol: 'FRTC',
     address: {

@@ -1223,6 +1223,39 @@ const farms: FarmConfig[] = [
     token: tokens.FRTC,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 112,
+    lpSymbol: 'EBTC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x109fbFA9Dc5E4a81Bf68950C3ceda4eF00bE354A',
+    },
+    token: tokens.EBTC,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 113,
+    lpSymbol: 'PHDAO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7bD82E397BCCB39827C675B1ef0878CAfb7AD061',
+    },
+    token: tokens.PHDAO,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 114,
+    lpSymbol: 'UFCB-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xfFd276124d09d515f0e3948f1f6016D76ce43864',
+    },
+    token: tokens.UFCB,
+    quoteToken: tokens.wbnb,
+  }
  
 ]
 

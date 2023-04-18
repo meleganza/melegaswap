@@ -54,6 +54,30 @@
       "logoURI": "https://melega.finance/images/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
     },
     {
+      "name": "Extremebtc",
+      "symbol": "EBTC",
+      "address": "0x756FB749575cAaE216Fc728E91a6cdBb637dA1f2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x756FB749575cAaE216Fc728E91a6cdBb637dA1f2.png"
+    },
+    {
+      "name": "PhoenixCo DAO Token",
+      "symbol": "PHDAO",
+      "address": "0xeec0f509e651135c7Cd01C07eA140064cf9AC41b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xeec0f509e651135c7Cd01C07eA140064cf9AC41b.png"
+    },
+    {
+      "name": "UFC Bets",
+      "symbol": "UFCB",
+      "address": "0x92514cC3143228F2A25D1e19ABF0d9Bd719Ec50d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x92514cC3143228F2A25D1e19ABF0d9Bd719Ec50d.png"
+    },
+    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x55d398326f99059fF775485246999027B3197955",
