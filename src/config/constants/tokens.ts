@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  NERVE: {
+    symbol: 'NERVE',
+    address: {
+      56: '0x8c21CEf3c0f25E7FA267E33602702e3f91775360',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://nerveflux.io/',
+  },
+  CDIG: {
+    symbol: 'CDIG',
+    address: {
+      56: '0x74Aa1B8De994239Ae0e1e01BBBeBC7e430E31a88',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 8,
+    projectLink: 'https://www.c6digital.com/',
+  },
   EBTC: {
     symbol: 'EBTC',
     address: {

@@ -46,6 +46,22 @@
       "logoURI": "https://melega.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
+      "name": "NERVEFLUX",
+      "symbol": "NERVE",
+      "address": "0x8c21CEf3c0f25E7FA267E33602702e3f91775360",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x8c21CEf3c0f25E7FA267E33602702e3f91775360.png"
+    },
+    {
+      "name": "C6Digital",
+      "symbol": "CDIG",
+      "address": "0x74Aa1B8De994239Ae0e1e01BBBeBC7e430E31a88",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://melega.finance/images/tokens/0x74Aa1B8De994239Ae0e1e01BBBeBC7e430E31a88.png"
+    },
+    {
       "name": "BTCB Token",
       "symbol": "BTCB",
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",

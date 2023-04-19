@@ -1267,6 +1267,28 @@ const farms: FarmConfig[] = [
     token: tokens.UFCB,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 116,
+    lpSymbol: 'NERVE-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x326Af65F7b5879d9E1c987B3792d7B54f01B5853',
+    },
+    token: tokens.NERVE,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 117,
+    lpSymbol: 'CDIG-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xa8C3c4CD17B965593CAD379ddBCfe9c0F62C98d4',
+    },
+    token: tokens.CDIG,
+    quoteToken: tokens.wbnb,
+  }
  
 ]
 
