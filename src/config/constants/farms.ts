@@ -1289,6 +1289,17 @@ const farms: FarmConfig[] = [
     token: tokens.CDIG,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 118,
+    lpSymbol: 'Dsun-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x2b2B1cb7CEf2D72FC77bB8405D32e5Cd75f5d74A',
+    },
+    token: tokens.Dsun,
+    quoteToken: tokens.wbnb,
+  }
  
 ]
 

@@ -54,6 +54,14 @@
       "logoURI": "https://melega.finance/images/tokens/0x8c21CEf3c0f25E7FA267E33602702e3f91775360.png"
     },
     {
+      "name": "Dsun Token",
+      "symbol": "Dsun",
+      "address": "0x1384555d00144c7725aC71DA2bB1fd67b9AD889a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x1384555d00144c7725aC71DA2bB1fd67b9AD889a.png"
+    },
+    {
       "name": "C6Digital",
       "symbol": "CDIG",
       "address": "0x74Aa1B8De994239Ae0e1e01BBBeBC7e430E31a88",

@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  Dsun: {
+    symbol: 'Dsun',
+    address: {
+      56: '0x1384555d00144c7725aC71DA2bB1fd67b9AD889a',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.dsundao.com/en/index.html',
+  },
   NERVE: {
     symbol: 'NERVE',
     address: {
