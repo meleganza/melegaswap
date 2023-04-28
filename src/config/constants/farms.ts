@@ -1300,6 +1300,28 @@ const farms: FarmConfig[] = [
     token: tokens.Dsun,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 119,
+    lpSymbol: 'LUCK-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x119446446103a23a70Cf56b65B235cEaA0e0f0e4',
+    },
+    token: tokens.luck,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 120,
+    lpSymbol: 'SLR-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA304275faFE95C8f8aa37489508BB507BEEB71A1',
+    },
+    token: tokens.SLR,
+    quoteToken: tokens.busd,
+  }
  
 ]
 

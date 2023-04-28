@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  SLR: {
+    symbol: 'SLR',
+    address: {
+      56: '0xf948feA2a95178D1B4889976629643d9a0C50295',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 4,
+    projectLink: 'https://solerise.org',
+  },
   Dsun: {
     symbol: 'Dsun',
     address: {

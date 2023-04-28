@@ -225,6 +225,15 @@
     }
     ,
     {
+      "name": "Solerise",
+      "symbol": "SLR",
+      "address": "0xf948feA2a95178D1B4889976629643d9a0C50295",
+      "chainId": 56,
+      "decimals": 4,
+      "logoURI": "https://melega.finance/images/tokens/0xf948feA2a95178D1B4889976629643d9a0C50295.png"
+    }
+    ,
+    {
       "name": "SWAPX",
       "symbol": "SPX",
       "address": "0xB705CFFb90A1169C56D5Bf78a5a25B439CD4d381",
