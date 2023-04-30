@@ -1322,7 +1322,28 @@ const farms: FarmConfig[] = [
     token: tokens.SLR,
     quoteToken: tokens.busd,
   }
- 
+  ,
+  {
+    pid: 121,
+    lpSymbol: 'LIRA-USDC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x98927FaD5ae7076ddF0CD226Ca6c5EE06995784b',
+    },
+    token: tokens.lira,
+    quoteToken: tokens.usdc,
+  }
+  ,
+  {
+    pid: 122,
+    lpSymbol: 'LIRA-USDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA4F9cf19918aFC754F552E18e32EBBFFD5149678',
+    },
+    token: tokens.lira,
+    quoteToken: tokens.usdt,
+  }
 ]
 
 export default farms
