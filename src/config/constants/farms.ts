@@ -1330,8 +1330,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x98927FaD5ae7076ddF0CD226Ca6c5EE06995784b',
     },
-    token: tokens.lira,
-    quoteToken: tokens.usdc,
+    token: tokens.usdc,
+    quoteToken: tokens.lira,
   }
   ,
   {
@@ -1341,8 +1341,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xA4F9cf19918aFC754F552E18e32EBBFFD5149678',
     },
-    token: tokens.lira,
-    quoteToken: tokens.usdt,
+    token: tokens.usdt,
+    quoteToken: tokens.lira,
   }
 ]
 
