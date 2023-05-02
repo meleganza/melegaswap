@@ -1347,7 +1347,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 123,
-    lpSymbol: 'BNBTiger-USDT LP',
+    lpSymbol: 'BNBTiger-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x7009b56DD817Df3Ca370Db3b39AE444621aA2f97',
