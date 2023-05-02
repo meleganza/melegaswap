@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  BNBTiger: {
+    symbol: 'BNBTiger',
+    address: {
+      56: '0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://bnbtiger.top/',
+  },
   SLR: {
     symbol: 'SLR',
     address: {

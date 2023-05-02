@@ -1344,6 +1344,17 @@ const farms: FarmConfig[] = [
     token: tokens.usdt,
     quoteToken: tokens.lira,
   }
+  ,
+  {
+    pid: 123,
+    lpSymbol: 'BNBTiger-USDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7009b56DD817Df3Ca370Db3b39AE444621aA2f97',
+    },
+    token: tokens.BNBTiger,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
