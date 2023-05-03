@@ -1355,6 +1355,17 @@ const farms: FarmConfig[] = [
     token: tokens.BNBTiger,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 124,
+    lpSymbol: 'SVR-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xed6970128aB8636050c997403C17682948C4AcF5',
+    },
+    token: tokens.SVR,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

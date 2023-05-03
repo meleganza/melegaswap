@@ -110,6 +110,14 @@
       "logoURI": "https://melega.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
+      "name": "Saver Token",
+      "symbol": "SVR",
+      "address": "0xF599eF4aAEC7462E685C783079Baa3c433f0F6D5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xF599eF4aAEC7462E685C783079Baa3c433f0F6D5.png"
+    },
+    {
       "name": "Bnb Tiger Inu",
       "symbol": "BNBTiger",
       "address": "0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D",

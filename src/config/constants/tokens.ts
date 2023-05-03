@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  SVR: {
+    symbol: 'SVR',
+    address: {
+      56: '0xF599eF4aAEC7462E685C783079Baa3c433f0F6D5',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://savertoken.org/',
+  },
   BNBTiger: {
     symbol: 'BNBTiger',
     address: {
