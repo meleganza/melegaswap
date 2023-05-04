@@ -1366,6 +1366,17 @@ const farms: FarmConfig[] = [
     token: tokens.SVR,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 125,
+    lpSymbol: 'PepeBNB-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xb3B032e537c98dbD8cD0ba9ba76ECDf4B57761B9',
+    },
+    token: tokens.PepeBNB,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

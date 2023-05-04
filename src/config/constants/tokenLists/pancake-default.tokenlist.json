@@ -118,6 +118,14 @@
       "logoURI": "https://melega.finance/images/tokens/0xF599eF4aAEC7462E685C783079Baa3c433f0F6D5.png"
     },
     {
+      "name": "Pepe The Frog",
+      "symbol": "PepeBNB",
+      "address": "0x47Fd014706081068448b89Fc6bAca2730977216a",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x47Fd014706081068448b89Fc6bAca2730977216a.png"
+    },
+    {
       "name": "Bnb Tiger Inu",
       "symbol": "BNBTiger",
       "address": "0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D",

@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  PepeBNB: {
+    symbol: 'PepeBNB',
+    address: {
+      56: '0x47Fd014706081068448b89Fc6bAca2730977216a',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://melega.finance/',
+  },
   SVR: {
     symbol: 'SVR',
     address: {
