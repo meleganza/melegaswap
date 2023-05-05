@@ -1377,6 +1377,28 @@ const farms: FarmConfig[] = [
     token: tokens.PepeBNB,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 126,
+    lpSymbol: 'IFRIT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xf02B06B11A327aAA169c2d4D6b983Bcfac49D8a7',
+    },
+    token: tokens.IFRIT,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 127,
+    lpSymbol: 'BACD2-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8D67E0c10Dd73c464d8649A1833a4Ba63BADb7db',
+    },
+    token: tokens.BACD2,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

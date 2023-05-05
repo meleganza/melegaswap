@@ -118,6 +118,22 @@
       "logoURI": "https://melega.finance/images/tokens/0xF599eF4aAEC7462E685C783079Baa3c433f0F6D5.png"
     },
     {
+      "name": "Ifrit Network",
+      "symbol": "IFRIT",
+      "address": "0xd86C5C6590394711E1b52bE2DE4Dd5318b2A79Fb",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xd86C5C6590394711E1b52bE2DE4Dd5318b2A79Fb.png"
+    },
+    {
+      "name": "BACDv2 Token",
+      "symbol": "BACD2",
+      "address": "0xc96Ebbc3b3158aAb69312e89fe04C9Cd192BeE01",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xc96Ebbc3b3158aAb69312e89fe04C9Cd192BeE01.png"
+    },
+    {
       "name": "Pepe The Frog",
       "symbol": "PepeBNB",
       "address": "0x47Fd014706081068448b89Fc6bAca2730977216a",

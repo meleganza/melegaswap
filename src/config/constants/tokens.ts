@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  IFRIT: {
+    symbol: 'IFRIT',
+    address: {
+      56: '0xd86C5C6590394711E1b52bE2DE4Dd5318b2A79Fb',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://ifritnetwork.com',
+  },
+  BACD2: {
+    symbol: 'BACD2',
+    address: {
+      56: '0xc96Ebbc3b3158aAb69312e89fe04C9Cd192BeE01',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'http://www.bacd.io',
+  },
   PepeBNB: {
     symbol: 'PepeBNB',
     address: {
