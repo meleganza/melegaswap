@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  SHAUN: {
+    symbol: 'SHAUN',
+    address: {
+      56: '0x05f816B53a4c7b6B3bfbE1F759DA7FE188689c5b',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://shauninu.io',
+  },
+  PEPA: {
+    symbol: 'PEPA',
+    address: {
+      56: '0xC3137c696796D69F783CD0Be4aB4bB96814234Aa',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://www.pepa-inu.com',
+  },
   IFRIT: {
     symbol: 'IFRIT',
     address: {

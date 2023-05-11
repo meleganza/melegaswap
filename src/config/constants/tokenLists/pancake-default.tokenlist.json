@@ -118,6 +118,22 @@
       "logoURI": "https://melega.finance/images/tokens/0xF599eF4aAEC7462E685C783079Baa3c433f0F6D5.png"
     },
     {
+      "name": "SHAUN INU",
+      "symbol": "SHAUN",
+      "address": "0x05f816B53a4c7b6B3bfbE1F759DA7FE188689c5b",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x05f816B53a4c7b6B3bfbE1F759DA7FE188689c5b.png"
+    },
+    {
+      "name": "Pepa Inu",
+      "symbol": "PEPA",
+      "address": "0xC3137c696796D69F783CD0Be4aB4bB96814234Aa",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xC3137c696796D69F783CD0Be4aB4bB96814234Aa.png"
+    },
+    {
       "name": "Ifrit Network",
       "symbol": "IFRIT",
       "address": "0xd86C5C6590394711E1b52bE2DE4Dd5318b2A79Fb",

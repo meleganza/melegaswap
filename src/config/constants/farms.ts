@@ -1399,6 +1399,28 @@ const farms: FarmConfig[] = [
     token: tokens.BACD2,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 128,
+    lpSymbol: 'SHAUN-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4921eAD48f6943161EB35319E128886ca3886296',
+    },
+    token: tokens.SHAUN,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 129,
+    lpSymbol: 'PEPA-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xC360B51f605E0D15F1F963114F8F84bBeb4C178f',
+    },
+    token: tokens.PEPA,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
