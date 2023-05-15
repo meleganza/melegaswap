@@ -126,6 +126,22 @@
       "logoURI": "https://melega.finance/images/tokens/0x05f816B53a4c7b6B3bfbE1F759DA7FE188689c5b.png"
     },
     {
+      "name": "BIBI",
+      "symbol": "BIBI",
+      "address": "0xFE8bF5B8F5e4eb5f9BC2be16303f7dAB8CF56aA8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xFE8bF5B8F5e4eb5f9BC2be16303f7dAB8CF56aA8.png"
+    },
+    {
+      "name": "MEME",
+      "symbol": "MEME",
+      "address": "0x4a645fB8AE60979eDf7f47C5c1A4569b7Fb07851",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x4a645fB8AE60979eDf7f47C5c1A4569b7Fb07851.png"
+    },
+    {
       "name": "Pepa Inu",
       "symbol": "PEPA",
       "address": "0xC3137c696796D69F783CD0Be4aB4bB96814234Aa",

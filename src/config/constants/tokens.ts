@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  MEME: {
+    symbol: 'MEME',
+    address: {
+      56: '0x4a645fB8AE60979eDf7f47C5c1A4569b7Fb07851',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://meme.bio',
+  },
+  BIBI: {
+    symbol: 'BIBI',
+    address: {
+      56: '0xFE8bF5B8F5e4eb5f9BC2be16303f7dAB8CF56aA8',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   SHAUN: {
     symbol: 'SHAUN',
     address: {

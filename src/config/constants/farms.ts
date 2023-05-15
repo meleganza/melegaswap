@@ -1421,6 +1421,28 @@ const farms: FarmConfig[] = [
     token: tokens.PEPA,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 130,
+    lpSymbol: 'BIBI-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x050e0dD04Ecc1E3010ce37ED52980560152feA46',
+    },
+    token: tokens.BIBI,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 131,
+    lpSymbol: 'MEME-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0e922779ADabB1dBA7d25353a9e17f3E14431a0b',
+    },
+    token: tokens.MEME,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
