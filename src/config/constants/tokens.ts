@@ -82,6 +82,24 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://meme.bio',
   },
+  XCEO: {
+    symbol: 'XCEO',
+    address: {
+      56: '0x4647dB3E806bFBdf755Fc3624319c04cEC151b7C',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.x-ceo.com',
+  },
+  RZ4: {
+    symbol: '4RZ',
+    address: {
+      56: '0x57A5aa266107261C2F497c8b4047D5299824D3CB',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.4realza.cloud',
+  },
   BIBI: {
     symbol: 'BIBI',
     address: {

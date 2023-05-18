@@ -1443,6 +1443,28 @@ const farms: FarmConfig[] = [
     token: tokens.MEME,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 132,
+    lpSymbol: 'XCEO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0e922779ADabB1dBA7d25353a9e17f3E14431a0b',
+    },
+    token: tokens.XCEO,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 133,
+    lpSymbol: '4RZ-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0e922779ADabB1dBA7d25353a9e17f3E14431a0b',
+    },
+    token: tokens.RZ4,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

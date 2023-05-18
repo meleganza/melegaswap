@@ -134,6 +134,22 @@
       "logoURI": "https://melega.finance/images/tokens/0xFE8bF5B8F5e4eb5f9BC2be16303f7dAB8CF56aA8.png"
     },
     {
+      "name": "X CEO",
+      "symbol": "XCEO",
+      "address": "0x4647dB3E806bFBdf755Fc3624319c04cEC151b7C",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x4647dB3E806bFBdf755Fc3624319c04cEC151b7C.png"
+    },
+    {
+      "name": "4REALZA COIN",
+      "symbol": "4RZ",
+      "address": "0x57A5aa266107261C2F497c8b4047D5299824D3CB",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x57A5aa266107261C2F497c8b4047D5299824D3CB.png"
+    },
+    {
       "name": "MEME",
       "symbol": "MEME",
       "address": "0x4a645fB8AE60979eDf7f47C5c1A4569b7Fb07851",
