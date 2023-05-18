@@ -1449,7 +1449,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'XCEO-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x0e922779ADabB1dBA7d25353a9e17f3E14431a0b',
+      56: '0x82218849Ec2dD3d59aeCa6b21825B08D3Fc65583',
     },
     token: tokens.XCEO,
     quoteToken: tokens.wbnb,
@@ -1460,7 +1460,7 @@ const farms: FarmConfig[] = [
     lpSymbol: '4RZ-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x0e922779ADabB1dBA7d25353a9e17f3E14431a0b',
+      56: '0xa15d85F1026aE7d96a29955eb77dF18cA7c2bad2',
     },
     token: tokens.RZ4,
     quoteToken: tokens.wbnb,
