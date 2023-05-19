@@ -80,7 +80,7 @@ const tokens = {
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://linktr.ee/mongbnb',
   },
   MEME: {
     symbol: 'MEME',
