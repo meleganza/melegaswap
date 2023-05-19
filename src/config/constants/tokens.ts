@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  MongBNB: {
+    symbol: 'MongBNB',
+    address: {
+      56: '0x5D31aA2330EFA65ACCa9567796FDf7d1caa6fA9A',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
   MEME: {
     symbol: 'MEME',
     address: {
