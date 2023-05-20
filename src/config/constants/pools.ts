@@ -1427,7 +1427,7 @@ const pools: PoolConfig[] = [
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
-    tokenPerBlock: '1.47',
+    tokenPerBlock: '0.48',
     sortOrder: 1,
     isFinished: false,
   }
@@ -1457,7 +1457,7 @@ const pools: PoolConfig[] = [
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
-    tokenPerBlock: '172',
+    tokenPerBlock: '17.2',
     sortOrder: 1,
     isFinished: false,
   }
