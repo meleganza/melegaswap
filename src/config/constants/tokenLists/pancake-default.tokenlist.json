@@ -54,6 +54,14 @@
       "logoURI": "https://melega.finance/images/tokens/0x8c21CEf3c0f25E7FA267E33602702e3f91775360.png"
     },
     {
+      "name": "BART",
+      "symbol": "BART",
+      "address": "0xC444Dde1cdad47C9082ef5122aAc5301a1e84E14",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xC444Dde1cdad47C9082ef5122aAc5301a1e84E14.png"
+    },
+    {
       "name": "Dsun Token",
       "symbol": "Dsun",
       "address": "0x1384555d00144c7725aC71DA2bB1fd67b9AD889a",

@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  BART: {
+    symbol: 'BART',
+    address: {
+      56: '0xC444Dde1cdad47C9082ef5122aAc5301a1e84E14',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://twitter.com/bartofficial0x',
+  },
   MongBNB: {
     symbol: 'MongBNB',
     address: {

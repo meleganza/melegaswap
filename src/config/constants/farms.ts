@@ -1476,6 +1476,17 @@ const farms: FarmConfig[] = [
     token: tokens.MongBNB,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 135,
+    lpSymbol: 'BART-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6E98c020dB9E6B7112c91b9924D155329E3a5dBE',
+    },
+    token: tokens.BART,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
