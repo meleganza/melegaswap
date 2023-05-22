@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  EYED: {
+    symbol: 'EYED',
+    address: {
+      56: '0xeDd9f422bC4D8E55c93a4E2fE64615f8dAb27223',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.eyed.me',
+  },
   BART: {
     symbol: 'BART',
     address: {

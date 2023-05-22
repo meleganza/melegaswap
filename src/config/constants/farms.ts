@@ -1487,6 +1487,17 @@ const farms: FarmConfig[] = [
     token: tokens.BART,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 136,
+    lpSymbol: 'EYED-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0Ca5da766a0D95a5B16aBFB974071C29391d1581',
+    },
+    token: tokens.EYED,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

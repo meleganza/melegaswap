@@ -62,6 +62,14 @@
       "logoURI": "https://melega.finance/images/tokens/0xC444Dde1cdad47C9082ef5122aAc5301a1e84E14.png"
     },
     {
+      "name": "EYED",
+      "symbol": "EYED",
+      "address": "0xeDd9f422bC4D8E55c93a4E2fE64615f8dAb27223",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xeDd9f422bC4D8E55c93a4E2fE64615f8dAb27223.png"
+    },
+    {
       "name": "Dsun Token",
       "symbol": "Dsun",
       "address": "0x1384555d00144c7725aC71DA2bB1fd67b9AD889a",
