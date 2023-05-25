@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  PORN: {
+    symbol: 'PORN',
+    address: {
+      56: '0x7D82b51fF67F94189c7C59A6648fDC34B3038C5E',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.pornai.tech/',
+  },
   EYED: {
     symbol: 'EYED',
     address: {

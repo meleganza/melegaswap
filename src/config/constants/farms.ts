@@ -1498,6 +1498,17 @@ const farms: FarmConfig[] = [
     token: tokens.EYED,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 137,
+    lpSymbol: 'PORN-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xd331a967575eeFef128CFF76291F48A5B1dFc9d4',
+    },
+    token: tokens.PORN,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
