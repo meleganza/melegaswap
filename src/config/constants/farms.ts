@@ -43,18 +43,19 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 3,
-    lpSymbol: 'GIOTTO-BNB LP',
+    lpSymbol: 'GIOTTO-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x443f2e9A5877e2896d1248288c73AA6B7402fbBe',
     },
+
     token: tokens.gitto,
     quoteToken: tokens.wbnb,
   }
   ,
   {
     pid: 4,
-    lpSymbol: 'ZLT-BNB LP',
+    lpSymbol: 'ZLT-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xD656C120E843012C33187E8732B83F0c1FC1f858',
@@ -87,7 +88,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 7,
-    lpSymbol: '2GCC-BNB LP',
+    lpSymbol: '2GCC-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xfEf01a730432A74d359B01CA9a6c51e2583E4224',
@@ -98,7 +99,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 8,
-    lpSymbol: 'M01-BNB LP',
+    lpSymbol: 'M01-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x2E1B5FdDa0A20e1cd8E4131408a0BbEF4FAeB8a2',
@@ -109,7 +110,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 9,
-    lpSymbol: 'RMBR-BNB LP',
+    lpSymbol: 'RMBR-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xBd47F3a3D0B7C21Ab393a157d0A46a1733eC1b01',
@@ -153,7 +154,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 13,
-    lpSymbol: 'MARCO-CAKE LP',
+    lpSymbol: 'MARCO-CAKE LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x75E6E495a4bDA582CbEd52dbfCb6F69D39C2cAeA',
@@ -164,7 +165,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 14,
-    lpSymbol: 'MXMX-BUSD LP',
+    lpSymbol: 'MXMX-BUSD LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x17313681251d12e0d7df38168E18B6B19367Bd09',
@@ -185,7 +186,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 16,
-    lpSymbol: 'MARCO-DOGE LP',
+    lpSymbol: 'MARCO-DOGE LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xd36421fdF280bA36Db6FBb67F4985aF91b47d16c',
@@ -206,7 +207,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 18,
-    lpSymbol: 'MARCO-SHIB LP',
+    lpSymbol: 'MARCO-SHIB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x004EdaC5B404Cad0a0E77F87EB2B99E130a346B3',
@@ -228,7 +229,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 20,
-    lpSymbol: 'MARCOLP-BNB LP',
+    lpSymbol: 'MARCOLP-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x9209c62C7A0Fa63919b48Ab4d18942b0BDF646c5',
@@ -239,7 +240,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 21,
-    lpSymbol: 'MXMXLP-BNB LP',
+    lpSymbol: 'MXMXLP-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x92D67958e922d46EceA95d0C8AC9446b83aF5075',
@@ -250,7 +251,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 22,
-    lpSymbol: 'MM72LP-BNB LP',
+    lpSymbol: 'MM72LP-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x5B610D743CeeC54EDccD5E724d75A768E30D2a45',
@@ -272,7 +273,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 24,
-    lpSymbol: 'MM19-BNB LP',
+    lpSymbol: 'MM19-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x56c52BBcDCE21C49f8944301694fbFF2c71A397F',
@@ -305,7 +306,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 27,
-    lpSymbol: 'MARCO-ETH LP',
+    lpSymbol: 'MARCO-ETH LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x82a1Bb35955a5eAc598665F4255817e13f1E6A7E',
@@ -316,7 +317,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 28,
-    lpSymbol: 'MARCO-BTCB LP',
+    lpSymbol: 'MARCO-BTCB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x84f6372D7e53C75C2D505Bb6D67aEBf116850A08',
@@ -327,7 +328,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 29,
-    lpSymbol: 'MARCO-DOT LP',
+    lpSymbol: 'MARCO-DOT LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x3bc28dEe541413D37A212C4ccC4b743C6B904c53',
@@ -348,7 +349,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 31,
-    lpSymbol: 'VOLT-MARCO LP',
+    lpSymbol: 'VOLT-MARCO LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xc5c866268b2F02C8074A2bf6dF2908cEe1172A83',
@@ -358,7 +359,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 32,
-    lpSymbol: 'FBTC-BNB LP',
+    lpSymbol: 'FBTC-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x9152995AEc7C2dEBCc6e2d34c5E30d3d25D4cEa4',
@@ -369,7 +370,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 33,
-    lpSymbol: 'GWT-BNB LP',
+    lpSymbol: 'GWT-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xDcf86B2472aFd4C16132d9A4C9891A16aF439be5',
@@ -379,7 +380,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 34,
-    lpSymbol: 'MARCO-QCWC LP',
+    lpSymbol: 'MARCO-QCWC LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x4142B4a2857E1D8cD2cdCBCcB5D2fE871c7b4E80',
@@ -389,7 +390,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 35,
-    lpSymbol: 'MARCO-OSTRICH LP',
+    lpSymbol: 'MARCO-OSTRICH LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x24d0aC1D7a12835d013cb6386F1a13C41fF7F2ce',
@@ -400,7 +401,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 36,
-    lpSymbol: 'KOALA-USDT LP',
+    lpSymbol: 'KOALA-USDT LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xbd19ebeC69eB3D70EAF840a24FC599bba9d1052A',
@@ -410,7 +411,7 @@ const farms: FarmConfig[] = [
   } ,
   {
     pid: 37,
-    lpSymbol: 'KOALA-BNB LP',
+    lpSymbol: 'KOALA-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x005ab723E40401dFe81C4d427DA62b4ea89Ec4eA',
@@ -420,7 +421,7 @@ const farms: FarmConfig[] = [
   } ,
   {
     pid: 38,
-    lpSymbol: 'FROGE-MARCO LP',
+    lpSymbol: 'FROGE-MARCO LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xe2c1D33a6b38E750F7C327a75e8bCF801722Fb7d',
@@ -441,7 +442,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 40,
-    lpSymbol: 'GPAY-BNB LP',
+    lpSymbol: 'GPAY-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x53B134E5B12D2BF914d23f556465B3b14efcdE69',
@@ -451,7 +452,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 41,
-    lpSymbol: 'GGW-BNB LP',
+    lpSymbol: 'GGW-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x9819ba5974E5A5062d9cC91ED1a39E5eeb8D43F8',
@@ -472,7 +473,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 43,
-    lpSymbol: 'MARCO-KOALA LP',
+    lpSymbol: 'MARCO-KOALA LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x8d0ba725A53048b946ADA25423117F209A4Cb36C',
@@ -504,7 +505,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 46,
-    lpSymbol: 'MARCO-SPX LP',
+    lpSymbol: 'MARCO-SPX LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x45fF0D167289A92df343535E4ECfFB9FF0C702c7',
@@ -515,7 +516,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 47,
-    lpSymbol: 'MARCO-LOIS LP',
+    lpSymbol: 'MARCO-LOIS LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xf83Fc461E9BF886cF6a60256cA1Fb4eeBeEeF2ce',
@@ -525,7 +526,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 48,
-    lpSymbol: 'MARCO-DOG LP',
+    lpSymbol: 'MARCO-DOG LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x110fc3c2BE135553Aee5A132BBf30cb858a3dA8c',
@@ -536,7 +537,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 49,
-    lpSymbol: 'MARCO-C4Cv2 LP',
+    lpSymbol: 'MARCO-C4Cv2 LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x1BbdBB9306b0F3a62981BEa3A67336180d4ad935',
@@ -547,7 +548,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 50,
-    lpSymbol: 'LIRA-HBIT LP',
+    lpSymbol: 'LIRA-HBIT LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x53eD8B7E8f2D221c28337FFe89BF89D16fcf5ED1',
@@ -569,7 +570,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 52,
-    lpSymbol: 'MARCO-2GCC LP',
+    lpSymbol: 'MARCO-2GCC LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x68daD1b10fbED92EDec1Afd9c5ffD7f6D78f7065',
@@ -591,7 +592,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 54,
-    lpSymbol: 'GPAY-2GCC LP',
+    lpSymbol: 'GPAY-2GCC LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xc09ecE1ECee683Cc53D19CB4CE27eaa6Ef3141ff',
@@ -602,7 +603,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 55,
-    lpSymbol: 'SFE-MARCO LP',
+    lpSymbol: 'SFE-MARCO LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x7755F749F5b16d2335D928EcBc9Da3aF210546fe',
@@ -613,7 +614,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 56,
-    lpSymbol: 'BEFX-BNB LP',
+    lpSymbol: 'BEFX-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x9C7D868232B503DD23C5bD57D1F42564f43117C1',
@@ -624,7 +625,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 57,
-    lpSymbol: 'FWC-BUSD LP',
+    lpSymbol: 'FWC-BUSD LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xe923F39def21c2BA761A973f4c87B2c656b310e1',
@@ -635,7 +636,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 58,
-    lpSymbol: 'BORZ-MARCO LP',
+    lpSymbol: 'BORZ-MARCO LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x61ef3c8f0463921a76b0e20f717BfCA9F634C56E',
@@ -646,7 +647,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 59,
-    lpSymbol: 'FAS-BNB LP',
+    lpSymbol: 'FAS-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xaa1634C5e09B2F8855e7646edE3c01B1B0d3CeC7',
@@ -657,7 +658,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 60,
-    lpSymbol: 'LIRA-2GCC LP',
+    lpSymbol: 'LIRA-2GCC LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xFe4651cc36905E71511b881f7bdB8250606Cd704',
@@ -668,7 +669,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 61,
-    lpSymbol: 'GPAY-M01 LP',
+    lpSymbol: 'GPAY-M01 LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x4B12EA1fc357Db0957a364d07B71d7236612722a',
@@ -679,7 +680,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 62,
-    lpSymbol: 'CTI-MARCO LP',
+    lpSymbol: 'CTI-MARCO LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x4cF18Cef70147c8659d10227577B0377Ef211ABf',
@@ -690,7 +691,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 63,
-    lpSymbol: 'CVL-MARCO LP',
+    lpSymbol: 'CVL-MARCO LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xeBa697Bd9588fF34061AD47cFe9017A29341EC8f',
@@ -701,7 +702,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 64,
-    lpSymbol: 'GIOTTO-M01 LP',
+    lpSymbol: 'GIOTTO-M01 LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x91012f390EC692Bcdd4356bbBD0c021AE6dF62ce',
@@ -744,7 +745,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 68,
-    lpSymbol: 'HSE-BNB LP',
+    lpSymbol: 'HSE-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x0F329A55e665686c1153C7157441BeEb04174679',
@@ -755,7 +756,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 69,
-    lpSymbol: 'TPCV3-BNB LP',
+    lpSymbol: 'TPCV3-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xA8C3FD42A5bAc6418D01f7889B3d4FD01e542cA2',
@@ -766,7 +767,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 70,
-    lpSymbol: 'SPACEAPE-BNB LP',
+    lpSymbol: 'SPACEAPE-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x8cD571B07df38460DCDEC21a95Cb36127593Ea3B',
@@ -777,7 +778,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 71,
-    lpSymbol: 'SFEA-SFE LP',
+    lpSymbol: 'SFEA-SFE LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x33Da61a585b9341F511698637ED0B4cFE61ab47b',
@@ -788,7 +789,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 72,
-    lpSymbol: 'SFE-BNB LP',
+    lpSymbol: 'SFE-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xCd6Ee29017F14dBe79f26968874Cf502347450F8',
@@ -810,7 +811,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 74,
-    lpSymbol: 'SBDEX-BNB LP',
+    lpSymbol: 'SBDEX-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x6521d46A2dEA6580095956D697Dc72E480CD26B6',
@@ -821,7 +822,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 75,
-    lpSymbol: 'RUG-BNB LP',
+    lpSymbol: 'RUG-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x079C06834F9575a2BE909D187084513622ca27F2',
@@ -832,7 +833,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 76,
-    lpSymbol: 'LCSTOKEN-BNB LP',
+    lpSymbol: 'LCSTOKEN-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x40Ec919bc6052C810ef31a8d5737c830114EF288',
@@ -853,7 +854,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 78,
-    lpSymbol: 'DYN-BNB LP',
+    lpSymbol: 'DYN-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x58b80D19A2d74aAb63a888a4e0891b696d071074',
@@ -864,7 +865,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 79,
-    lpSymbol: 'IPL-BNB LP',
+    lpSymbol: 'IPL-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xD84A8D737dcD790FB14618501CdDb4fAE0F49778',
@@ -875,7 +876,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 80,
-    lpSymbol: 'SUSU-BUSD LP',
+    lpSymbol: 'SUSU-BUSD LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x0676f0b348C60437Eb530a9d864581ecAecffB7b',
@@ -886,7 +887,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 81,
-    lpSymbol: 'WHEXDAO-BNB LP',
+    lpSymbol: 'WHEXDAO-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x32e7f908145E96E0dF986E1E662b4d110C78c184',
@@ -897,7 +898,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 82,
-    lpSymbol: 'DIGA-BNB LP',
+    lpSymbol: 'DIGA-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x9C8be4d92021C9669D3a526D51d131bFfbb78203',
@@ -930,7 +931,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 85,
-    lpSymbol: 'HYPEC-BNB LP',
+    lpSymbol: 'HYPEC-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x410FFBD6f6ff6364416EA5e3bE6CDFbA0558AcD7',
@@ -941,7 +942,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 86,
-    lpSymbol: 'DOGEUM-BNB LP',
+    lpSymbol: 'DOGEUM-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x51DE40396691D9FfaF78a9eD13Dd9d1090D97F27',
@@ -952,7 +953,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 87,
-    lpSymbol: 'HELP-BNB LP',
+    lpSymbol: 'HELP-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x84BF506f3b519ef1cc8889D211e56B046896A2c6',
@@ -974,7 +975,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 89,
-    lpSymbol: 'BEP40-BNB LP',
+    lpSymbol: 'BEP40-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xe2A68B1C1dfA3ab427E1f4E6FA6943944741291d',
@@ -985,7 +986,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 90,
-    lpSymbol: 'WHEX-BNB LP',
+    lpSymbol: 'WHEX-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x3E91c7AB0BeE50881d8805690D020CcC1be101fd',
@@ -996,7 +997,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 91,
-    lpSymbol: 'BTCF-BUSD LP',
+    lpSymbol: 'BTCF-BUSD LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xC20652C24A23b0aadce0915a72A16202E6EA8D6c',
@@ -1007,7 +1008,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 92,
-    lpSymbol: 'DOWA-BNB LP',
+    lpSymbol: 'DOWA-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xD0808Ef15d37346E29031ab91F98Df049192eA1b',
@@ -1029,7 +1030,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 94,
-    lpSymbol: 'MRABBIT-BNB LP',
+    lpSymbol: 'MRABBIT-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x36F32642Ab0C815709eE131e239CCC0ee51B7f82',
@@ -1040,7 +1041,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 95,
-    lpSymbol: 'FNT-BNB LP',
+    lpSymbol: 'FNT-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xbF34cdE9D1225f43cCC5080Db2F80C4bE884ECE5',
@@ -1051,7 +1052,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 96,
-    lpSymbol: 'wCHK-BNB LP',
+    lpSymbol: 'wCHK-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xc1abc7bEc45faadD806647b9B211973e7B4814c3',
@@ -1062,7 +1063,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 97,
-    lpSymbol: 'YKS-BNB LP',
+    lpSymbol: 'YKS-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x1cE423C43CA549B94C5277748B033C653d4a54E8',
@@ -1073,7 +1074,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 98,
-    lpSymbol: 'BERA-BNB LP',
+    lpSymbol: 'BERA-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x66d83c46cEA99B361Df85B3982a374915107b57E',
@@ -1084,7 +1085,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 99,
-    lpSymbol: 'REAL-BNB LP',
+    lpSymbol: 'REAL-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x2Ab9727C2b0Ed72c01498B3c469964dbaba0EDDE',
@@ -1095,7 +1096,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 100,
-    lpSymbol: 'TREE-BNB LP',
+    lpSymbol: 'TREE-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x71Fc590900C421bC9B3590BA55056dEa9df19589',
@@ -1106,7 +1107,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 101,
-    lpSymbol: 'FLOSHIDO-BNB LP',
+    lpSymbol: 'FLOSHIDO-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x135cCfB6Eb2C1E890F18379C104FC52cf4f0355f',
@@ -1139,7 +1140,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 104,
-    lpSymbol: 'TFT-BNB LP',
+    lpSymbol: 'TFT-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x3ff4C9f2B9eF1938bEfa2Ef7BCa71A2479A08953',
@@ -1161,7 +1162,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 106,
-    lpSymbol: 'BYTC-BNB LP',
+    lpSymbol: 'BYTC-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xf4eFCE0862E5AF477B31abd773067CC5d4FF4e4C',
@@ -1172,7 +1173,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 107,
-    lpSymbol: 'KUSH-BNB LP',
+    lpSymbol: 'KUSH-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xe18448B931B832928D3cb709Da51DA71FADa5154',
@@ -1194,7 +1195,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 109,
-    lpSymbol: 'RMOON-BNB LP',
+    lpSymbol: 'RMOON-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x8Ea2Aa7e3AF826037EFa1E8F5c2AeDf6657cA83B',
@@ -1227,7 +1228,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 112,
-    lpSymbol: 'EBTC-BNB LP',
+    lpSymbol: 'EBTC-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x109fbFA9Dc5E4a81Bf68950C3ceda4eF00bE354A',
@@ -1249,7 +1250,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 114,
-    lpSymbol: 'UFCB-BNB LP',
+    lpSymbol: 'UFCB-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xfFd276124d09d515f0e3948f1f6016D76ce43864',
@@ -1260,7 +1261,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 115,
-    lpSymbol: 'UFCB-BNB LP',
+    lpSymbol: 'UFCB-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xA5261287b07C1CE9884a20DE3548D1bC92b5a1a2',
@@ -1271,7 +1272,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 116,
-    lpSymbol: 'NERVE-BNB LP',
+    lpSymbol: 'NERVE-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x326Af65F7b5879d9E1c987B3792d7B54f01B5853',
@@ -1293,7 +1294,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 118,
-    lpSymbol: 'Dsun-BNB LP',
+    lpSymbol: 'Dsun-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x2b2B1cb7CEf2D72FC77bB8405D32e5Cd75f5d74A',
@@ -1315,7 +1316,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 120,
-    lpSymbol: 'SLR-BUSD LP',
+    lpSymbol: 'SLR-BUSD LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xA304275faFE95C8f8aa37489508BB507BEEB71A1',
@@ -1381,7 +1382,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 126,
-    lpSymbol: 'IFRIT-BNB LP',
+    lpSymbol: 'IFRIT-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xf02B06B11A327aAA169c2d4D6b983Bcfac49D8a7',
@@ -1437,7 +1438,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 131,
-    lpSymbol: 'MEME-BNB LP',
+    lpSymbol: 'MEME-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x0e922779ADabB1dBA7d25353a9e17f3E14431a0b',
