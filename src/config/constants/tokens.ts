@@ -73,6 +73,33 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  SUP: {
+    symbol: 'SUP',
+    address: {
+      56: '0x00274214C88e481eCC63460f11b264923C67f602',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://melega.finance/',
+  },
+  EDENX: {
+    symbol: 'EDENX',
+    address: {
+      56: '0x9eC7850ffa43C2392f103F73b5c36D661F302A65',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://edenxfunding.com/en',
+  },
+  PRP: {
+    symbol: 'PRP',
+    address: {
+      56: '0xc61b77Ec73BEb344404a3E3b9Bb23524A1cB5562',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'http://pepeprime.live',
+  },
   PORN: {
     symbol: 'PORN',
     address: {

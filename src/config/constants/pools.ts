@@ -1536,6 +1536,37 @@ const pools: PoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
+  
+  ,
+  {
+    sousId: 104,
+    stakingToken: tokens.cake,
+    earningToken: tokens.EDENX,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x674a89e97967e25ba179f526bf2b4d4f33dfc1ab',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '2.17',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 105,
+    stakingToken: tokens.cake,
+    earningToken: tokens.PRP,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x839ab912e4a56260216c848c667b19ffc324c1ec',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '13000000',
+    sortOrder: 1,
+    isFinished: false,
+  }
 ]
 
 export default pools

@@ -62,6 +62,30 @@
       "logoURI": "https://melega.finance/images/tokens/0xC444Dde1cdad47C9082ef5122aAc5301a1e84E14.png"
     },
     {
+      "name": "SUPEPE",
+      "symbol": "SUP",
+      "address": "0x00274214C88e481eCC63460f11b264923C67f602",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x00274214C88e481eCC63460f11b264923C67f602.png"
+    },
+    {
+      "name": "EdenX",
+      "symbol": "EDENX",
+      "address": "0x9eC7850ffa43C2392f103F73b5c36D661F302A65",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x9eC7850ffa43C2392f103F73b5c36D661F302A65.png"
+    },
+    {
+      "name": "Pepe Prime",
+      "symbol": "PRP",
+      "address": "0xc61b77Ec73BEb344404a3E3b9Bb23524A1cB5562",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xc61b77Ec73BEb344404a3E3b9Bb23524A1cB5562.png"
+    },
+    {
       "name": "PornAI",
       "symbol": "PORN",
       "address": "0x7D82b51fF67F94189c7C59A6648fDC34B3038C5E",

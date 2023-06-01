@@ -1371,7 +1371,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 125,
-    lpSymbol: 'PepeBNB-BNB LP',
+    lpSymbol: 'PepeBNB-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xb3B032e537c98dbD8cD0ba9ba76ECDf4B57761B9',
@@ -1510,6 +1510,39 @@ const farms: FarmConfig[] = [
       56: '0xd331a967575eeFef128CFF76291F48A5B1dFc9d4',
     },
     token: tokens.PORN,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 138,
+    lpSymbol: 'SUP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0b42685A93B478621E4cA8D6292cff89d65C19F2',
+    },
+    token: tokens.SUP,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 139,
+    lpSymbol: 'EDENX-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xd86B843EA186670e29b4Cd82d8A6FEf6FF841292',
+    },
+    token: tokens.EDENX,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 140,
+    lpSymbol: 'PRP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA7CB0D404179d842866e25F262865390299365A6',
+    },
+    token: tokens.PRP,
     quoteToken: tokens.wbnb,
   }
 ]
