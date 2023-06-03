@@ -73,6 +73,24 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  HUGO: {
+    symbol: 'HUGO',
+    address: {
+      56: '0x28E3fF085F67163532a843fBF714178770A0210c',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://hugoinu.com/',
+  },
+  GOGU: {
+    symbol: 'GOGU',
+    address: {
+      56: '0x1bd5B673627810576F490135A3E54847DA1d9C58',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 9,
+    projectLink: 'https://gogucoin.com',
+  },
   SUP: {
     symbol: 'SUP',
     address: {

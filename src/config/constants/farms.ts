@@ -1545,6 +1545,28 @@ const farms: FarmConfig[] = [
     token: tokens.PRP,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 141,
+    lpSymbol: 'HUGO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xeF8e4491d077D5C5d5cAD5AFFF3BC0E4aA0C24B5',
+    },
+    token: tokens.HUGO,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 142,
+    lpSymbol: 'GOGU-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x615B243FEc2EB51F53545A30433C98D2A3E79a79',
+    },
+    token: tokens.GOGU,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
