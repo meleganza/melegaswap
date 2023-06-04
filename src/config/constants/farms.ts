@@ -432,7 +432,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 39,
-    lpSymbol: 'ROTTO-BUSD LP',
+    lpSymbol: 'ROTTO-BUSD LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xef2e91559b3360e5c287fAC62c9034A5ea4AE1E0',
@@ -1482,7 +1482,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 135,
-    lpSymbol: 'BART-BNB LP',
+    lpSymbol: 'BART-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x6E98c020dB9E6B7112c91b9924D155329E3a5dBE',
