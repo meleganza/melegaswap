@@ -1471,7 +1471,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 134,
-    lpSymbol: 'MongBNB-BNB LP',
+    lpSymbol: 'MongBNB-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xb245bee375A3c7fC9447546C5CD2f83307f33904',
@@ -1504,7 +1504,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 137,
-    lpSymbol: 'PORN-BNB LP',
+    lpSymbol: 'PORN-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xd331a967575eeFef128CFF76291F48A5B1dFc9d4',
