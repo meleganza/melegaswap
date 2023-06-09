@@ -1283,7 +1283,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 117,
-    lpSymbol: 'CDIG-BNB LP',
+    lpSymbol: 'CDIG-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xa8C3c4CD17B965593CAD379ddBCfe9c0F62C98d4',
