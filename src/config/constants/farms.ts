@@ -284,7 +284,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 25,
-    lpSymbol: 'BEAR-BNB LP',
+    lpSymbol: 'BEAR-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x0Fdd8f7F59C2995595A07323C6555d4b4417eB38',
@@ -1184,7 +1184,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 108,
-    lpSymbol: 'SHIBACASH-BNB LP',
+    lpSymbol: 'SHIBACASH-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0x20919173f9600be72Ba3ed09125ec682a8FcBc5E',
@@ -1360,7 +1360,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 124,
-    lpSymbol: 'SVR-BNB LP',
+    lpSymbol: 'SVR-BNB LP',multiplier:"0X",
     lpAddresses: {
       97: '',
       56: '0xed6970128aB8636050c997403C17682948C4AcF5',
