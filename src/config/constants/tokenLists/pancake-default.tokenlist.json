@@ -206,6 +206,14 @@
       "logoURI": "https://melega.finance/images/tokens/0x5D31aA2330EFA65ACCa9567796FDf7d1caa6fA9A.png"
     },
     {
+      "name": "MrPRINGLES",
+      "symbol": "POP",
+      "address": "0x4EBD990c64a914258C3b6590273B135db60C97Db",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x4EBD990c64a914258C3b6590273B135db60C97Db.png"
+    },
+    {
       "name": "X CEO",
       "symbol": "XCEO",
       "address": "0x4647dB3E806bFBdf755Fc3624319c04cEC151b7C",

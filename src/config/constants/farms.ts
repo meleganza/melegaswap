@@ -1567,6 +1567,17 @@ const farms: FarmConfig[] = [
     token: tokens.GOGU,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 143,
+    lpSymbol: 'POP-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x57Cf74A5c7dA36501db634ba2A2E312FaCa1CfAE',
+    },
+    token: tokens.POP,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms

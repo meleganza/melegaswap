@@ -73,6 +73,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://melega.finance/',
   },
+  POP: {
+    symbol: 'POP',
+    address: {
+      56: '0x4EBD990c64a914258C3b6590273B135db60C97Db',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://www.mrpringles.me',
+  },
   HUGO: {
     symbol: 'HUGO',
     address: {
