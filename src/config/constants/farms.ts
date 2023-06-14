@@ -1611,6 +1611,17 @@ const farms: FarmConfig[] = [
     token: tokens.EYED,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 147,
+    lpSymbol: 'MM72-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x01dB17c476ad6a4c119f559eAb2d1AC9e340278E',
+    },
+    token: tokens.mm72,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
