@@ -1578,6 +1578,39 @@ const farms: FarmConfig[] = [
     token: tokens.POP,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 144,
+    lpSymbol: 'POP-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8D53D34FB9CbE7E1C34e9B70537788699d683752',
+    },
+    token: tokens.POP,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 145,
+    lpSymbol: 'SUP-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0xe1ac7B27398a538C20cc7e0930b4A46AAa45Aabe',
+    },
+    token: tokens.SUP,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 146,
+    lpSymbol: 'EYED-MARCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x90cE2b7f74DbE3F3854B80faD4d433005cf32CBC',
+    },
+    token: tokens.EYED,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
