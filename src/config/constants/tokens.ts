@@ -2900,6 +2900,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://moonpot.com/',
   },
+  jaba: {
+    symbol: 'JABA',
+    address: {
+      56: '0x69C7c30A4a28dCB65d6Dc6a1f2c0AB8F62f21709',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://jaba.fyi/',
+  },
 }
 
 export default tokens
