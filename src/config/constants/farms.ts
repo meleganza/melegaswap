@@ -1630,8 +1630,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xA29e5048D038A988308a6371e85ce574Ea5c43D6',
   },
-    token: tokens.JABA,
-    quoteToken: tokens.cake,
+    token: tokens.jaba,
+    quoteToken: tokens.wbnb,
   }
 ]
 
