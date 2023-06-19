@@ -991,6 +991,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png"
     }
-    
+    ,
+    {
+      "name": "Jaba",
+      "symbol": "JABA",
+      "address": "0x69C7c30A4a28dCB65d6Dc6a1f2c0AB8F62f21709",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://github.com/meleganza/melegaswap/commit/d905d128ccc2eb7b7a3e9be9258608aa0390fc5c"
+    }
   ]
 }
