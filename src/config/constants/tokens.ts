@@ -2909,6 +2909,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://jaba.fyi/',
   },
+  lsphere: {
+    symbol: 'LSPHERE',
+    address: {
+      56: '0x897504Dc693B30c367cdaCfA88578582686C1d95',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://lunaspheretoken.com/',
+  },
 }
 
 export default tokens
