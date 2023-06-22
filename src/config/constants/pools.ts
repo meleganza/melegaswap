@@ -1656,7 +1656,7 @@ const pools: PoolConfig[] = [
     tokenPerBlock: '50000',
     sortOrder: 1,
     isFinished: false,
-  },
+  }
 ]
 
 export default pools
