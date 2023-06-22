@@ -1000,5 +1000,13 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x69C7c30A4a28dCB65d6Dc6a1f2c0AB8F62f21709.png"
     }
+    {
+      "name": "Lunasphere",
+      "symbol": "LSPHERE",
+      "address": "0x897504Dc693B30c367cdaCfA88578582686C1d95",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x897504Dc693B30c367cdaCfA88578582686C1d95.png"
+    }
   ]
 }
