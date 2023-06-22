@@ -1633,6 +1633,17 @@ const farms: FarmConfig[] = [
     token: tokens.jaba,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 149,
+    lpSymbol: 'BNB-LSPHERE LP',
+    lpAddresses: {
+      97: '',
+      56: '0x9A6b07058A61a05027196ECC0738974c4C224C5d',
+  },
+    token: tokens.lsphere,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
