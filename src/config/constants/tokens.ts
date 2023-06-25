@@ -2918,6 +2918,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://lunaspheretoken.com/',
   },
+  cuby: {
+    symbol: 'CUBY',
+    address: {
+      56: '0x488907d99cE2ac919A47AcFac896e825Fd23598f',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://cubyield.com',
+  },
 }
 
 export default tokens
