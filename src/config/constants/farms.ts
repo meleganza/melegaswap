@@ -1646,7 +1646,7 @@ const farms: FarmConfig[] = [
   }
   ,
   {
-    pid: 150,
+    pid: 151,
     lpSymbol: 'BNB-CUBY LP',
     lpAddresses: {
       97: '',
