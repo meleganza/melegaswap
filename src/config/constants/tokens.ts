@@ -2927,6 +2927,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://cubyield.com',
   },
+  rocket: {
+    symbol: 'ROCKET',
+    address: {
+      56: '0x87374baef80590f5274bAE9C2533e10b6A3A79b8',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'http://www.rockettothemoon.io',
+  },
 }
 
 export default tokens
