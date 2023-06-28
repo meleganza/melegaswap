@@ -1018,5 +1018,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x488907d99cE2ac919A47AcFac896e825Fd23598f.png"
     }
+     ,
+    {
+      "name": "ROCKET",
+      "symbol": "ROCKET",
+      "address": "0x87374baef80590f5274bAE9C2533e10b6A3A79b8",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x87374baef80590f5274bAE9C2533e10b6A3A79b8.png"
+    }
   ]
 }
