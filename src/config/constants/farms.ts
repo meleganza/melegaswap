@@ -1658,7 +1658,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 152,
-    lpSymbol: 'MM72-MARCO LP',
+    lpSymbol: 'GGTKN-MARCO LP',
     lpAddresses: {
       97: '',
       56: '0x7689b49917887fB87e6125F47e1ee211773c3092',
