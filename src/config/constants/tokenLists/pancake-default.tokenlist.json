@@ -1027,5 +1027,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x87374baef80590f5274bAE9C2533e10b6A3A79b8.png"
     }
+     ,
+    {
+      "name": "The Success Kid",
+      "symbol": "SKID",
+      "address": "0x78125A67306DeAaE2Ae4D1d337b19b06c25111F7",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x78125A67306DeAaE2Ae4D1d337b19b06c25111F7.png"
+    }
   ]
 }
