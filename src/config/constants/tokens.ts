@@ -2936,6 +2936,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'http://www.rockettothemoon.io',
   },
+  skid: {
+    symbol: 'SKID',
+    address: {
+      56: '0x78125A67306DeAaE2Ae4D1d337b19b06c25111F7',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'http://thesuccesskid.com',
+  },
 }
 
 export default tokens
