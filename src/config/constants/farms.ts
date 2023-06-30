@@ -1677,6 +1677,17 @@ const farms: FarmConfig[] = [
     token: tokens.rocket,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 154,
+    lpSymbol: 'BNB-SKID LP',
+    lpAddresses: {
+      97: '',
+      56: '0xeC2727785f499632c75dEfB3Adb5C08D19a19732',
+  },
+    token: tokens.skid,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
