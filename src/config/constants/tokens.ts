@@ -2945,6 +2945,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'http://thesuccesskid.com',
   },
+  axpe: {
+    symbol: 'AXPE',
+    address: {
+      56: '0xFc0fEf50213A6Dfd339EdFC3CD71607895930b75',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://apexpepe.cloud',
+  },
 }
 
 export default tokens
