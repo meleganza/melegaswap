@@ -1036,5 +1036,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x78125A67306DeAaE2Ae4D1d337b19b06c25111F7.png"
     }
+    ,
+    {
+      "name": "APEX PEPE",
+      "symbol": "AXPE",
+      "address": "0xFc0fEf50213A6Dfd339EdFC3CD71607895930b75",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xFc0fEf50213A6Dfd339EdFC3CD71607895930b75.png"
+    }
   ]
 }
