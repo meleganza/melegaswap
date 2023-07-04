@@ -2972,6 +2972,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.aaroncoin.fun/',
   },
+   mong2: {
+    symbol: 'MONG2.0',
+    address: {
+      56: '0x42d0c24018162F9c88fB22dAC71Ea70bc00cA770',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://mongbnb.io',
+  },
 }
 
 export default tokens
