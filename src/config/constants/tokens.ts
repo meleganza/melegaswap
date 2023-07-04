@@ -2963,6 +2963,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.flytoken.bio/',
   },
+  aaron: {
+    symbol: 'AARON',
+    address: {
+      56: '0x31B5BE085aF875B675392f5B37a1d0B8c3860222',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.aaroncoin.fun/',
+  },
 }
 
 export default tokens
