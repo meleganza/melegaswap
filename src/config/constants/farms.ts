@@ -1677,7 +1677,7 @@ const farms: FarmConfig[] = [
     token: tokens.rocket,
     quoteToken: tokens.wbnb,
   }
-    ,
+  ,
   {
     pid: 154,
     lpSymbol: 'BNB-SKID LP',
@@ -1688,7 +1688,7 @@ const farms: FarmConfig[] = [
     token: tokens.skid,
     quoteToken: tokens.wbnb,
   }
-      ,
+  ,
   {
     pid: 155,
     lpSymbol: 'BNB-AXPE LP',
@@ -1697,6 +1697,17 @@ const farms: FarmConfig[] = [
       56: '0xF65fc0F8B6a7Ec6Fc20841FE626baB77A278B17c',
   },
     token: tokens.axpe,
+    quoteToken: tokens.wbnb,
+  }
+  ,
+  {
+    pid: 156,
+    lpSymbol: 'BNB-FLY LP',
+    lpAddresses: {
+      97: '',
+      56: '0xa1EB0d2aa6Aaea1dfD6A0A39e11F8B22f3723A91',
+  },
+    token: tokens.fly,
     quoteToken: tokens.wbnb,
   }
 ]
