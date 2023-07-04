@@ -1072,5 +1072,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x42d0c24018162F9c88fB22dAC71Ea70bc00cA770.png"
     }
+      ,
+    {
+      "name": "VIBRA",
+      "symbol": "VBR",
+      "address": "0xb1c137D4ab6d56529efB6E4F3616Ee6558083B7b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xb1c137D4ab6d56529efB6E4F3616Ee6558083B7b.png"
+    }
   ]
 }
