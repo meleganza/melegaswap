@@ -1054,5 +1054,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x4a28C0f2A7D4dE70Eef1564102e81E9fB82Be0c2.png"
     }
+    ,
+    {
+      "name": "AARON",
+      "symbol": "AARON",
+      "address": "0x31B5BE085aF875B675392f5B37a1d0B8c3860222",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x31B5BE085aF875B675392f5B37a1d0B8c3860222.png"
+    }
   ]
 }
