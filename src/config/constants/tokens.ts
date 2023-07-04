@@ -2954,6 +2954,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://apexpepe.cloud',
   },
+   fly: {
+    symbol: 'FLY',
+    address: {
+      56: '0x4a28C0f2A7D4dE70Eef1564102e81E9fB82Be0c2',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.flytoken.bio/',
+  },
 }
 
 export default tokens
