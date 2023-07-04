@@ -1710,6 +1710,17 @@ const farms: FarmConfig[] = [
     token: tokens.fly,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 157,
+    lpSymbol: 'BNB-VBR LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1963d9942B3Cf54Fed6065Da7BE0df73c8ac97ba',
+  },
+    token: tokens.vibra,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
