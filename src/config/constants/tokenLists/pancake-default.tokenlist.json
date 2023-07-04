@@ -1063,5 +1063,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x31B5BE085aF875B675392f5B37a1d0B8c3860222.png"
     }
+     ,
+    {
+      "name": "Mong 2.0",
+      "symbol": "MONG2.0",
+      "address": "0x42d0c24018162F9c88fB22dAC71Ea70bc00cA770",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x42d0c24018162F9c88fB22dAC71Ea70bc00cA770.png"
+    }
   ]
 }
