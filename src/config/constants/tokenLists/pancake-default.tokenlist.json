@@ -1045,5 +1045,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xFc0fEf50213A6Dfd339EdFC3CD71607895930b75.png"
     }
+    ,
+    {
+      "name": "FLY Token",
+      "symbol": "FLY",
+      "address": "0x4a28C0f2A7D4dE70Eef1564102e81E9fB82Be0c2",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x4a28C0f2A7D4dE70Eef1564102e81E9fB82Be0c2.png"
+    }
   ]
 }
