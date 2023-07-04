@@ -2981,6 +2981,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://mongbnb.io',
   },
+  mong2: {
+    symbol: 'VBR',
+    address: {
+      56: '0xb1c137D4ab6d56529efB6E4F3616Ee6558083B7b',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.vibraniumworld.com/pr/whitepaper#whitepaper',
+  },
 }
 
 export default tokens
