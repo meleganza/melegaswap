@@ -2990,6 +2990,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.vibraniumworld.com/pr/whitepaper#whitepaper',
   },
+  boai: {
+    symbol: 'BOAI',
+    address: {
+      56: '0x571DBCaA3df80dfebF69feFd084daCe4A22EA7bF',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://bolicai.space/',
+  },
 }
 
 export default tokens
