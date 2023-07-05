@@ -1072,7 +1072,7 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x42d0c24018162F9c88fB22dAC71Ea70bc00cA770.png"
     }
-      ,
+    ,
     {
       "name": "VIBRA",
       "symbol": "VBR",
@@ -1080,6 +1080,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xb1c137D4ab6d56529efB6E4F3616Ee6558083B7b.png"
+    }
+    ,
+    {
+      "name": "BOLICAI",
+      "symbol": "BOAI",
+      "address": "0x571DBCaA3df80dfebF69feFd084daCe4A22EA7bF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x571DBCaA3df80dfebF69feFd084daCe4A22EA7bF.png"
     }
   ]
 }
