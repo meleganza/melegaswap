@@ -1732,6 +1732,17 @@ const farms: FarmConfig[] = [
     token: tokens.boai,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 159,
+    lpSymbol: 'BNB-AARON LP',
+    lpAddresses: {
+      97: '',
+      56: '0x14b3DE51be085Be1feE1bb924b3AC32F1d7E64c1',
+  },
+    token: tokens.aaron,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
