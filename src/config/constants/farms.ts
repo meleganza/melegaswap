@@ -1743,6 +1743,17 @@ const farms: FarmConfig[] = [
     token: tokens.aaron,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 160,
+    lpSymbol: 'MARCO-AARON LP',
+    lpAddresses: {
+      97: '',
+      56: '0xc6f6F0A9525d43D68Ab3FC27a731c01b10F320FA',
+  },
+    token: tokens.aaron,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
