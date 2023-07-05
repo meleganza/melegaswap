@@ -1721,6 +1721,17 @@ const farms: FarmConfig[] = [
     token: tokens.vibra,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 158,
+    lpSymbol: 'BNB-BOAI LP',
+    lpAddresses: {
+      97: '',
+      56: '0xaE8A129bEe1430b4C10F1a4471f8Aaf69ED40e3E',
+  },
+    token: tokens.boai,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
