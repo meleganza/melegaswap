@@ -1800,7 +1800,7 @@ const farms: FarmConfig[] = [
   }
   ,
   {
-    pid: 165,
+    pid: 166,
     lpSymbol: '2GCC-M01 LP',
     lpAddresses: {
       97: '',
@@ -1811,7 +1811,7 @@ const farms: FarmConfig[] = [
   }
   ,
   {
-    pid: 166,
+    pid: 167,
     lpSymbol: '2GCC-ZLT LP',
     lpAddresses: {
       97: '',
