@@ -1798,6 +1798,17 @@ const farms: FarmConfig[] = [
     token: tokens.m01,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 165,
+    lpSymbol: '2GCC-M01 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x72a4BA75F297dfb1c863D6D2251e76948C9FaB60',
+  },
+    token: tokens.m01,
+    quoteToken: tokens.gcc2,
+  }
 ]
 
 export default farms
