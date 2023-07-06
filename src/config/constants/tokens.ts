@@ -2999,6 +2999,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://bolicai.space/',
   },
+  pco: {
+    symbol: 'PCO',
+    address: {
+      56: '0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://pintacrypto.shop',
+  },
 }
 
 export default tokens
