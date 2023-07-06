@@ -1090,5 +1090,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x571DBCaA3df80dfebF69feFd084daCe4A22EA7bF.png"
     }
+    ,
+    {
+      "name": "PINTA CRYPTO",
+      "symbol": "PCO",
+      "address": "0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d.png"
+    }
   ]
 }
