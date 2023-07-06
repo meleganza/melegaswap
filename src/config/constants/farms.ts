@@ -1754,6 +1754,17 @@ const farms: FarmConfig[] = [
     token: tokens.aaron,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 161,
+    lpSymbol: 'BNB-PCO LP',
+    lpAddresses: {
+      97: '',
+      56: '0xb4DC801634c6191947a43F76e9fb426D20ef9FF1',
+  },
+    token: tokens.pco,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
