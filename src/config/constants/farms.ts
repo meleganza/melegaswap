@@ -1776,6 +1776,28 @@ const farms: FarmConfig[] = [
     token: tokens.vibra,
     quoteToken: tokens.cake,
   }
+   ,
+  {
+    pid: 163,
+    lpSymbol: 'MARCO-2GCC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x68daD1b10fbED92EDec1Afd9c5ffD7f6D78f7065',
+  },
+    token: tokens.gcc2,
+    quoteToken: tokens.cake,
+  }
+  ,
+  {
+    pid: 164,
+    lpSymbol: 'MARCO-M01 LP',
+    lpAddresses: {
+      97: '',
+      56: '0xF04c6Ce1E2d50911dC6858f7e75b0dB4E054905e',
+  },
+    token: tokens.m01,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
