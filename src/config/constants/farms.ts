@@ -1820,6 +1820,17 @@ const farms: FarmConfig[] = [
     token: tokens.zoloto,
     quoteToken: tokens.gcc2,
   }
+  ,
+  {
+    pid: 168,
+    lpSymbol: 'BNB-MONG2.0 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0505D5780dF245B7a7aAf44d301d55886f349bae',
+  },
+    token: tokens.mong2,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
