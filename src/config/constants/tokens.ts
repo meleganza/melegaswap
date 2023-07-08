@@ -3008,6 +3008,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://pintacrypto.shop',
   },
+  teeny: {
+    symbol: 'TEENY',
+    address: {
+      56: '0x8c51D12f06C61af01D0D9f80401e8351733D54a0',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'http://TeenyCapCoin.github.io',
+  },
 }
 
 export default tokens
