@@ -1831,6 +1831,17 @@ const farms: FarmConfig[] = [
     token: tokens.mong2,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 169,
+    lpSymbol: 'BNB-TEENY LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6b92Ebc8eFe261fA595E96d8fBE606f90f10C9dd',
+  },
+    token: tokens.teeny,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
