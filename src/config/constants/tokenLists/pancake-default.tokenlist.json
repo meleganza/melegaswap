@@ -1099,5 +1099,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d.png"
     }
+    ,
+    {
+      "name": "TeenyCapCoin",
+      "symbol": "TEENY",
+      "address": "0x8c51D12f06C61af01D0D9f80401e8351733D54a0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x8c51D12f06C61af01D0D9f80401e8351733D54a0.png"
+    }
   ]
 }
