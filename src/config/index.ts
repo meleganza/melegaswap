@@ -21,7 +21,7 @@ export const BASE_BSC_SCAN_URLS = {
 // 9 MARCO per block goes to Yield farms and lottery
 // MARCO_PER_BLOCK in config/index.ts = 40 as we only change the amount sent to the burn pool which is effectively a farm.
 // MARCO/Block in src/views/Home/components/CakeDataRow.tsx = 19 (40 - Amount sent to burn pool)
-export const MARCO_PER_BLOCK = new BigNumber(0.002)
+export const MARCO_PER_BLOCK = new BigNumber(0.01)
 export const BLOCKS_PER_YEAR = new BigNumber((60 / BSC_BLOCK_TIME) * 60 * 24 * 365) // 10512000
 export const MARCO_PER_YEAR = MARCO_PER_BLOCK.times(BLOCKS_PER_YEAR)
 export const BASE_URL = 'https://melega.finance'
