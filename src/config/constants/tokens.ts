@@ -3017,6 +3017,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'http://TeenyCapCoin.github.io',
   },
+  chame: {
+    symbol: 'Chame',
+    address: {
+      56: '0x5b44B1b9576AfEb8941b01e0aed4aF624cD981DE',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.chameleonmeme.site/',
+  },
 }
 
 export default tokens
