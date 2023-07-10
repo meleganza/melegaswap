@@ -1842,6 +1842,17 @@ const farms: FarmConfig[] = [
     token: tokens.teeny,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 170,
+    lpSymbol: 'BNB-Chame LP',
+    lpAddresses: {
+      97: '',
+      56: '0xd3c32958b9A3074CDEF6365440c0ff871248C5C3',
+  },
+    token: tokens.chame,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
