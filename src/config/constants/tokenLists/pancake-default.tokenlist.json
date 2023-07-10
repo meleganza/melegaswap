@@ -1108,5 +1108,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x8c51D12f06C61af01D0D9f80401e8351733D54a0.png"
     }
+     ,
+    {
+      "name": "Chameleon",
+      "symbol": "Chame",
+      "address": "0x5b44B1b9576AfEb8941b01e0aed4aF624cD981DE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x5b44B1b9576AfEb8941b01e0aed4aF624cD981DE.png"
+    }
   ]
 }
