@@ -3026,6 +3026,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.chameleonmeme.site/',
   },
+   ptc: {
+    symbol: 'PTC',
+    address: {
+      56: '0xf382A28AAb0320e48D3D751f696f935B014B49BD',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'http://www.ptctoken.io/',
+  },
 }
 
 export default tokens
