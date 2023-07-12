@@ -1853,6 +1853,17 @@ const farms: FarmConfig[] = [
     token: tokens.chame,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 171,
+    lpSymbol: 'BNB-PTC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8091dAb42b8579322006b3C4e01743FE8319403B',
+  },
+    token: tokens.ptc,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
