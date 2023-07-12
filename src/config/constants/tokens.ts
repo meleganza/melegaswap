@@ -58,6 +58,13 @@ export const USDC = new Token(
   'USDC',
   'Binance-Peg USD Coin',
 )
+export const XRP = new Token(
+  ChainId.MAINNET,
+  '0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE',
+  18,
+  'XRP',
+  'Binance-Peg XRP Token',
+)
 
 const tokens = {
   bnb: {
