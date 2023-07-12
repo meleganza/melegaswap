@@ -1864,6 +1864,17 @@ const farms: FarmConfig[] = [
     token: tokens.ptc,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 172,
+    lpSymbol: 'XRP-PTC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x0a8789dfEB9948CBa455cFaeC2C26a41357B6BCf',
+  },
+    token: tokens.ptc,
+    quoteToken: tokens.xrp,
+  }
 ]
 
 export default farms
