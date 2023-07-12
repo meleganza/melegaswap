@@ -3035,15 +3035,6 @@ const tokens = {
     decimals: 8,
     projectLink: 'http://www.ptctoken.io/',
   },
-  xrp: {
-    symbol: 'XRP',
-    address: {
-      56: '0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://ripple.com/xrp/',
-  },
 }
 
 export default tokens
