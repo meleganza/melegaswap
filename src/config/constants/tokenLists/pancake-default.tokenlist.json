@@ -1117,5 +1117,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x5b44B1b9576AfEb8941b01e0aed4aF624cD981DE.png"
     }
+     ,
+    {
+      "name": "Prosperity Truth Coalition",
+      "symbol": "PTC",
+      "address": "0xf382A28AAb0320e48D3D751f696f935B014B49BD",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://melega.finance/images/tokens/0xf382A28AAb0320e48D3D751f696f935B014B49BD.png"
+    }
   ]
 }
