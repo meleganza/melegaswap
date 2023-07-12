@@ -3032,7 +3032,7 @@ const tokens = {
       56: '0xf382A28AAb0320e48D3D751f696f935B014B49BD',
       97: '',
     },
-    decimals: 18,
+    decimals: 8,
     projectLink: 'http://www.ptctoken.io/',
   },
 }
