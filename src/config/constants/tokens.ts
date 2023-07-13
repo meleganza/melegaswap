@@ -3042,6 +3042,15 @@ const tokens = {
     decimals: 8,
     projectLink: 'http://www.ptctoken.io/',
   },
+   binu: {
+    symbol: 'BINU',
+    address: {
+      56: '0x566088A09f246Bec5e37b441dAfC0B6c6c6c4D51',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://barbieinu.com/',
+  },
 }
 
 export default tokens
