@@ -1126,7 +1126,7 @@
       "decimals": 8,
       "logoURI": "https://melega.finance/images/tokens/0xf382A28AAb0320e48D3D751f696f935B014B49BD.png"
     }
-      ,
+    ,
     {
       "name": "Binance-Peg XRP Token",
       "symbol": "XRP",
@@ -1134,6 +1134,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+    }
+    ,
+    {
+      "name": "BARBIEINU",
+      "symbol": "BINU",
+      "address": "0x566088A09f246Bec5e37b441dAfC0B6c6c6c4D51",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x566088A09f246Bec5e37b441dAfC0B6c6c6c4D51.png"
     }
   ]
 }
