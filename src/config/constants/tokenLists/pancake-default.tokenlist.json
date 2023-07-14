@@ -1144,5 +1144,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x566088A09f246Bec5e37b441dAfC0B6c6c6c4D51.png"
     }
+     ,
+    {
+      "name": "WATCH DOGS",
+      "symbol": "WDT",
+      "address": "0x1D2da66c065683c05B678AEEa70Cb635dEcA491f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x1D2da66c065683c05B678AEEa70Cb635dEcA491f.png"
+    }
   ]
 }
