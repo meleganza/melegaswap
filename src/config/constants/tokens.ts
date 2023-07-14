@@ -3051,6 +3051,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://barbieinu.com/',
   },
+  wdt: {
+    symbol: 'WDT',
+    address: {
+      56: '0x1D2da66c065683c05B678AEEa70Cb635dEcA491f',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://watchdogs-bsc.com/',
+  },
 }
 
 export default tokens
