@@ -1153,5 +1153,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x1D2da66c065683c05B678AEEa70Cb635dEcA491f.png"
     }
+     ,
+    {
+      "name": "RAKY",
+      "symbol": "RAKY",
+      "address": "0x5f7cc946aBF0c853a2367ac436755dE6AA8D48Bd",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x5f7cc946aBF0c853a2367ac436755dE6AA8D48Bd.png"
+    }
   ]
 }
