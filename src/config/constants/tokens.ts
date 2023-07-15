@@ -3060,7 +3060,7 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://watchdogs-bsc.com/',
   },
-  wdt: {
+  raky: {
     symbol: 'RAKY',
     address: {
       56: '0x5f7cc946aBF0c853a2367ac436755dE6AA8D48Bd',
