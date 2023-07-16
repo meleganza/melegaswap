@@ -1864,7 +1864,7 @@ const farms: FarmConfig[] = [
     token: tokens.ptc,
     quoteToken: tokens.wbnb,
   }
-   ,
+  ,
   {
     pid: 172,
     lpSymbol: 'XRP-PTC LP',
@@ -1875,7 +1875,8 @@ const farms: FarmConfig[] = [
     token: tokens.ptc,
     quoteToken: tokens.xrp,
   }
-   {
+  ,
+  {
     pid: 173,
     lpSymbol: 'BNB-BODE LP',
     lpAddresses: {
