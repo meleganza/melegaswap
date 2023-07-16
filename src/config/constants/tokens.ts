@@ -3069,6 +3069,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.raky.fun',
   },
+   bode: {
+    symbol: 'BODE',
+    address: {
+      56: '0xD717Cf06922Fa4d00822d09cFcf90eAE97C85472',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://linktr.ee/bodecoin',
+  },
 }
 
 export default tokens
