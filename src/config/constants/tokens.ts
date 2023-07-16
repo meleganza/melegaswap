@@ -3069,7 +3069,7 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.raky.fun',
   },
-   bode: {
+  bode: {
     symbol: 'BODE',
     address: {
       56: '0xD717Cf06922Fa4d00822d09cFcf90eAE97C85472',
