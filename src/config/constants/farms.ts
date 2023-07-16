@@ -1875,6 +1875,16 @@ const farms: FarmConfig[] = [
     token: tokens.ptc,
     quoteToken: tokens.xrp,
   }
+   {
+    pid: 173,
+    lpSymbol: 'BNB-BODE LP',
+    lpAddresses: {
+      97: '',
+      56: '0x2602e99D3835Eadc755F904c98737B7a9c7E3BAE',
+  },
+    token: tokens.bode,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
