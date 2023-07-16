@@ -1162,5 +1162,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x5f7cc946aBF0c853a2367ac436755dE6AA8D48Bd.png"
     }
+     ,
+    {
+      "name": "BodeCoin",
+      "symbol": "BODE",
+      "address": "0xD717Cf06922Fa4d00822d09cFcf90eAE97C85472",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xD717Cf06922Fa4d00822d09cFcf90eAE97C85472.png"
+    }
   ]
 }
