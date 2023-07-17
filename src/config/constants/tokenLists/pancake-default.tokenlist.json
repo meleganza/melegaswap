@@ -1137,12 +1137,12 @@
     }
     ,
     {
-      "name": "BARBIEINU",
-      "symbol": "BINU",
-      "address": "0x566088A09f246Bec5e37b441dAfC0B6c6c6c4D51",
+      "name": "Young Degens",
+      "symbol": "YD",
+      "address": "0x7D1481568c72891bb87A964c3a6E6213Bd73d114",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://melega.finance/images/tokens/0x566088A09f246Bec5e37b441dAfC0B6c6c6c4D51.png"
+      "logoURI": "https://melega.finance/images/tokens/0x7D1481568c72891bb87A964c3a6E6213Bd73d114.png"
     }
      ,
     {
