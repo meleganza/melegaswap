@@ -3042,14 +3042,14 @@ const tokens = {
     decimals: 8,
     projectLink: 'http://www.ptctoken.io/',
   },
-   binu: {
-    symbol: 'BINU',
+   yd: {
+    symbol: 'YD',
     address: {
-      56: '0x566088A09f246Bec5e37b441dAfC0B6c6c6c4D51',
+      56: '0x7D1481568c72891bb87A964c3a6E6213Bd73d114',
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://barbieinu.com/',
+    projectLink: 'https://www.youngdegens.fun/',
   },
   wdt: {
     symbol: 'WDT',
