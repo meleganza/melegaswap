@@ -1882,6 +1882,21 @@ const pools: PoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
+   ,
+  {
+    sousId: 127,
+    stakingToken: tokens.cake,
+    earningToken: tokens.yatinu,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xbf5792166B16dB1DE4c78B0cF1DC1D0e6293878c',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '6000000000',
+    sortOrder: 1,
+    isFinished: false,
+  }
 ]
 
 export default pools
