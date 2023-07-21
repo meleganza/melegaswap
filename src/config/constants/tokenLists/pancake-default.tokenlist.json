@@ -1171,5 +1171,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xD717Cf06922Fa4d00822d09cFcf90eAE97C85472.png"
     }
+    ,
+    {
+      "name": "YATI INU",
+      "symbol": "YATINU",
+      "address": "0x20B87004c755D48F84233b37F2458AF8606842d0",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x20B87004c755D48F84233b37F2458AF8606842d0.png"
+    }
   ]
 }
