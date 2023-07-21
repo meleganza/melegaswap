@@ -3078,6 +3078,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://linktr.ee/bodecoin',
   },
+  yatinu: {
+    symbol: 'YATINU',
+    address: {
+      56: '0x20B87004c755D48F84233b37F2458AF8606842d0',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://yatiinu.site/',
+  },
 }
 
 export default tokens
