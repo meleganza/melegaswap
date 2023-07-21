@@ -1897,6 +1897,17 @@ const farms: FarmConfig[] = [
     token: tokens.wdt,
     quoteToken: tokens.wbnb,
   }
+     ,
+  {
+    pid: 175,
+    lpSymbol: 'BNB-YATINU LP',
+    lpAddresses: {
+      97: '',
+      56: '0xf581012014423C332190E4777b3dEa5cFA3b34CB',
+  },
+    token: tokens.yatinu,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
