@@ -1963,6 +1963,17 @@ const farms: FarmConfig[] = [
     token: tokens.m01,
     quoteToken: tokens.bear,
   }
+   ,
+  {
+    pid: 181,
+    lpSymbol: 'BEAR-ZLT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xa2d78F3f9DF50adAa6F42FD9269a06a328eF94D4',
+  },
+    token: tokens.zoloto,
+    quoteToken: tokens.bear,
+  }
 ]
 
 export default farms
