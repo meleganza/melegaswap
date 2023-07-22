@@ -1941,6 +1941,28 @@ const farms: FarmConfig[] = [
     token: tokens.gcc2,
     quoteToken: tokens.vibra,
   }
+   ,
+  {
+    pid: 179,
+    lpSymbol: 'BEAR-2GCC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4663212073549FD674bd588494eB06e906692fF4',
+  },
+    token: tokens.gcc2,
+    quoteToken: tokens.bear,
+  }
+  ,
+  {
+    pid: 180,
+    lpSymbol: 'BEAR-M01 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x737b674106Ce29a4604116e103eb9B6F2A289c64',
+  },
+    token: tokens.m01,
+    quoteToken: tokens.bear,
+  }
 ]
 
 export default farms
