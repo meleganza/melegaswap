@@ -1908,6 +1908,17 @@ const farms: FarmConfig[] = [
     token: tokens.yatinu,
     quoteToken: tokens.wbnb,
   }
+     ,
+  {
+    pid: 176,
+    lpSymbol: 'VBR-MXMX LP',
+    lpAddresses: {
+      97: '',
+      56: '0xc55DB48802FFF7a81188E943C16EF576dfC8ef1d',
+  },
+    token: tokens.mxmx,
+    quoteToken: tokens.vibra,
+  }
 ]
 
 export default farms
