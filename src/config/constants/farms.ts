@@ -1919,6 +1919,17 @@ const farms: FarmConfig[] = [
     token: tokens.mxmx,
     quoteToken: tokens.vibra,
   }
+  ,
+  {
+    pid: 177,
+    lpSymbol: 'VBR-M01 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x5C5D3410a6d9103c11c9b3e8A064e3e99DD81510',
+  },
+    token: tokens.m01,
+    quoteToken: tokens.vibra,
+  }
 ]
 
 export default farms
