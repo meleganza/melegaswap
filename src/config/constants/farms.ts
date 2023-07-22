@@ -1938,8 +1938,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xB86e833838e27808c2aD0a49647818823863AB8F',
   },
-    token: tokens.m01,
-    quoteToken: tokens.gcc2,
+    token: tokens.gcc2,
+    quoteToken: tokens.vibra,
   }
 ]
 
