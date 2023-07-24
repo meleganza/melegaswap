@@ -1180,5 +1180,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x20B87004c755D48F84233b37F2458AF8606842d0.png"
     }
+    ,
+    {
+      "name": "Mobster",
+      "symbol": "MOB",
+      "address": "0xc18358243294Ecf28955f7029559A253f04B4Ad9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xc18358243294Ecf28955f7029559A253f04B4Ad9.png"
+    }
   ]
 }
