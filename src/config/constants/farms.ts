@@ -1996,6 +1996,17 @@ const farms: FarmConfig[] = [
     token: tokens.raky,
     quoteToken: tokens.cake,
   }
+    ,
+  {
+    pid: 184,
+    lpSymbol: 'MXMX-RAKY LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6E7f53053B927cB6A04D91Eaa9F74F5E4605f410',
+  },
+    token: tokens.raky,
+    quoteToken: tokens.mxmx,
+  }
 ]
 
 export default farms
