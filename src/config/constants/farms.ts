@@ -2007,6 +2007,17 @@ const farms: FarmConfig[] = [
     token: tokens.raky,
     quoteToken: tokens.mxmx,
   }
+   ,
+  {
+    pid: 185,
+    lpSymbol: 'BNB-MOB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x06B78813445592254B0dCaa7d520256b49809420',
+  },
+    token: tokens.mob,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
