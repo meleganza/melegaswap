@@ -3087,6 +3087,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://yatiinu.site/',
   },
+  mob: {
+    symbol: 'MOB',
+    address: {
+      56: '0xc18358243294Ecf28955f7029559A253f04B4Ad9',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://topmobster.net',
+  },
 }
 
 export default tokens
