@@ -2029,6 +2029,17 @@ const farms: FarmConfig[] = [
     token: tokens.yd,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 187,
+    lpSymbol: 'MARCO-YD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xede506eE698acD55fB522c57772C9Db5f98cCFA2',
+  },
+    token: tokens.yd,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
