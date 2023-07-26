@@ -2040,6 +2040,17 @@ const farms: FarmConfig[] = [
     token: tokens.yd,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 188,
+    lpSymbol: 'MXMX-YD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8E256EC5c3cDb1093017E4E56423EF634cA99582',
+  },
+    token: tokens.yd,
+    quoteToken: tokens.mxmx,
+  }
 ]
 
 export default farms
