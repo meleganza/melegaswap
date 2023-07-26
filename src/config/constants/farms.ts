@@ -2018,6 +2018,17 @@ const farms: FarmConfig[] = [
     token: tokens.mob,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 186,
+    lpSymbol: 'BNB-YD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x93CA9862f9fea7636B7A143E54c6CD64D9585aEf',
+  },
+    token: tokens.yd,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
