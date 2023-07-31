@@ -3096,6 +3096,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://topmobster.net',
   },
+  cock: {
+    symbol: 'COCK',
+    address: {
+      56: '0x2A23ba69221c5e16c343009ECE4138f2EC5c5A27',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://cockroaches-bsc.fun/',
+  },
 }
 
 export default tokens
