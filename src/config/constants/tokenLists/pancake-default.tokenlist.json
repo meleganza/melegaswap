@@ -1189,5 +1189,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xc18358243294Ecf28955f7029559A253f04B4Ad9.png"
     }
+    ,
+    {
+      "name": "COCK",
+      "symbol": "COCK",
+      "address": "0x2A23ba69221c5e16c343009ECE4138f2EC5c5A27",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x2A23ba69221c5e16c343009ECE4138f2EC5c5A27.png"
+    }
   ]
 }
