@@ -3105,6 +3105,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://cockroaches-bsc.fun/',
   },
+  alter: {
+    symbol: 'ALTER',
+    address: {
+      56: '0x8b1FbfD453Ede87914CAE9999486406669980281',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://token.alterand.com/',
+  },
 }
 
 export default tokens
