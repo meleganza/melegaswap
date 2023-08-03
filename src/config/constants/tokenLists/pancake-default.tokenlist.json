@@ -1216,5 +1216,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xd78FEeae52B50F7927FC76e2eeA7FB10856B8d14.png"
     }
+      ,
+    {
+      "name": "TRUST AI",
+      "symbol": "TRT",
+      "address": "0x50C7584be73D20760f1947fFcbF7942822C968C8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x50C7584be73D20760f1947fFcbF7942822C968C8.png"
+    }
   ]
 }
