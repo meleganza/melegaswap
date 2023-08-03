@@ -3123,6 +3123,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://raiders-bsc.top',
   },
+  trt: {
+    symbol: 'TRT',
+    address: {
+      56: '0x50C7584be73D20760f1947fFcbF7942822C968C8',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.trust-ai.io',
+  },
 }
 
 export default tokens
