@@ -3114,6 +3114,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://token.alterand.com/',
   },
+  rdrs: {
+    symbol: 'RDRS',
+    address: {
+      56: '0xd78FEeae52B50F7927FC76e2eeA7FB10856B8d14',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://raiders-bsc.top',
+  },
 }
 
 export default tokens
