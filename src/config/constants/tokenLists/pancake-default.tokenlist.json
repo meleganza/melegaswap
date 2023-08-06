@@ -1225,5 +1225,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x50C7584be73D20760f1947fFcbF7942822C968C8.png"
     }
+     ,
+    {
+      "name": "ApeMax",
+      "symbol": "APEX",
+      "address": "0xb8021F48CaE5200Ee29b687c9b44129e50Ab4E18",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xb8021F48CaE5200Ee29b687c9b44129e50Ab4E18.png"
+    }
   ]
 }
