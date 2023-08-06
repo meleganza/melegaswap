@@ -3132,6 +3132,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.trust-ai.io',
   },
+  apemax: {
+    symbol: 'APEX',
+    address: {
+      56: '0xb8021F48CaE5200Ee29b687c9b44129e50Ab4E18',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://apemax.club/',
+  },
 }
 
 export default tokens
