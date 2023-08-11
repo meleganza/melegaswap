@@ -2117,6 +2117,17 @@ const farms: FarmConfig[] = [
     token: tokens.rdrs,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 195,
+    lpSymbol: 'MARCO-TRT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xdB5aEaFE874b0c1BDbAa1dfF1e7FC00479350d2E',
+  },
+    token: tokens.trt,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
