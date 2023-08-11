@@ -2106,6 +2106,17 @@ const farms: FarmConfig[] = [
     token: tokens.apemax,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 194,
+    lpSymbol: 'BNB-RDRS LP',
+    lpAddresses: {
+      97: '',
+      56: '0x91e6158B2F82A6C359B3F0d613E991D0457C41e8',
+  },
+    token: tokens.rdrs,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
