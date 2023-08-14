@@ -3141,6 +3141,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://apemax.club/',
   },
+  pepecb: {
+    symbol: 'PEPECB',
+    address: {
+      56: '0x7566730e023C5A735680DB3f782B9C596Ee6Bd64',
+      97: '',
+    },
+    decimals: 12,
+    projectLink: 'https://www.pepecb.net/',
+  },
 }
 
 export default tokens
