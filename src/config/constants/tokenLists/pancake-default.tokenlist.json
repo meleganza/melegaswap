@@ -1246,7 +1246,7 @@
      ,
     {
       "name": "CHOCOBO",
-      "symbol": "PEPECB",
+      "symbol": "CHOCO",
       "address": "0xf12F0131DDbf4B92b3D3c05092f93B5FCac7E48E",
       "chainId": 56,
       "decimals": 10,
