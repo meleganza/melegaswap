@@ -1243,5 +1243,14 @@
       "decimals": 12,
       "logoURI": "https://melega.finance/images/tokens/0x7566730e023C5A735680DB3f782B9C596Ee6Bd64.png"
     }
+     ,
+    {
+      "name": "CHOCOBO",
+      "symbol": "PEPECB",
+      "address": "0xf12F0131DDbf4B92b3D3c05092f93B5FCac7E48E",
+      "chainId": 56,
+      "decimals": 10,
+      "logoURI": "https://melega.finance/images/tokens/0xf12F0131DDbf4B92b3D3c05092f93B5FCac7E48E.png"
+    }
   ]
 }
