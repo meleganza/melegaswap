@@ -3150,6 +3150,15 @@ const tokens = {
     decimals: 12,
     projectLink: 'https://www.pepecb.net/',
   },
+  choco: {
+    symbol: 'CHOCO',
+    address: {
+      56: '0xf12F0131DDbf4B92b3D3c05092f93B5FCac7E48E',
+      97: '',
+    },
+    decimals: 10,
+    projectLink: 'https://www.chocobo.finance',
+  },
 }
 
 export default tokens
