@@ -3159,6 +3159,15 @@ const tokens = {
     decimals: 10,
     projectLink: 'https://www.chocobo.finance',
   },
+  agape: {
+    symbol: 'AGAPE',
+    address: {
+      56: '0xE0Ac1449Fda4Ea53e1A42caF5951112ccb38cEC1',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://agape.network',
+  },
 }
 
 export default tokens
