@@ -1252,5 +1252,14 @@
       "decimals": 10,
       "logoURI": "https://melega.finance/images/tokens/0xf12F0131DDbf4B92b3D3c05092f93B5FCac7E48E.png"
     }
+    ,
+    {
+      "name": "Agape Network",
+      "symbol": "AGAPE",
+      "address": "0xE0Ac1449Fda4Ea53e1A42caF5951112ccb38cEC1",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xE0Ac1449Fda4Ea53e1A42caF5951112ccb38cEC1.png"
+    }
   ]
 }
