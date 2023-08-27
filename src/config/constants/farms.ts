@@ -2139,6 +2139,17 @@ const farms: FarmConfig[] = [
     token: tokens.pepecb,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 197,
+    lpSymbol: 'BNB-AGAPE LP',
+    lpAddresses: {
+      97: '',
+      56: '0xa827E2CfcA2C39c8e658AA18b816B974dB260C1F',
+  },
+    token: tokens.agape,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
