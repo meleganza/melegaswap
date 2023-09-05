@@ -3177,6 +3177,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.catcattoken.com/',
   },
+  icn: {
+    symbol: 'ICN',
+    address: {
+      56: '0xa66b9baCA9681C154890AD703dc5e2766d4ec2C1',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://itscorntoken.com/',
+  },
 }
 
 export default tokens
