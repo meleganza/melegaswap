@@ -1261,5 +1261,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xE0Ac1449Fda4Ea53e1A42caF5951112ccb38cEC1.png"
     }
+     ,
+    {
+      "name": "Cat",
+      "symbol": "CAT",
+      "address": "0x0173295183685F27C84db046B5F0bea3e683c24b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x0173295183685F27C84db046B5F0bea3e683c24b.png"
+    }
   ]
 }
