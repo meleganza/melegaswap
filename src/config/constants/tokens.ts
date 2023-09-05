@@ -3168,6 +3168,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://agape.network',
   },
+  cat: {
+    symbol: 'CAT',
+    address: {
+      56: '0x0173295183685F27C84db046B5F0bea3e683c24b',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.catcattoken.com/',
+  },
 }
 
 export default tokens
