@@ -2172,6 +2172,17 @@ const farms: FarmConfig[] = [
     token: tokens.icn,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 200,
+    lpSymbol: 'BNB-DOCSWAP LP',
+    lpAddresses: {
+      97: '',
+      56: '0xF534718314f6B5ae833937B09a7a8EC03b1f7679',
+  },
+    token: tokens.docswap,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
