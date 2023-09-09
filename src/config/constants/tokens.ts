@@ -3186,6 +3186,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://itscorntoken.com/',
   },
+  docswap: {
+    symbol: 'DOCSWAP',
+    address: {
+      56: '0xdE314A065AaaF11E794706F8585C77e3Bb7a2741',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://dexoncrypto.com',
+  },
 }
 
 export default tokens
