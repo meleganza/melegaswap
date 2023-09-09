@@ -1270,7 +1270,7 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x0173295183685F27C84db046B5F0bea3e683c24b.png"
     }
-        ,
+     ,
     {
       "name": "ITs CORN",
       "symbol": "ICN",
@@ -1278,6 +1278,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xa66b9baCA9681C154890AD703dc5e2766d4ec2C1.png"
+    }
+    ,
+    {
+      "name": "Dex on Crypto",
+      "symbol": "DOCSWAP",
+      "address": "0xdE314A065AaaF11E794706F8585C77e3Bb7a2741",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xdE314A065AaaF11E794706F8585C77e3Bb7a2741.png"
     }
   ]
 }
