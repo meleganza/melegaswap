@@ -1288,5 +1288,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xdE314A065AaaF11E794706F8585C77e3Bb7a2741.png"
     }
+    ,
+    {
+      "name": "AGAPE AI",
+      "symbol": "AGAPE",
+      "address": "0xA23e51E642ee692919eA5cC85174b1e4579d66b8",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xA23e51E642ee692919eA5cC85174b1e4579d66b8.png"
+    }
   ]
 }
