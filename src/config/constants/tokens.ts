@@ -3195,6 +3195,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://dexoncrypto.com',
   },
+  agapeai: {
+    symbol: 'AGAPE',
+    address: {
+      56: '0xA23e51E642ee692919eA5cC85174b1e4579d66b8',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://agape.network/',
+  },
 }
 
 export default tokens
