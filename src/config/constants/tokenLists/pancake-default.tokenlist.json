@@ -1297,5 +1297,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xA23e51E642ee692919eA5cC85174b1e4579d66b8.png"
     }
+    ,
+    {
+      "name": "SafeOne Chain",
+      "symbol": "SAFO",
+      "address": "0x9320bdB3C8F3d0B1313726EFbB0f0061EBf149aD",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x9320bdB3C8F3d0B1313726EFbB0f0061EBf149aD.png"
+    }
   ]
 }
