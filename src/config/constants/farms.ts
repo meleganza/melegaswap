@@ -2183,6 +2183,17 @@ const farms: FarmConfig[] = [
     token: tokens.docswap,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 201,
+    lpSymbol: 'BNB-SAFO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x191F29C2B4Cc69BFd73901be6D8F03BD1a26a47b',
+  },
+    token: tokens.safo,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
