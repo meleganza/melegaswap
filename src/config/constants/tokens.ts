@@ -3204,6 +3204,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://agape.network/',
   },
+  safo: {
+    symbol: 'SAFO',
+    address: {
+      56: '0x9320bdB3C8F3d0B1313726EFbB0f0061EBf149aD',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://safeonechain.com',
+  },
 }
 
 export default tokens
