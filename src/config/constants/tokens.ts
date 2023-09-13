@@ -3213,6 +3213,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://safeonechain.com',
   },
+  m420: {
+    symbol: 'M420',
+    address: {
+      56: '0x4b8B1Af70CFc9F5efb13938326Ad4371b51E7c00',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://meme420.shop/',
+  },
 }
 
 export default tokens
