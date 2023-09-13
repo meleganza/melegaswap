@@ -2205,6 +2205,17 @@ const farms: FarmConfig[] = [
     token: tokens.agapeai,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 203,
+    lpSymbol: 'BNB-M420 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8De677Fab90331A930Bad1c1EBBE391dDeE1D4b0',
+  },
+    token: tokens.m420,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
