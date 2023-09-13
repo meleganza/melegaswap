@@ -1306,5 +1306,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x9320bdB3C8F3d0B1313726EFbB0f0061EBf149aD.png"
     }
+    ,
+    {
+      "name": "Meme420",
+      "symbol": "M420",
+      "address": "0x4b8B1Af70CFc9F5efb13938326Ad4371b51E7c00",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x4b8B1Af70CFc9F5efb13938326Ad4371b51E7c00.png"
+    }
   ]
 }
