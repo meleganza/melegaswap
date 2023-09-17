@@ -2216,6 +2216,17 @@ const farms: FarmConfig[] = [
     token: tokens.m420,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 204,
+    lpSymbol: 'BNB-CLAN LP',
+    lpAddresses: {
+      97: '',
+      56: '0xE71A687231864696557EB97Dc15E077d11d52760',
+  },
+    token: tokens.clan,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
