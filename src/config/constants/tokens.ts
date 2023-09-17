@@ -3222,6 +3222,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://meme420.shop/',
   },
+  clan: {
+    symbol: 'CLAN',
+    address: {
+      56: '0xd9eA86B189e97C6119238D10fa940e23Fb6bD073',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://theclantoken.com',
+  },
 }
 
 export default tokens
