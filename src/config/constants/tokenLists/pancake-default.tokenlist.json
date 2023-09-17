@@ -1315,5 +1315,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x4b8B1Af70CFc9F5efb13938326Ad4371b51E7c00.png"
     }
+     ,
+    {
+      "name": "The Clan",
+      "symbol": "CLAN",
+      "address": "0xd9eA86B189e97C6119238D10fa940e23Fb6bD073",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xd9eA86B189e97C6119238D10fa940e23Fb6bD073.png"
+    }
   ]
 }
