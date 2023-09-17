@@ -3231,6 +3231,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://theclantoken.com',
   },
+  rari: {
+    symbol: 'RARI',
+    address: {
+      56: '0xfBcaa62b6e76dDF2e085B1483ec742e8A1474513',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.rari.fun',
+  },
 }
 
 export default tokens
