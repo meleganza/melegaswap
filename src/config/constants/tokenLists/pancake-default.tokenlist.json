@@ -1324,5 +1324,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xd9eA86B189e97C6119238D10fa940e23Fb6bD073.png"
     }
+    ,
+    {
+      "name": "RARI",
+      "symbol": "RARI",
+      "address": "0xfBcaa62b6e76dDF2e085B1483ec742e8A1474513",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xfBcaa62b6e76dDF2e085B1483ec742e8A1474513.png"
+    }
   ]
 }
