@@ -1333,5 +1333,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xfBcaa62b6e76dDF2e085B1483ec742e8A1474513.png"
     }
+    ,
+    {
+      "name": "Shibafomi",
+      "symbol": "SHIFO",
+      "address": "0x61d9f522B332d1F2ab25d5803371E5EaC6cf8808",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x61d9f522B332d1F2ab25d5803371E5EaC6cf8808.png"
+    }
   ]
 }
