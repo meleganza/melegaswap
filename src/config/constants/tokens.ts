@@ -3240,6 +3240,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.rari.fun',
   },
+  shifo: {
+    symbol: 'SHIFO',
+    address: {
+      56: '0x61d9f522B332d1F2ab25d5803371E5EaC6cf8808',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://www.Shibafomi.com',
+  },
 }
 
 export default tokens
