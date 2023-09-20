@@ -2772,15 +2772,6 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.confluxnetwork.org/',
   },
-  mx: {
-    symbol: 'MX',
-    address: {
-      56: '0x9F882567A62a5560d147d64871776EeA72Df41D3',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://www.mxc.com/',
-  },
   ata: {
     symbol: 'ATA',
     address: {
