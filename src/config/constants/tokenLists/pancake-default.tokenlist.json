@@ -1342,5 +1342,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x61d9f522B332d1F2ab25d5803371E5EaC6cf8808.png"
     }
+     ,
+    {
+      "name": "Mix",
+      "symbol": "MX",
+      "address": "0xEF9d8E6918e4dE524cb768057Cd44374e449Aa8E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xEF9d8E6918e4dE524cb768057Cd44374e449Aa8E.png"
+    }
   ]
 }
