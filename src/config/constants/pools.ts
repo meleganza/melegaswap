@@ -2201,7 +2201,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 148,
     stakingToken: tokens.cake,
-    earningToken: tokens.mix,
+    earningToken: tokens.mix2,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0xD27121a03C23F3a57cFdbcEBe7639C3934A4A693',
