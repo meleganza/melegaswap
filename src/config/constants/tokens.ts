@@ -3240,6 +3240,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://www.Shibafomi.com',
   },
+  mix: {
+    symbol: 'MX',
+    address: {
+      56: '0x9F882567A62a5560d147d64871776EeA72Df41D3',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://mushee.xyz/',
+  },
 }
 
 export default tokens
