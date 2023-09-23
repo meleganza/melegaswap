@@ -3249,6 +3249,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://mushee.xyz/',
   },
+  chc: {
+    symbol: 'CHC',
+    address: {
+      56: '0xe5bE0c405a02120648C219e4378648575aA28F84',
+      97: '',
+    },
+    decimals: 10,
+    projectLink: 'https://chefscoins.website',
+  },
 }
 
 export default tokens
