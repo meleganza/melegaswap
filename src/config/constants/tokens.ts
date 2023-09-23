@@ -3250,7 +3250,7 @@ const tokens = {
     projectLink: 'https://mushee.xyz/',
   },
   chc: {
-    symbol: 'CHC',
+    symbol: 'chc',
     address: {
       56: '0xe5bE0c405a02120648C219e4378648575aA28F84',
       97: '',
