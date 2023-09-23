@@ -1351,5 +1351,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xEF9d8E6918e4dE524cb768057Cd44374e449Aa8E.png"
     }
+      ,
+    {
+      "name": "chefs coin",
+      "symbol": "chc",
+      "address": "0xe5bE0c405a02120648C219e4378648575aA28F84",
+      "chainId": 56,
+      "decimals": 10,
+      "logoURI": "https://melega.finance/images/tokens/0xe5bE0c405a02120648C219e4378648575aA28F84.png"
+    }
   ]
 }
