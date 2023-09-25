@@ -2260,6 +2260,17 @@ const farms: FarmConfig[] = [
     token: tokens.chc,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 208,
+    lpSymbol: 'BNB-RARI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x54067c068cD297EB5D1a49A7Ae90BD69d3642930',
+  },
+    token: tokens.rari,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
