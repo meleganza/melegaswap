@@ -2271,6 +2271,17 @@ const farms: FarmConfig[] = [
     token: tokens.rari,
     quoteToken: tokens.wbnb,
   }
+     ,
+  {
+    pid: 209,
+    lpSymbol: 'BNB-CRYSTAL STONES LP',
+    lpAddresses: {
+      97: '',
+      56: '0x90329a5De3A4dA3FfB47f055863eEA235b1220Df',
+  },
+    token: tokens.crystals,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
