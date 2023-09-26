@@ -3258,6 +3258,15 @@ const tokens = {
     decimals: 10,
     projectLink: 'https://chefscoins.website',
   },
+  crystals: {
+    symbol: 'CRYSTAL STONES',
+    address: {
+      56: '0xe252FCb1Aa2E0876E9B5f3eD1e15B9b4d11A0b00',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://crystalstones.org',
+  },
 }
 
 export default tokens
