@@ -2282,6 +2282,17 @@ const farms: FarmConfig[] = [
     token: tokens.crystals,
     quoteToken: tokens.wbnb,
   }
+       ,
+  {
+    pid: 210,
+    lpSymbol: 'MARCO-RARI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7151d3368E04846b74810286A07546C18F925402',
+  },
+    token: tokens.rari,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
