@@ -2326,6 +2326,28 @@ const farms: FarmConfig[] = [
     token: tokens.rari,
     quoteToken: tokens.raky,
   }
+   ,
+  {
+    pid: 214,
+    lpSymbol: 'AARON-RARI LP',
+    lpAddresses: {
+      97: '',
+      56: '0xe9A5F443985411B3b1272E5b82eba26F143bb475',
+  },
+    token: tokens.rari,
+    quoteToken: tokens.aaron,
+  }
+   ,
+  {
+    pid: 215,
+    lpSymbol: 'EYED-RARI LP',
+    lpAddresses: {
+      97: '',
+      56: '0xb2AFe2D0Bf0643Df05460843b5690E500dc47837',
+  },
+    token: tokens.rari,
+    quoteToken: tokens.EYED,
+  }
 ]
 
 export default farms
