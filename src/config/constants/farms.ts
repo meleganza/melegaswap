@@ -2293,7 +2293,7 @@ const farms: FarmConfig[] = [
     token: tokens.rari,
     quoteToken: tokens.cake,
   }
-        ,
+  ,
   {
     pid: 211,
     lpSymbol: '2GCC-RARI LP',
@@ -2304,7 +2304,7 @@ const farms: FarmConfig[] = [
     token: tokens.rari,
     quoteToken: tokens.gcc2,
   }
-         ,
+  ,
   {
     pid: 212,
     lpSymbol: 'YD-RARI LP',
@@ -2314,6 +2314,17 @@ const farms: FarmConfig[] = [
   },
     token: tokens.rari,
     quoteToken: tokens.yd,
+  }
+  ,
+  {
+    pid: 213,
+    lpSymbol: 'RAKY-RARI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4fc9e4Ef689DaA58d995583B3eF1CE4eD0DDc0C4',
+  },
+    token: tokens.rari,
+    quoteToken: tokens.raky,
   }
 ]
 
