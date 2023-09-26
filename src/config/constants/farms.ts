@@ -2293,6 +2293,17 @@ const farms: FarmConfig[] = [
     token: tokens.rari,
     quoteToken: tokens.cake,
   }
+        ,
+  {
+    pid: 211,
+    lpSymbol: '2GCC-RARI LP',
+    lpAddresses: {
+      97: '',
+      56: '0xDC721f2960E3e02CFe992E84E5dB91c753606bDf',
+  },
+    token: tokens.rari,
+    quoteToken: tokens.gcc2,
+  }
 ]
 
 export default farms
