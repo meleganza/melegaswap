@@ -1369,5 +1369,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xe252FCb1Aa2E0876E9B5f3eD1e15B9b4d11A0b00.png"
     }
+    ,
+    {
+      "name": "Farmer Coin",
+      "symbol": "FARM",
+      "address": "0x0A7b96846aFB37029543d52122a2D2C011A0627c",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x0A7b96846aFB37029543d52122a2D2C011A0627c.png"
+    }
   ]
 }
