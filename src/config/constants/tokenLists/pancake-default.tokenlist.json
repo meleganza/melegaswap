@@ -1378,5 +1378,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x0A7b96846aFB37029543d52122a2D2C011A0627c.png"
     }
+     ,
+    {
+      "name": "DogeReaperAI",
+      "symbol": "DRAI",
+      "address": "0x9c7884Df791761847Df1E77f71400F3215a88A48",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x9c7884Df791761847Df1E77f71400F3215a88A48.png"
+    }
   ]
 }
