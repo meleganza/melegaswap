@@ -3267,6 +3267,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://crystalstones.org',
   },
+   farm: {
+    symbol: 'FARM',
+    address: {
+      56: '0x0A7b96846aFB37029543d52122a2D2C011A0627c',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://www.farmercoin.space',
+  },
 }
 
 export default tokens
