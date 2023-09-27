@@ -3276,6 +3276,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://www.farmercoin.space',
   },
+   drai: {
+    symbol: 'DRAI',
+    address: {
+      56: '0x9c7884Df791761847Df1E77f71400F3215a88A48',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://dreaperai.tech',
+  },
 }
 
 export default tokens
