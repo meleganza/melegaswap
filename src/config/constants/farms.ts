@@ -2348,6 +2348,17 @@ const farms: FarmConfig[] = [
     token: tokens.rari,
     quoteToken: tokens.EYED,
   }
+   ,
+  {
+    pid: 216,
+    lpSymbol: 'BUSD-chc LP',
+    lpAddresses: {
+      97: '',
+      56: '0xfBF01243e6601E2bb125cD5dd86Fd07de33733a3',
+  },
+    token: tokens.chc,
+    quoteToken: tokens.busd,
+  }
 ]
 
 export default farms
