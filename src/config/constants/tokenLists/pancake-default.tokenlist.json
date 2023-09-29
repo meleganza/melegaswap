@@ -1387,5 +1387,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x9c7884Df791761847Df1E77f71400F3215a88A48.png"
     }
+    ,
+    {
+      "name": "Deen Coin",
+      "symbol": "DC",
+      "address": "0x532A252F457BB04127e01cEBe9bF394b93283999",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x532A252F457BB04127e01cEBe9bF394b93283999.png"
+    }
   ]
 }
