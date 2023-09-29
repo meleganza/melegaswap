@@ -3285,6 +3285,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://dreaperai.tech',
   },
+  deencoin: {
+    symbol: 'DC',
+    address: {
+      56: '0x532A252F457BB04127e01cEBe9bF394b93283999',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://deencoin.io/',
+  },
 }
 
 export default tokens
