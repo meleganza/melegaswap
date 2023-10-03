@@ -2359,6 +2359,17 @@ const farms: FarmConfig[] = [
     token: tokens.chc,
     quoteToken: tokens.busd,
   }
+  ,
+  {
+    pid: 217,
+    lpSymbol: 'BNB-DRAI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x56A2679C4Ad7d4BB2c35aC7C44987Eb466915667',
+  },
+    token: tokens.drai,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
