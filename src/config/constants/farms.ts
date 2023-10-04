@@ -2373,7 +2373,7 @@ const farms: FarmConfig[] = [
     ,
   {
     pid: 218,
-    lpSymbol: 'ALT-USDT LP',
+    lpSymbol: 'USDT-ALT LP',
     lpAddresses: {
       97: '',
       56: '0x53782EbbA7372abFA2317024De1047823d9A6715',
