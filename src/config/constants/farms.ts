@@ -2370,6 +2370,17 @@ const farms: FarmConfig[] = [
     token: tokens.drai,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 36,
+    lpSymbol: 'USDT-ALT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x53782EbbA7372abFA2317024De1047823d9A6715',
+    },
+    token: tokens.alt,
+    quoteToken: tokens.usdt,
+  }
 ]
 
 export default farms
