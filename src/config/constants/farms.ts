@@ -2425,6 +2425,17 @@ const farms: FarmConfig[] = [
     token: tokens.EYED,
     quoteToken: tokens.m01,
   }
+   ,
+  {
+    pid: 223,
+    lpSymbol: 'USDT-PSPAY LP',
+    lpAddresses: {
+      97: '',
+      56: '0xAe2f0EF36A1B4B35021499B51aB2b43fb8b209d3',
+    },
+    token: tokens.pspay,
+    quoteToken: tokens.usdt,
+  }
 ]
 
 export default farms
