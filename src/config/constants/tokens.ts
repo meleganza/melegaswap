@@ -3294,6 +3294,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://deencoin.io/',
   },
+  pspay: {
+    symbol: 'PSPAY',
+    address: {
+      56: '0x275fE1709Dc07112BcAF56A3465ECE683c5Fb04c',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://paycoin.solutions/',
+  },
 }
 
 export default tokens
