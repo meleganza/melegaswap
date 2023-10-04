@@ -2373,13 +2373,13 @@ const farms: FarmConfig[] = [
     ,
   {
     pid: 218,
-    lpSymbol: 'USDT-ALT LP',
+    lpSymbol: 'ALT-USDT LP',
     lpAddresses: {
       97: '',
       56: '0x53782EbbA7372abFA2317024De1047823d9A6715',
     },
-    token: tokens.alt,
-    quoteToken: tokens.usdt,
+    token: tokens.usdt,
+    quoteToken: tokens.alt,
   }
    ,
   {
