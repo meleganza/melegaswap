@@ -2381,6 +2381,50 @@ const farms: FarmConfig[] = [
     token: tokens.alt,
     quoteToken: tokens.usdt,
   }
+   ,
+  {
+    pid: 219,
+    lpSymbol: 'M01-RARI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6Ae03646a058EFb5f70f263bBE61EFFe12a9a522',
+    },
+    token: tokens.rari,
+    quoteToken: tokens.m01,
+  }
+  ,
+  {
+    pid: 220,
+    lpSymbol: 'M01-YD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x49312412A36098031510a51562B1Fee61B44800c',
+    },
+    token: tokens.yd,
+    quoteToken: tokens.m01,
+  }
+  ,
+  {
+    pid: 221,
+    lpSymbol: 'M01-POP LP',
+    lpAddresses: {
+      97: '',
+      56: '0x93c9F5840A0DD27045Cae6417fCDff44FE3c2a66',
+    },
+    token: tokens.pop,
+    quoteToken: tokens.m01,
+  }
+  ,
+  {
+    pid: 222,
+    lpSymbol: 'M01-EYED LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8AdCD965d4a4c929979AA204C787A5f27ab58097',
+    },
+    token: tokens.eyed,
+    quoteToken: tokens.m01,
+  }
 ]
 
 export default farms
