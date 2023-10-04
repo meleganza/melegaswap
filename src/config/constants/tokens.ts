@@ -1099,7 +1099,7 @@ const tokens = {
     projectLink: 'https://melega.finance/',
   },
   babycake: {
-    symbol: 'BABYMARCO',
+    symbol: 'BABYCAKE',
     address: {
       56: '0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c',
       97: '',
@@ -1699,7 +1699,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://melega.finance/',
+    projectLink: 'https://www.melegaswap.finance/babymarco',
   },
   wbnb: {
     symbol: 'wBNB',
