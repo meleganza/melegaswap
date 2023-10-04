@@ -2422,7 +2422,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x8AdCD965d4a4c929979AA204C787A5f27ab58097',
     },
-    token: tokens.eyed,
+    token: tokens.EYED,
     quoteToken: tokens.m01,
   }
 ]
