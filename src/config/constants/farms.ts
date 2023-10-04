@@ -2372,7 +2372,7 @@ const farms: FarmConfig[] = [
   }
     ,
   {
-    pid: 36,
+    pid: 218,
     lpSymbol: 'USDT-ALT LP',
     lpAddresses: {
       97: '',
