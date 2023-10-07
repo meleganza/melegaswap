@@ -1405,5 +1405,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x275fE1709Dc07112BcAF56A3465ECE683c5Fb04c.png"
     }
+     ,
+    {
+      "name": "Clowncoin",
+      "symbol": "CLOWNS",
+      "address": "0x17F6EFdde59C5e92C106b589fFE5f0480A3B602B",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x17F6EFdde59C5e92C106b589fFE5f0480A3B602B.png"
+    }
   ]
 }
