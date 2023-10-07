@@ -1414,5 +1414,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x17F6EFdde59C5e92C106b589fFE5f0480A3B602B.png"
     }
+     ,
+    {
+      "name": "Hacienda",
+      "symbol": "HADA",
+      "address": "0x7BDaf7a6E6eAa846b69Da14ED2C7CA7457069df3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x7BDaf7a6E6eAa846b69Da14ED2C7CA7457069df3.png"
+    }
   ]
 }
