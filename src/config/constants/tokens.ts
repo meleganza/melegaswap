@@ -3303,6 +3303,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://paycoin.solutions/',
   },
+    clowns: {
+    symbol: 'CLOWNS',
+    address: {
+      56: '0x17F6EFdde59C5e92C106b589fFE5f0480A3B602B',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://Clowncoinbsc.com',
+  },
 }
 
 export default tokens
