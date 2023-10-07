@@ -2436,6 +2436,17 @@ const farms: FarmConfig[] = [
     token: tokens.pspay,
     quoteToken: tokens.usdt,
   }
+  ,
+  {
+    pid: 224,
+    lpSymbol: 'BNB-PSPAY LP',
+    lpAddresses: {
+      97: '',
+      56: '0xF44E7658EC7A76442f3509D19a86B64273EEd516',
+    },
+    token: tokens.pspay,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
