@@ -2458,6 +2458,17 @@ const farms: FarmConfig[] = [
     token: tokens.clowns,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 226,
+    lpSymbol: 'BNB-HADA LP',
+    lpAddresses: {
+      97: '',
+      56: '0xba431279Cce9bF8A23f53389b7437312ecdEF1FC',
+    },
+    token: tokens.hada,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
