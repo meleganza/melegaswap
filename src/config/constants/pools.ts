@@ -2302,7 +2302,8 @@ const pools: PoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
-   {
+  ,
+  {
     sousId: 155,
     stakingToken: tokens.cake,
     earningToken: tokens.hada,
