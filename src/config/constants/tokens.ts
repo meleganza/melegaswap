@@ -3312,6 +3312,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://Clowncoinbsc.com',
   },
+   hada: {
+    symbol: 'HADA',
+    address: {
+      56: '0x7BDaf7a6E6eAa846b69Da14ED2C7CA7457069df3',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://hacienda.tech/en',
+  },
 }
 
 export default tokens
