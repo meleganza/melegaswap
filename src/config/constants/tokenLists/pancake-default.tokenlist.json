@@ -1423,5 +1423,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x7BDaf7a6E6eAa846b69Da14ED2C7CA7457069df3.png"
     }
+     ,
+    {
+      "name": "CAVEA",
+      "symbol": "CAVEA",
+      "address": "0x52f8a735F74857e40562b57cc8Bd2947EA905805",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x52f8a735F74857e40562b57cc8Bd2947EA905805.png"
+    }
   ]
 }
