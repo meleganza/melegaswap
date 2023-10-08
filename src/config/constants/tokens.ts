@@ -3321,6 +3321,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://hacienda.tech/en',
   },
+   cavea: {
+    symbol: 'CAVEA',
+    address: {
+      56: '0x52f8a735F74857e40562b57cc8Bd2947EA905805',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.cavea.club/',
+  },
 }
 
 export default tokens
