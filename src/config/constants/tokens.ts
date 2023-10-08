@@ -3330,6 +3330,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.cavea.club/',
   },
+  cbnb: {
+    symbol: 'CBNB',
+    address: {
+      56: '0x92fE93300624f16EdCC6bC4205E9DC836660Ba3f',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://t.me/craftedbnb',
+  },
 }
 
 export default tokens
