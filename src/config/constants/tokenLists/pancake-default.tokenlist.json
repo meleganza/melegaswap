@@ -1432,5 +1432,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x52f8a735F74857e40562b57cc8Bd2947EA905805.png"
     }
+     ,
+    {
+      "name": "Crafted BNB",
+      "symbol": "CBNB",
+      "address": "0x92fE93300624f16EdCC6bC4205E9DC836660Ba3f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x92fE93300624f16EdCC6bC4205E9DC836660Ba3f.png"
+    }
   ]
 }
