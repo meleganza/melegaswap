@@ -2428,13 +2428,13 @@ const farms: FarmConfig[] = [
    ,
   {
     pid: 223,
-    lpSymbol: 'USDT-PSPAY LP',
+    lpSymbol: 'PSPAY-USDT LP',
     lpAddresses: {
       97: '',
       56: '0xAe2f0EF36A1B4B35021499B51aB2b43fb8b209d3',
     },
-    token: tokens.pspay,
-    quoteToken: tokens.usdt,
+    token: tokens.usdt,
+    quoteToken: tokens.pspay,
   }
   ,
   {
