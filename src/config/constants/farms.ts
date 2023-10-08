@@ -2480,6 +2480,28 @@ const farms: FarmConfig[] = [
     token: tokens.cbnb,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 228,
+    lpSymbol: 'MARCO-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x07F05b4920D4d71535a8513ebD9b6dB93Af8F16E',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.cake,
+  }
+    ,
+  {
+    pid: 229,
+    lpSymbol: '2GCC-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x368D0E621eaE27daFC5Cfef671628F57EB9a0db3',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.gcc2,
+  }
 ]
 
 export default farms
