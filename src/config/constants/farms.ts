@@ -2502,6 +2502,28 @@ const farms: FarmConfig[] = [
     token: tokens.cbnb,
     quoteToken: tokens.gcc2,
   }
+    ,
+  {
+    pid: 230,
+    lpSymbol: 'VBR-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xE1265B313bac5f23A1282F8F47A65F40994f882E',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.vibra,
+  }
+  ,
+  {
+    pid: 231,
+    lpSymbol: 'ZLT-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xE1265B313bac5f23A1282F8F47A65F40994f882E',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.zoloto,
+  }
 ]
 
 export default farms
