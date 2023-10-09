@@ -1441,5 +1441,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x92fE93300624f16EdCC6bC4205E9DC836660Ba3f.png"
     }
+      ,
+    {
+      "name": "TechGecko",
+      "symbol": "GECK",
+      "address": "0x3e37964D723c2Ce68C508D0De52936847d1F109a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x3e37964D723c2Ce68C508D0De52936847d1F109a.png"
+    }
   ]
 }
