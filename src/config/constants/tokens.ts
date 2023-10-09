@@ -3339,6 +3339,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://t.me/craftedbnb',
   },
+  geck: {
+    symbol: 'GECK',
+    address: {
+      56: '0x3e37964D723c2Ce68C508D0De52936847d1F109a',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.techgecko.xyz/',
+  },
 }
 
 export default tokens
