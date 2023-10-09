@@ -2519,10 +2519,21 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ZLT-CBNB LP',
     lpAddresses: {
       97: '',
-      56: '0xE1265B313bac5f23A1282F8F47A65F40994f882E',
+      56: '0x7F499850650c82B845A75C2f45DFdCcB47A4F6C8',
     },
     token: tokens.cbnb,
     quoteToken: tokens.zoloto,
+  }
+   ,
+  {
+    pid: 232,
+    lpSymbol: 'LUCK-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x872cd1745b30dDE8d48DC74881ED3941E7dbD11f',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.luck,
   }
 ]
 
