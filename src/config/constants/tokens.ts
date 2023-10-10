@@ -3348,6 +3348,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.techgecko.xyz/',
   },
+   ngd: {
+    symbol: 'NGD',
+    address: {
+      56: '0x646015e0F58e16F8CCB2CA3F52567B4762fCFF65',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://new-gold.club/',
+  },
 }
 
 export default tokens
