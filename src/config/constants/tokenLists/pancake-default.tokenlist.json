@@ -1450,5 +1450,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x3e37964D723c2Ce68C508D0De52936847d1F109a.png"
     }
+    ,
+    {
+      "name": "New Gold",
+      "symbol": "NGD",
+      "address": "0x646015e0F58e16F8CCB2CA3F52567B4762fCFF65",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x646015e0F58e16F8CCB2CA3F52567B4762fCFF65.png"
+    }
   ]
 }
