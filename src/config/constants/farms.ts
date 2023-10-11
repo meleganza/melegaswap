@@ -2557,6 +2557,17 @@ const farms: FarmConfig[] = [
     token: tokens.ngd,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 235,
+    lpSymbol: 'BNB-CMC LP',
+    lpAddresses: {
+      97: '',
+      56: '0xDD429C5ADd745169122D1b9Ce78439A9C4E5eCd6',
+    },
+    token: tokens.cmc,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
