@@ -3357,6 +3357,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://new-gold.club/',
   },
+  cmc: {
+    symbol: 'CMC',
+    address: {
+      56: '0x1Ea57CAf3aA077765CDD2d880f5AA91AE65b9f0c',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://crypto-monster-clash.ru/',
+  },
 }
 
 export default tokens
