@@ -1459,5 +1459,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0x646015e0F58e16F8CCB2CA3F52567B4762fCFF65.png"
     }
+    ,
+    {
+      "name": "Crypto Monster Clash",
+      "symbol": "CMC",
+      "address": "0x1Ea57CAf3aA077765CDD2d880f5AA91AE65b9f0c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x1Ea57CAf3aA077765CDD2d880f5AA91AE65b9f0c.png"
+    }
   ]
 }
