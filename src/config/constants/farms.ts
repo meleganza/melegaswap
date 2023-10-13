@@ -2568,6 +2568,17 @@ const farms: FarmConfig[] = [
     token: tokens.cmc,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 236,
+    lpSymbol: 'BNB-WFX LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1E197b2B29185b776a5eeE5899585f9fCf9B0780',
+    },
+    token: tokens.wfx,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
