@@ -3366,6 +3366,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://crypto-monster-clash.ru/',
   },
+  wfx: {
+    symbol: 'WFX',
+    address: {
+      56: '0xb28E1b90b983f86BB2Ca94389449173ff8655bB7',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://whitefoxtoken.info/',
+  },
 }
 
 export default tokens
