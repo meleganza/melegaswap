@@ -1468,5 +1468,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x1Ea57CAf3aA077765CDD2d880f5AA91AE65b9f0c.png"
     }
+    ,
+    {
+      "name": "WhiteFox",
+      "symbol": "WFX",
+      "address": "0xb28E1b90b983f86BB2Ca94389449173ff8655bB7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xb28E1b90b983f86BB2Ca94389449173ff8655bB7.png"
+    }
   ]
 }
