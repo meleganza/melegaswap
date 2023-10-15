@@ -1477,5 +1477,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xb28E1b90b983f86BB2Ca94389449173ff8655bB7.png"
     }
+     ,
+    {
+      "name": "Barbie Cat",
+      "symbol": "BGCAT",
+      "address": "0xc24B983a769Aed490D78708001790f7AC6D62b1F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xc24B983a769Aed490D78708001790f7AC6D62b1F.png"
+    }
   ]
 }
