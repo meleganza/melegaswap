@@ -1486,5 +1486,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xc24B983a769Aed490D78708001790f7AC6D62b1F.png"
     }
+     ,
+    {
+      "name": "VOC Colonizer Token",
+      "symbol": "VOC",
+      "address": "0xf86b9dd76Cc6ab6Becfef564346245836bEdF978",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xf86b9dd76Cc6ab6Becfef564346245836bEdF978.png"
+    }
   ]
 }
