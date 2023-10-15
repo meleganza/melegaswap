@@ -3384,6 +3384,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://barbiecat.net',
   },
+  voc: {
+    symbol: 'VOC',
+    address: {
+      56: '0xf86b9dd76Cc6ab6Becfef564346245836bEdF978',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://voccolonizer.com/',
+  },
 }
 
 export default tokens
