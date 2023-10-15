@@ -3375,6 +3375,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://whitefoxtoken.info/',
   },
+  bgcat: {
+    symbol: 'BGCAT',
+    address: {
+      56: '0xc24B983a769Aed490D78708001790f7AC6D62b1F',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://barbiecat.net',
+  },
 }
 
 export default tokens
