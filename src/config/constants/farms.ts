@@ -2601,6 +2601,17 @@ const farms: FarmConfig[] = [
     token: tokens.cavea,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 239,
+    lpSymbol: 'MARCO-CAVEA LP',
+    lpAddresses: {
+      97: '',
+      56: '0x685257D081D8477C2F82d550D389F6407A8f299C',
+    },
+    token: tokens.cavea,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
