@@ -1495,5 +1495,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xf86b9dd76Cc6ab6Becfef564346245836bEdF978.png"
     }
+     ,
+    {
+      "name": "XRP GROW",
+      "symbol": "XRPGROW",
+      "address": "0xe8648F4beDaB4064826fE36A67288BbEB69E9b52",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xe8648F4beDaB4064826fE36A67288BbEB69E9b52.png"
+    }
   ]
 }
