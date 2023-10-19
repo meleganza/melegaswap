@@ -2623,6 +2623,39 @@ const farms: FarmConfig[] = [
     token: tokens.xrpgrow,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 241,
+    lpSymbol: 'RARI-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xD117b631525595c54E97Cd41bF6C3E49a7a8465A',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.rari,
+  }
+   ,
+  {
+    pid: 242,
+    lpSymbol: 'YD-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x76215405bbD3Fa981629f112229bD9c7f77c6e29',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.yd,
+  }
+  ,
+  {
+    pid: 243,
+    lpSymbol: 'CAVEA-CBNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x54c8ebE5e68Dc2A031e2AaDA58dFf0886Fc5602c',
+    },
+    token: tokens.cbnb,
+    quoteToken: tokens.cavea,
+  }
 ]
 
 export default farms
