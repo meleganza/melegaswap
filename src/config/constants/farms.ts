@@ -2612,6 +2612,17 @@ const farms: FarmConfig[] = [
     token: tokens.cavea,
     quoteToken: tokens.cake,
   }
+   ,
+  {
+    pid: 240,
+    lpSymbol: 'BNB-XRPGROW LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7C143B03A618F2b3e815d35D5EA81B75958d7788',
+    },
+    token: tokens.xrpgrow,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
