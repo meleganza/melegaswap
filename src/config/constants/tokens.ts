@@ -3393,6 +3393,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://voccolonizer.com/',
   },
+  xrpgrow: {
+    symbol: 'XRPGROW',
+    address: {
+      56: '0xe8648F4beDaB4064826fE36A67288BbEB69E9b52',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://xrp-grow.com/',
+  },
 }
 
 export default tokens
