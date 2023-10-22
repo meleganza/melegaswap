@@ -3411,6 +3411,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://rickinu.online/',
   },
+  fugc: {
+    symbol: 'FUGC',
+    address: {
+      56: '0x02B90b0f324972B3E9F1F58E71A701DE258f6592',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.fuggingcrabby.site/',
+  },
 }
 
 export default tokens
