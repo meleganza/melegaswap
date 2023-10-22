@@ -1513,5 +1513,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xAa7947d248bcE1F8D7a99f2081f1AaeAd2143d49.png"
     }
+     ,
+    {
+      "name": "FUGGING CRABBY",
+      "symbol": "FUGC",
+      "address": "0x02B90b0f324972B3E9F1F58E71A701DE258f6592",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x02B90b0f324972B3E9F1F58E71A701DE258f6592.png"
+    }
   ]
 }
