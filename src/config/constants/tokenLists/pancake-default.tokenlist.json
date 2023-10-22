@@ -1504,5 +1504,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xe8648F4beDaB4064826fE36A67288BbEB69E9b52.png"
     }
+     ,
+    {
+      "name": "Rick Inu",
+      "symbol": "rickinu",
+      "address": "0xAa7947d248bcE1F8D7a99f2081f1AaeAd2143d49",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xAa7947d248bcE1F8D7a99f2081f1AaeAd2143d49.png"
+    }
   ]
 }
