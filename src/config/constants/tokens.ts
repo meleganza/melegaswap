@@ -3402,6 +3402,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://xrp-grow.com/',
   },
+  rickinu: {
+    symbol: 'rickinu',
+    address: {
+      56: '0xAa7947d248bcE1F8D7a99f2081f1AaeAd2143d49',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://rickinu.online/',
+  },
 }
 
 export default tokens
