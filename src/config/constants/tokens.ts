@@ -3420,6 +3420,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.fuggingcrabby.site/',
   },
+  cpepe: {
+    symbol: 'CPEPE',
+    address: {
+      56: '0x34F68a7f272254431d7e0A64D807D0d177b77bf9',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://captainpepe.army/',
+  },
 }
 
 export default tokens
