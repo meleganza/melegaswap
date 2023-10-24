@@ -1522,5 +1522,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x02B90b0f324972B3E9F1F58E71A701DE258f6592.png"
     }
+     ,
+    {
+      "name": "Captain Pepe",
+      "symbol": "CPEPE",
+      "address": "0x34F68a7f272254431d7e0A64D807D0d177b77bf9",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0x34F68a7f272254431d7e0A64D807D0d177b77bf9.png"
+    }
   ]
 }
