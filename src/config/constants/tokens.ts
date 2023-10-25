@@ -3429,6 +3429,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://captainpepe.army/',
   },
+  esso: {
+    symbol: 'ESSO',
+    address: {
+      56: '0x4d1d4b79D8D30cA728BDa332e8699667E7216b1e',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://espresso.com/',
+  },
 }
 
 export default tokens
