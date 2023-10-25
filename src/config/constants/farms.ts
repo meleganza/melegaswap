@@ -2722,6 +2722,17 @@ const farms: FarmConfig[] = [
     token: tokens.esso,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 250,
+    lpSymbol: 'ZLT-ESSO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x5eD9fa9aDde28b987D76083E630B88Add42de699',
+    },
+    token: tokens.esso,
+    quoteToken: tokens.zoloto,
+  }
 ]
 
 export default farms
