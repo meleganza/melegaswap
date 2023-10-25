@@ -2689,6 +2689,17 @@ const farms: FarmConfig[] = [
     token: tokens.esso,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 247,
+    lpSymbol: 'CBNB-ESSO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8880a9be8b152C80fFB7E372c701EC4EA6AD5507',
+    },
+    token: tokens.esso,
+    quoteToken: tokens.cbnb,
+  }
 ]
 
 export default farms
