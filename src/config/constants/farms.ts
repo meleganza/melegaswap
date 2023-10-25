@@ -2711,6 +2711,17 @@ const farms: FarmConfig[] = [
     token: tokens.esso,
     quoteToken: tokens.gcc2,
   }
+  ,
+  {
+    pid: 249,
+    lpSymbol: 'MARCO-ESSO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x71E071e5dD20222BC530A827a411199E3BC8649F',
+    },
+    token: tokens.esso,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
