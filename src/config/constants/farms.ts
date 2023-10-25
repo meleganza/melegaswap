@@ -2667,6 +2667,17 @@ const farms: FarmConfig[] = [
     token: tokens.rickinu,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 245,
+    lpSymbol: 'BNB-CPEPE LP',
+    lpAddresses: {
+      97: '',
+      56: '0x34b34ea0C32eC0bA4B13962EbD774C7a1FEB03C2',
+    },
+    token: tokens.cpepe,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
