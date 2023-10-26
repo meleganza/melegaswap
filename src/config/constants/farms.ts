@@ -2799,6 +2799,17 @@ const farms: FarmConfig[] = [
     token: tokens.cxrp,
     quoteToken: tokens.cbnb,
   }
+   ,
+  {
+    pid: 257,
+    lpSymbol: 'VBR-ZLT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x5b1405A8157285aB1f5912A05B5Fc8023a666346',
+    },
+    token: tokens.zoloto,
+    quoteToken: tokens.vibra,
+  }
 ]
 
 export default farms
