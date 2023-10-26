@@ -2810,6 +2810,17 @@ const farms: FarmConfig[] = [
     token: tokens.zoloto,
     quoteToken: tokens.vibra,
   }
+   ,
+  {
+    pid: 258,
+    lpSymbol: 'CUSDT-YD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xDCbE3E20afB1fBA62972EC5875e59616DaFc04d9',
+    },
+    token: tokens.yd,
+    quoteToken: tokens.cusdt,
+  }
 ]
 
 export default farms
