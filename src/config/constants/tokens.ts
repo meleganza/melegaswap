@@ -3465,6 +3465,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://ultron.foundation/',
   },
+  busdx: {
+    symbol: 'BUSD',
+    address: {
+      56: '0xBf55d5043D9998723087bF0BbCf9532f00ac1d68',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://busdx.com/',
+  },
 }
 
 export default tokens
