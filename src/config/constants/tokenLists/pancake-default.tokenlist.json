@@ -1558,5 +1558,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xeDE11c43598c814D39548423eb2d2a66a4Db3Cc2.png"
     }
+     ,
+    {
+      "name": "Baby ULTRON",
+      "symbol": "BULX",
+      "address": "0xA4BbE200dbE4248aEfaf18E6ECFE17973d9c7688",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xA4BbE200dbE4248aEfaf18E6ECFE17973d9c7688.png"
+    }
   ]
 }
