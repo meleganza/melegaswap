@@ -1540,5 +1540,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x4d1d4b79D8D30cA728BDa332e8699667E7216b1e.png"
     }
+    ,
+    {
+      "name": "Crafted USDT",
+      "symbol": "CUSDT",
+      "address": "0x76fA566136cFA5B720D37259cAbe45A9C407116b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x76fA566136cFA5B720D37259cAbe45A9C407116b.png"
+    }
   ]
 }
