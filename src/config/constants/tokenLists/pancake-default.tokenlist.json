@@ -1567,5 +1567,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xA4BbE200dbE4248aEfaf18E6ECFE17973d9c7688.png"
     }
+     ,
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xBf55d5043D9998723087bF0BbCf9532f00ac1d68",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xBf55d5043D9998723087bF0BbCf9532f00ac1d68.png"
+    }
   ]
 }
