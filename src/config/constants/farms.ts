@@ -2733,6 +2733,17 @@ const farms: FarmConfig[] = [
     token: tokens.esso,
     quoteToken: tokens.zoloto,
   }
+  ,
+  {
+    pid: 251,
+    lpSymbol: 'BNB-CUSDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8D499Dd632Dc17dCB1460Cc80AB4CC9B2b47c0f3',
+    },
+    token: tokens.cusdt,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
