@@ -2746,7 +2746,7 @@ const farms: FarmConfig[] = [
   }
    ,
   {
-    pid: 251,
+    pid: 252,
     lpSymbol: 'CBNB-CUSDT LP',
     lpAddresses: {
       97: '',
