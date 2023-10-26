@@ -2777,6 +2777,28 @@ const farms: FarmConfig[] = [
     token: tokens.cxrp,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 255,
+    lpSymbol: 'CUSDT-CXRP LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8f2a185c19093eaaCd8F1110472e155375532510',
+    },
+    token: tokens.cxrp,
+    quoteToken: tokens.cusdt,
+  }
+   ,
+  {
+    pid: 256,
+    lpSymbol: 'CBNB-CXRP LP',
+    lpAddresses: {
+      97: '',
+      56: '0xc4F34B446d3212910ff2aa0C25106dD497ebfeF3',
+    },
+    token: tokens.cxrp,
+    quoteToken: tokens.cbnb,
+  }
 ]
 
 export default farms
