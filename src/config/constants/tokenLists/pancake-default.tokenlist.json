@@ -1549,5 +1549,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x76fA566136cFA5B720D37259cAbe45A9C407116b.png"
     }
+    ,
+    {
+      "name": "Crafted XRP",
+      "symbol": "CXRP",
+      "address": "0xeDE11c43598c814D39548423eb2d2a66a4Db3Cc2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xeDE11c43598c814D39548423eb2d2a66a4Db3Cc2.png"
+    }
   ]
 }
