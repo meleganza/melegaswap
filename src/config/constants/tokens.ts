@@ -3447,6 +3447,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://t.me/craftedbnb',
   },
+  cxrp: {
+    symbol: 'CXRP',
+    address: {
+      56: '0xeDE11c43598c814D39548423eb2d2a66a4Db3Cc2',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://t.me/craftedbnb',
+  },
 }
 
 export default tokens
