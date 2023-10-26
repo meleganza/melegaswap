@@ -3456,6 +3456,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://t.me/craftedbnb',
   },
+   bulx: {
+    symbol: 'BULX',
+    address: {
+      56: '0xA4BbE200dbE4248aEfaf18E6ECFE17973d9c7688',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://ultron.foundation/',
+  },
 }
 
 export default tokens
