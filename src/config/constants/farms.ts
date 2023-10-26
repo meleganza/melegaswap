@@ -2755,6 +2755,17 @@ const farms: FarmConfig[] = [
     token: tokens.cusdt,
     quoteToken: tokens.cbnb,
   }
+   ,
+  {
+    pid: 253,
+    lpSymbol: '2GCC-CUSDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xB68E1d3d544e46a67f53261a2ebfD7E7447C9836',
+    },
+    token: tokens.cusdt,
+    quoteToken: tokens.gcc2,
+  }
 ]
 
 export default farms
