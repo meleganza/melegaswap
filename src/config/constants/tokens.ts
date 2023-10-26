@@ -3438,6 +3438,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://espresso.com/',
   },
+  cusdt: {
+    symbol: 'CUSDT',
+    address: {
+      56: '0x76fA566136cFA5B720D37259cAbe45A9C407116b',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://t.me/craftedbnb',
+  },
 }
 
 export default tokens
