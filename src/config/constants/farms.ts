@@ -2821,6 +2821,17 @@ const farms: FarmConfig[] = [
     token: tokens.yd,
     quoteToken: tokens.cusdt,
   }
+  ,
+  {
+    pid: 259,
+    lpSymbol: 'BNB-BULX LP',
+    lpAddresses: {
+      97: '',
+      56: '0xD33a0C69394C00770fb810a1155A1F38EcACBc20',
+    },
+    token: tokens.bulx,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
