@@ -2832,6 +2832,17 @@ const farms: FarmConfig[] = [
     token: tokens.bulx,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 260,
+    lpSymbol: 'BNB-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA9B056a74400F8Fc892fB714f6973763806A5127',
+    },
+    token: tokens.busdx,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
