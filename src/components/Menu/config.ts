@@ -55,8 +55,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         label: t('Market'),
         href: '/nftmarket',
       }
-       ],
-    },
+     ],
     {
      label: t('Charts'),
      icon: 'InfoIcon',
