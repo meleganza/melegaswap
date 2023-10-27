@@ -55,17 +55,18 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         label: t('Market'),
         href: '/nftmarket',
       }
-      ,
-      {
-        label: t('Charts'),
-        icon: 'InfoIcon',
-        href: '/',
-        items: [
+       ],
+    },
+    {
+     label: t('Charts'),
+     icon: 'InfoIcon',
+     href: '/',
+     items: [
 
-      {
-        label: t('Coingecko'),
-        href: 'https://www.coingecko.com/en/exchanges/melegaswap',
-      },
+    {
+     label: t('Coingecko'),
+      href: 'https://www.coingecko.com/en/exchanges/melegaswap',
+   },
       {
         label: t('Dex Guru'),
         href: 'https://dex.guru/markets/melegaswap/tvl',
