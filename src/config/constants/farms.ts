@@ -2854,6 +2854,17 @@ const farms: FarmConfig[] = [
     token: tokens.bulx,
     quoteToken: tokens.busdx,
   }
+    ,
+  {
+    pid: 262,
+    lpSymbol: 'BNB-PIPI LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8AeD8e89F54942b3C4165197Bf06229C7FE8F219',
+    },
+    token: tokens.pipi,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
