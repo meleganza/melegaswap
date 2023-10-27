@@ -1585,5 +1585,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xf86E639Ff387b6064607201A7a98F2c2B2FEB05f.png"
     }
+    ,
+    {
+      "name": "MY_TOTO",
+      "symbol": "TOTO",
+      "address": "0x508EbA399d39B84e46c2E78cB0580c06A1930E1B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x508EbA399d39B84e46c2E78cB0580c06A1930E1B.png"
+    }
   ]
 }
