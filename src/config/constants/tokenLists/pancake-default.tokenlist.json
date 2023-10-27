@@ -1576,5 +1576,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xBf55d5043D9998723087bF0BbCf9532f00ac1d68.png"
     }
+    ,
+    {
+      "name": "PIPI",
+      "symbol": "PIPI",
+      "address": "0xf86E639Ff387b6064607201A7a98F2c2B2FEB05f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xf86E639Ff387b6064607201A7a98F2c2B2FEB05f.png"
+    }
   ]
 }
