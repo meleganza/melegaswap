@@ -3474,6 +3474,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://busdx.com/',
   },
+  pipi: {
+    symbol: 'PIPI',
+    address: {
+      56: '0xf86E639Ff387b6064607201A7a98F2c2B2FEB05f',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://cryptopipi.lol/',
+  },
 }
 
 export default tokens
