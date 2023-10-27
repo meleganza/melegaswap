@@ -2865,6 +2865,17 @@ const farms: FarmConfig[] = [
     token: tokens.pipi,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 263,
+    lpSymbol: 'BNB-BGCAT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xD4A736028D94233C380fc377d56966F57348A4e0',
+    },
+    token: tokens.bgcat,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
