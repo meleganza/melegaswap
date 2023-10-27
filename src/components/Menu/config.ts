@@ -76,8 +76,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         href: 'https://dexstein.com/app/dex/6372705b07e89ec0b5ac6902',
       }
       ],
-      }
-    ],
   }
   
 ]
