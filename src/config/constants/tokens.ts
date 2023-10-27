@@ -3483,6 +3483,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://cryptopipi.lol/',
   },
+  toto: {
+    symbol: 'TOTO',
+    address: {
+      56: '0x508EbA399d39B84e46c2E78cB0580c06A1930E1B',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://mytoto.lol/',
+  },
 }
 
 export default tokens
