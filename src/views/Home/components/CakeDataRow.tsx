@@ -132,7 +132,7 @@ const CakeDataRow = () => {
         <Flex flexDirection="column" style={{"textAlign":"center",minWidth:"33.333%"}}>
         <h1 style={{fontSize:"1.5rem"}}>About</h1>
         <br/>
-        <a style={{margin:"0.5rem"}} href='mailto:hello@melegaswap.finance'>Contact Us</a>
+        <a style={{margin:"0.5rem"}} href='mailto:hello@melegaswap.finance'>Info</a>
         <a style={{margin:"0.5rem"}} href='https://www.melegaswap.finance/about'>Docs</a>
         <a style={{margin:"0.5rem"}} href='https://www.melegaswap.finance/marco-token'>MARCO Token</a>
         <a style={{margin:"0.5rem"}} href='https://www.melegaswap.finance/babymarco'>BabyMarco</a>
