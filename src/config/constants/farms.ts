@@ -2887,6 +2887,17 @@ const farms: FarmConfig[] = [
     token: tokens.toto,
     quoteToken: tokens.wbnb,
   }
+    ,
+  {
+    pid: 265,
+    lpSymbol: 'CUSDT-ZLT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xE69b45A33419a5456Ea8dB9533224d0fc98fAAe3',
+    },
+    token: tokens.zoloto,
+    quoteToken: tokens.cusdt,
+  }
 ]
 
 export default farms
