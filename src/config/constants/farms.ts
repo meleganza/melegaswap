@@ -2898,6 +2898,17 @@ const farms: FarmConfig[] = [
     token: tokens.zoloto,
     quoteToken: tokens.cusdt,
   }
+    ,
+  {
+    pid: 266,
+    lpSymbol: 'CXRP-ZLT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1Db96E2C7D7b286048983089392977B6B52a507a',
+    },
+    token: tokens.zoloto,
+    quoteToken: tokens.cxrp,
+  }
 ]
 
 export default farms
