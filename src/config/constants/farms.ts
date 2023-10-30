@@ -2920,6 +2920,17 @@ const farms: FarmConfig[] = [
     token: tokens.cxrp,
     quoteToken: tokens.gcc2,
   }
+    ,
+  {
+    pid: 268,
+    lpSymbol: 'MARCO-CUSDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7B98603A5e64fB529ccbeeFE04FA9c7D09550b57',
+    },
+    token: tokens.cusdt,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
