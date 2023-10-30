@@ -2909,6 +2909,17 @@ const farms: FarmConfig[] = [
     token: tokens.zoloto,
     quoteToken: tokens.cxrp,
   }
+    ,
+  {
+    pid: 267,
+    lpSymbol: '2GCC-CXRP LP',
+    lpAddresses: {
+      97: '',
+      56: '0xCA2ADb98258a89f3D47338300D55640C170ba987',
+    },
+    token: tokens.cxrp,
+    quoteToken: tokens.gcc2,
+  }
 ]
 
 export default farms
