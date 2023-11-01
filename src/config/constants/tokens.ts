@@ -3472,7 +3472,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://busdx.com/',
+    projectLink: 'https://fakecrypto.online/',
   },
   pipi: {
     symbol: 'PIPI',
@@ -3491,6 +3491,15 @@ const tokens = {
     },
     decimals: 18,
     projectLink: 'https://mytoto.lol/',
+  },
+  fakeeth: {
+    symbol: 'ETH',
+    address: {
+      56: '0xDe162e9d5F702eF975B390bEeFaa2DAeF3ecA83d',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://fakecrypto.online/',
   },
 }
 
