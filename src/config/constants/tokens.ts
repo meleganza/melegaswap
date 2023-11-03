@@ -3337,7 +3337,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://t.me/craftedbnb',
+    projectLink: 'http://cbnb.site',
   },
   geck: {
     symbol: 'GECK',
@@ -3445,7 +3445,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://t.me/craftedbnb',
+    projectLink: 'http://cbnb.site',
   },
   cxrp: {
     symbol: 'CXRP',
@@ -3454,7 +3454,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://t.me/craftedbnb',
+    projectLink: 'http://cbnb.site',
   },
    bulx: {
     symbol: 'BULX',
