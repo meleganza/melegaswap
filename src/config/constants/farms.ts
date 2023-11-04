@@ -2931,6 +2931,17 @@ const farms: FarmConfig[] = [
     token: tokens.cusdt,
     quoteToken: tokens.cake,
   }
+     ,
+  {
+    pid: 269,
+    lpSymbol: 'MARCO-ZLT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x2261F5434dd3e352563B09C9E462956082606f5a',
+    },
+    token: tokens.zoloto,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
