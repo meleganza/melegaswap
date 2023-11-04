@@ -2931,7 +2931,7 @@ const farms: FarmConfig[] = [
     token: tokens.cusdt,
     quoteToken: tokens.cake,
   }
-     ,
+    ,
   {
     pid: 269,
     lpSymbol: 'MARCO-ZLT LP',
@@ -2940,6 +2940,17 @@ const farms: FarmConfig[] = [
       56: '0x2261F5434dd3e352563B09C9E462956082606f5a',
     },
     token: tokens.zoloto,
+    quoteToken: tokens.cake,
+  }
+    ,
+  {
+    pid: 270,
+    lpSymbol: 'MARCO-CXRP LP',
+    lpAddresses: {
+      97: '',
+      56: '0xce023980F5F205B77E6F01e2E78f84D5460318Dc',
+    },
+    token: tokens.cxrp,
     quoteToken: tokens.cake,
   }
 ]
