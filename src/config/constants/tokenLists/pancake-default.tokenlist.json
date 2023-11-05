@@ -1603,5 +1603,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xDe162e9d5F702eF975B390bEeFaa2DAeF3ecA83d.png"
     }
+    ,
+    {
+      "name": "THE FLASH EVOLUTION",
+      "symbol": "FLASH",
+      "address": "0xaf23921f146c1DeB5b436deB3a7FdeAF53f02b3F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xaf23921f146c1DeB5b436deB3a7FdeAF53f02b3F.png"
+    }
   ]
 }
