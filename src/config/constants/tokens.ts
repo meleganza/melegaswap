@@ -3501,6 +3501,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://fakecrypto.online/',
   },
+  flash: {
+    symbol: 'FLASH',
+    address: {
+      56: '0xaf23921f146c1DeB5b436deB3a7FdeAF53f02b3F',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://linktr.ee/theflashtoken',
+  },
 }
 
 export default tokens
