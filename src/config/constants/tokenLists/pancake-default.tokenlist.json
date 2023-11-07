@@ -1621,5 +1621,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x01C0bD183e7027b421BFF30946f54Bf297713027.png"
     }
+     ,
+    {
+      "name": "PEPEBURN",
+      "symbol": "PEPEBURN",
+      "address": "0x6747B9b9fBe031F72826D459c7ECe705b62E1D80",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x6747B9b9fBe031F72826D459c7ECe705b62E1D80.png"
+    }
   ]
 }
