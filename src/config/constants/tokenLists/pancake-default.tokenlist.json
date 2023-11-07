@@ -1612,5 +1612,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xaf23921f146c1DeB5b436deB3a7FdeAF53f02b3F.png"
     }
+    ,
+    {
+      "name": "Cryonics",
+      "symbol": "CRYS",
+      "address": "0x01C0bD183e7027b421BFF30946f54Bf297713027",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x01C0bD183e7027b421BFF30946f54Bf297713027.png"
+    }
   ]
 }
