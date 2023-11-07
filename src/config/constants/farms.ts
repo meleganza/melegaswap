@@ -2953,6 +2953,17 @@ const farms: FarmConfig[] = [
     token: tokens.cxrp,
     quoteToken: tokens.cake,
   }
+      ,
+  {
+    pid: 271,
+    lpSymbol: 'BNB-PEPEBURN LP',
+    lpAddresses: {
+      97: '',
+      56: '0xBaB19D8A69Ca5b4A442205B475C10CF7b9bB317B',
+    },
+    token: tokens.pepeburnv2,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
