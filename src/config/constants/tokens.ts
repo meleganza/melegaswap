@@ -3510,6 +3510,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://linktr.ee/theflashtoken',
   },
+   crys: {
+    symbol: 'CRYS',
+    address: {
+      56: '0x01C0bD183e7027b421BFF30946f54Bf297713027',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://linktr.ee/cryonicsprojects',
+  },
 }
 
 export default tokens
