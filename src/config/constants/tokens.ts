@@ -3519,6 +3519,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://linktr.ee/cryonicsprojects',
   },
+  pepeburnv2: {
+    symbol: 'PEPEBURN',
+    address: {
+      56: '0x6747B9b9fBe031F72826D459c7ECe705b62E1D80',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://pepeburn2.net/',
+  },
 }
 
 export default tokens
