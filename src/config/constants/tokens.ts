@@ -3528,6 +3528,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://pepeburn2.net/',
   },
+  chonky: {
+    symbol: '$CHONKY',
+    address: {
+      56: '0xd00138ccf5F0b55351646D5C5FE2D95Ea32A63b9',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://chonkerinu.com/',
+  },
 }
 
 export default tokens
