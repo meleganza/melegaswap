@@ -1630,5 +1630,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x6747B9b9fBe031F72826D459c7ECe705b62E1D80.png"
     }
+     ,
+    {
+      "name": "Chonker Inu",
+      "symbol": "$CHONKY",
+      "address": "0xd00138ccf5F0b55351646D5C5FE2D95Ea32A63b9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xd00138ccf5F0b55351646D5C5FE2D95Ea32A63b9.png"
+    }
   ]
 }
