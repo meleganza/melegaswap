@@ -1639,5 +1639,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xd00138ccf5F0b55351646D5C5FE2D95Ea32A63b9.png"
     }
+     ,
+    {
+      "name": "Burn King Protocol",
+      "symbol": "BKP",
+      "address": "0xe0Ba315045147D62B067Fad15B3A950dc952f37c",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xe0Ba315045147D62B067Fad15B3A950dc952f37c.png"
+    }
   ]
 }
