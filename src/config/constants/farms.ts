@@ -2975,6 +2975,17 @@ const farms: FarmConfig[] = [
     token: tokens.chonky,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 273,
+    lpSymbol: 'BNB-BKP LP',
+    lpAddresses: {
+      97: '',
+      56: '0xB500028dE9cfE3b8D7B238d3ea4fbe36e3b27CB7',
+    },
+    token: tokens.bkp,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
