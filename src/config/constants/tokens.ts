@@ -3537,6 +3537,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://chonkerinu.com/',
   },
+  bkp: {
+    symbol: 'BKP',
+    address: {
+      56: '0xe0Ba315045147D62B067Fad15B3A950dc952f37c',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://burnkingprotocol.com',
+  },
 }
 
 export default tokens
