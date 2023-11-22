@@ -2986,6 +2986,17 @@ const farms: FarmConfig[] = [
     token: tokens.bkp,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 274,
+    lpSymbol: 'MARCO-chc LP',
+    lpAddresses: {
+      97: '',
+      56: '0xBeF081c5e47AFf93350A85B36818268774Ef3341',
+    },
+    token: tokens.chc,
+    quoteToken: tokens.cake,
+  }
 ]
 
 export default farms
