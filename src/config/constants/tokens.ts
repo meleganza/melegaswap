@@ -3546,6 +3546,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://burnkingprotocol.com',
   },
+  dxr: {
+    symbol: 'DXR',
+    address: {
+      56: '0x5fb7097e62979907B4e71a5989cF695D635890C0',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.dexraiden.finance/',
+  },
 }
 
 export default tokens
