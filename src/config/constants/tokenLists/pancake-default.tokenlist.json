@@ -1648,5 +1648,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xe0Ba315045147D62B067Fad15B3A950dc952f37c.png"
     }
+    ,
+    {
+      "name": "Dex Raiden",
+      "symbol": "DXR",
+      "address": "0x5fb7097e62979907B4e71a5989cF695D635890C0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x5fb7097e62979907B4e71a5989cF695D635890C0.png"
+    }
   ]
 }
