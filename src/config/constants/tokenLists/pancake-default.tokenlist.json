@@ -1657,5 +1657,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x5fb7097e62979907B4e71a5989cF695D635890C0.png"
     }
+    ,
+    {
+      "name": "DragonBall Universe",
+      "symbol": "DBU",
+      "address": "0x074dc3a727433E774F0F26BEce65fD4D63fa854B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x074dc3a727433E774F0F26BEce65fD4D63fa854B.png"
+    }
   ]
 }
