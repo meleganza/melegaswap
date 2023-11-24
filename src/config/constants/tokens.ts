@@ -3555,6 +3555,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.dexraiden.finance/',
   },
+  dbu: {
+    symbol: 'DBU',
+    address: {
+      56: '0x074dc3a727433E774F0F26BEce65fD4D63fa854B',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'http://www.dragonballztoken.com/',
+  },
 }
 
 export default tokens
