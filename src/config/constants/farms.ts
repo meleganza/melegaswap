@@ -3008,6 +3008,17 @@ const farms: FarmConfig[] = [
     token: tokens.dxr,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 276,
+    lpSymbol: 'BNB-DBU LP',
+    lpAddresses: {
+      97: '',
+      56: '0xFb0addC13cbdfCabB6F9e7e2fC1a3eA5917f4fa6',
+    },
+    token: tokens.dbu,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
