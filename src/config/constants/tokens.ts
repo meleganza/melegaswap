@@ -3564,6 +3564,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'http://www.dragonballztoken.com/',
   },
+  lone: {
+    symbol: 'LONE',
+    address: {
+      56: '0xC9B21061e4639a32E028184d31e95aFac888ca2E',
+      97: '',
+    },
+    decimals: 15,
+    projectLink: 'https://lonecoin.io/',
+  },
 }
 
 export default tokens
