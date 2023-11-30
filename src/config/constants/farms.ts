@@ -3030,6 +3030,17 @@ const farms: FarmConfig[] = [
     token: tokens.pepeburnv2,
     quoteToken: tokens.cake,
   }
+  ,
+  {
+    pid: 278,
+    lpSymbol: 'BNBO-LONE LP',
+    lpAddresses: {
+      97: '',
+      56: '0xcF17b134b3f83eb02DF1223E2f5E4de6859c701a',
+    },
+    token: tokens.lone,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
