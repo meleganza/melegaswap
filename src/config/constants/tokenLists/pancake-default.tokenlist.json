@@ -1666,5 +1666,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x074dc3a727433E774F0F26BEce65fD4D63fa854B.png"
     }
+    ,
+    {
+      "name": "LONE COIN",
+      "symbol": "LONE",
+      "address": "0xC9B21061e4639a32E028184d31e95aFac888ca2E",
+      "chainId": 56,
+      "decimals": 15,
+      "logoURI": "https://melega.finance/images/tokens/0xC9B21061e4639a32E028184d31e95aFac888ca2E.png"
+    }
   ]
 }
