@@ -152,7 +152,7 @@ const CakeDataRow = () => {
         <Flex width="100%" style={{justifyContent:"center"}}>
         <a style={{margin:"0.5rem"}} href='https://t.me/melegacommunity'><img alt="logo" src="/teleicon.png" style={{width:"16px"}}/></a>
         <a style={{margin:"0.5rem"}} href='https://www.instagram.com/melega.finance/'><img alt="logo" src="/instaicon.png" style={{width:"16px"}}/></a>
-        <a style={{margin:"0.5rem"}} href='https://twitter.com/melegaofc'><img alt="logo" src="/twiticon.png" style={{width:"16px"}}/></a>
+        <a style={{margin:"0.5rem"}} href='https://twitter.com/melegadex'><img alt="logo" src="/twiticon.png" style={{width:"16px"}}/></a>
         
         <a style={{margin:"0.5rem"}} href='https://medium.com/@melega'><img alt="logo" src="/medicon.png" style={{width:"16px"}}/></a>
         <a style={{margin:"0.5rem"}} href='https://www.youtube.com/channel/UC_kjHoXOkPSSB4HeHNZMq-Q'><img alt="logo" src="/youicon.png" style={{width:"16px"}}/></a>
