@@ -3033,7 +3033,7 @@ const farms: FarmConfig[] = [
   ,
   {
     pid: 278,
-    lpSymbol: 'BNBO-LONE LP',
+    lpSymbol: 'BNB-LONE LP',
     lpAddresses: {
       97: '',
       56: '0xcF17b134b3f83eb02DF1223E2f5E4de6859c701a',
