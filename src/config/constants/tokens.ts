@@ -3573,6 +3573,15 @@ const tokens = {
     decimals: 15,
     projectLink: 'https://lonecoin.io/',
   },
+  slafac: {
+    symbol: 'SlaFac',
+    address: {
+      56: '0xFba8D4AF65c6D54612bA962Bb3de3fC06B05f20a',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://slafac.com/',
+  },
 }
 
 export default tokens
