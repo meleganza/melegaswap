@@ -1675,5 +1675,14 @@
       "decimals": 15,
       "logoURI": "https://melega.finance/images/tokens/0xC9B21061e4639a32E028184d31e95aFac888ca2E.png"
     }
+    ,
+    {
+      "name": "Slap Face",
+      "symbol": "SlaFac",
+      "address": "0xFba8D4AF65c6D54612bA962Bb3de3fC06B05f20a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xFba8D4AF65c6D54612bA962Bb3de3fC06B05f20a.png"
+    }
   ]
 }
