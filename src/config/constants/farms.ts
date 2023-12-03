@@ -3041,6 +3041,17 @@ const farms: FarmConfig[] = [
     token: tokens.lone,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 279,
+    lpSymbol: 'BNB-SlaFac LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1473D65F95C13c0d0bd2dD576EAF60CEf96dE945',
+    },
+    token: tokens.slafac,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
