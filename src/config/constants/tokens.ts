@@ -3582,6 +3582,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://slafac.com/',
   },
+  otl: {
+    symbol: 'OTL',
+    address: {
+      56: '0xEC4bD32a66E0764D18eBF1A2254f9a08F25e5e61',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://optilux.netlify.app/',
+  },
 }
 
 export default tokens
