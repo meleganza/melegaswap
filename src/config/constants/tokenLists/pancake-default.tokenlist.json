@@ -1684,5 +1684,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xFba8D4AF65c6D54612bA962Bb3de3fC06B05f20a.png"
     }
+    ,
+    {
+      "name": "OptiLuX",
+      "symbol": "OTL",
+      "address": "0xEC4bD32a66E0764D18eBF1A2254f9a08F25e5e61",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xEC4bD32a66E0764D18eBF1A2254f9a08F25e5e61.png"
+    }
   ]
 }
