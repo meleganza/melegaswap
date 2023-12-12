@@ -1693,5 +1693,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xEC4bD32a66E0764D18eBF1A2254f9a08F25e5e61.png"
     }
+    ,
+    {
+      "name": "GrokXmas",
+      "symbol": "GXM",
+      "address": "0x666F5Ea07e0062C7D02F55c7Cc52CAA5cEa7523E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x666F5Ea07e0062C7D02F55c7Cc52CAA5cEa7523E.png"
+    }
   ]
 }
