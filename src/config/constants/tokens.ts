@@ -3591,6 +3591,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://optilux.netlify.app/',
   },
+  gxm: {
+    symbol: 'GXM',
+    address: {
+      56: '0x666F5Ea07e0062C7D02F55c7Cc52CAA5cEa7523E',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://t.me/GrokXmas_Official',
+  },
 }
 
 export default tokens
