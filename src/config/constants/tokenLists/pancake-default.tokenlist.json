@@ -1702,5 +1702,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x666F5Ea07e0062C7D02F55c7Cc52CAA5cEa7523E.png"
     }
+    ,
+    {
+      "name": "SevenNodes",
+      "symbol": "7NODES",
+      "address": "0x9e795bFD0aBcDd942D27D264a3AacEC13b6c32A6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x9e795bFD0aBcDd942D27D264a3AacEC13b6c32A6.png"
+    }
   ]
 }
