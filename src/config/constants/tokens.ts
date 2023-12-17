@@ -3600,6 +3600,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://t.me/GrokXmas_Official',
   },
+  nodes7: {
+    symbol: '7NODES',
+    address: {
+      56: '0x9e795bFD0aBcDd942D27D264a3AacEC13b6c32A6',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://seven-nodes.com/',
+  },
 }
 
 export default tokens
