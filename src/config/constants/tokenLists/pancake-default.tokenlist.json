@@ -1720,5 +1720,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x136331f3bE5b0F32Fb21a7f19d1D4C47F0671494.png"
     }
+    ,
+    {
+      "name": "EFLANCER",
+      "symbol": "EFCR",
+      "address": "0x1cC73D96Ff2Cb0D7BEc74eaF4c81f27C9132ee86",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://melega.finance/images/tokens/0x1cC73D96Ff2Cb0D7BEc74eaF4c81f27C9132ee86.png"
+    }
   ]
 }
