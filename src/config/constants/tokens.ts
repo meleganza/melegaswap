@@ -3618,6 +3618,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.highasagiraffesass420.com',
   },
+  efcr: {
+    symbol: 'EFCR',
+    address: {
+      56: '0x1cC73D96Ff2Cb0D7BEc74eaF4c81f27C9132ee86',
+      97: '',
+    },
+    decimals: 8,
+    projectLink: 'https://eflancer.com',
+  },
 }
 
 export default tokens
