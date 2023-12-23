@@ -3609,6 +3609,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://seven-nodes.com/',
   },
+  haaga420: {
+    symbol: 'HAAGA420',
+    address: {
+      56: '0x136331f3bE5b0F32Fb21a7f19d1D4C47F0671494',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.highasagiraffesass420.com',
+  },
 }
 
 export default tokens
