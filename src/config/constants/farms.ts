@@ -3096,6 +3096,17 @@ const farms: FarmConfig[] = [
     token: tokens.haaga420,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 284,
+    lpSymbol: 'BNB-EFCR LP',
+    lpAddresses: {
+      97: '',
+      56: '0x82b2B5dBC64613a26553f2c8de86B2b5Da2e3B39',
+    },
+    token: tokens.efcr,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
