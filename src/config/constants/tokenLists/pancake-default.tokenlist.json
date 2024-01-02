@@ -1738,5 +1738,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xa7e5311DC6926d4407b6d20F8Ca5Ce6C92581B35.png"
     }
+    ,
+    {
+      "name": "BabyBuck",
+      "symbol": "BBUCK",
+      "address": "0x390BD80f4c8d0d1Bf360392790263b8c7808835D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x390BD80f4c8d0d1Bf360392790263b8c7808835D.png"
+    }
   ]
 }
