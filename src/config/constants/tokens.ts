@@ -3636,6 +3636,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://teamaffordahouse.co.uk/',
   },
+  bbuck: {
+    symbol: 'BBUCK',
+    address: {
+      56: '0x390BD80f4c8d0d1Bf360392790263b8c7808835D',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://babybuckcoin.netlify.app/',
+  },
 }
 
 export default tokens
