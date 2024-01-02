@@ -3627,6 +3627,15 @@ const tokens = {
     decimals: 8,
     projectLink: 'https://eflancer.com',
   },
+  tah: {
+    symbol: 'TAH',
+    address: {
+      56: '0xa7e5311DC6926d4407b6d20F8Ca5Ce6C92581B35',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://teamaffordahouse.co.uk/',
+  },
 }
 
 export default tokens
