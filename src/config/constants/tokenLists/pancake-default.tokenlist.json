@@ -1729,5 +1729,14 @@
       "decimals": 8,
       "logoURI": "https://melega.finance/images/tokens/0x1cC73D96Ff2Cb0D7BEc74eaF4c81f27C9132ee86.png"
     }
+    ,
+    {
+      "name": "TeamAffordaHouse",
+      "symbol": "TAH",
+      "address": "0xa7e5311DC6926d4407b6d20F8Ca5Ce6C92581B35",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xa7e5311DC6926d4407b6d20F8Ca5Ce6C92581B35.png"
+    }
   ]
 }
