@@ -2774,7 +2774,7 @@ const pools: PoolConfig[] = [
     earningToken: tokens.bbuck,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
-      56: '0x30aDcA9D282A1F98AA92f7FD50E2e5eCEAEE0281',
+      56: '0xf2F04FF04AF25a96af9BE6d1f0Eb537D91d3d712',
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
