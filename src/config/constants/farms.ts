@@ -3118,6 +3118,17 @@ const farms: FarmConfig[] = [
     token: tokens.tah,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 286,
+    lpSymbol: 'BNB-BBUCK LP',
+    lpAddresses: {
+      97: '',
+      56: '0x30aDcA9D282A1F98AA92f7FD50E2e5eCEAEE0281',
+    },
+    token: tokens.bbuck,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
