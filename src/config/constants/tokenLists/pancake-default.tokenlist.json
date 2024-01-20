@@ -1747,5 +1747,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x390BD80f4c8d0d1Bf360392790263b8c7808835D.png"
     }
+    ,
+    {
+      "name": "GrokLabs",
+      "symbol": "GrokLabs",
+      "address": "0xce3559f5B5fc02b1cEc6212D1FCEC65E080D8C66",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xce3559f5B5fc02b1cEc6212D1FCEC65E080D8C66.png"
+    }
   ]
 }
