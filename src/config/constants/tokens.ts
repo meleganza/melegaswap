@@ -3645,6 +3645,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://babybuckcoin.netlify.app/',
   },
+  groklabs: {
+    symbol: 'GrokLabs',
+    address: {
+      56: '0xce3559f5B5fc02b1cEc6212D1FCEC65E080D8C66',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://grokslabratory.vercel.app/',
+  },
 }
 
 export default tokens
