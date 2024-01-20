@@ -3129,6 +3129,17 @@ const farms: FarmConfig[] = [
     token: tokens.bbuck,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 287,
+    lpSymbol: 'BNB-GrokLabs LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6575d67C22245ac5Ded37141A9D846304bc9B324',
+    },
+    token: tokens.groklabs,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
