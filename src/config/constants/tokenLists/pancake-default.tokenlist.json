@@ -1756,5 +1756,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xce3559f5B5fc02b1cEc6212D1FCEC65E080D8C66.png"
     }
+    ,
+    {
+      "name": "WinZone",
+      "symbol": "WZM",
+      "address": "0xd4e17Ad949bB0Fd99A6e7a5F2daD73Baf41D3210",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://melega.finance/images/tokens/0xd4e17Ad949bB0Fd99A6e7a5F2daD73Baf41D3210.png"
+    }
   ]
 }
