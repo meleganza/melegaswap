@@ -3654,6 +3654,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://grokslabratory.vercel.app/',
   },
+  wzm: {
+    symbol: 'WZM',
+    address: {
+      56: '0xd4e17Ad949bB0Fd99A6e7a5F2daD73Baf41D3210',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://winzone.fun/',
+  },
 }
 
 export default tokens
