@@ -3663,6 +3663,15 @@ const tokens = {
     decimals: 9,
     projectLink: 'https://winzone.fun/',
   },
+  mememint: {
+    symbol: 'MEMEMINT',
+    address: {
+      56: '0xabCAd2648fD27538e44BBd91109835aadaF981Bc',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.mememintcoin.com/',
+  },
 }
 
 export default tokens
