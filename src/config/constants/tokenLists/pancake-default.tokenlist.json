@@ -1765,5 +1765,14 @@
       "decimals": 9,
       "logoURI": "https://melega.finance/images/tokens/0xd4e17Ad949bB0Fd99A6e7a5F2daD73Baf41D3210.png"
     }
+    ,
+    {
+      "name": "MEME MINT",
+      "symbol": "MEMEMINT",
+      "address": "0xabCAd2648fD27538e44BBd91109835aadaF981Bc",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xabCAd2648fD27538e44BBd91109835aadaF981Bc.png"
+    }
   ]
 }
