@@ -3151,6 +3151,17 @@ const farms: FarmConfig[] = [
     token: tokens.wzm,
     quoteToken: tokens.wbnb,
   }
+   ,
+  {
+    pid: 289,
+    lpSymbol: 'BNB-MEMEMINT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7629290019628cF64b6037cBF0C123660B1ab7aA',
+    },
+    token: tokens.mememint,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
