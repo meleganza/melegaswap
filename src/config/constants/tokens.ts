@@ -3672,6 +3672,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.mememintcoin.com/',
   },
+  mlb: {
+    symbol: 'MLB',
+    address: {
+      56: '0x98aFB2e3F205E583f68a3de31dc9e1a79A0431a5',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.mealbuddy.online/',
+  },
 }
 
 export default tokens
