@@ -1774,5 +1774,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xabCAd2648fD27538e44BBd91109835aadaF981Bc.png"
     }
+     ,
+    {
+      "name": "Meal Buddy Finance",
+      "symbol": "MLB",
+      "address": "0x98aFB2e3F205E583f68a3de31dc9e1a79A0431a5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x98aFB2e3F205E583f68a3de31dc9e1a79A0431a5.png"
+    }
   ]
 }
