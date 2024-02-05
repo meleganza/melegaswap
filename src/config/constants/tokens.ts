@@ -3681,6 +3681,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.mealbuddy.online/',
   },
+  nbd: {
+    symbol: 'NBD',
+    address: {
+      56: '0x199D07aa6723e9324F44f89885101FF79e11919A',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://t.me/NBDToken',
+  },
 }
 
 export default tokens
