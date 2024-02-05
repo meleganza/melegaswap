@@ -3173,6 +3173,17 @@ const farms: FarmConfig[] = [
     token: tokens.mlb,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 291,
+    lpSymbol: 'BNB-NBD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x70092cD26D6590F334D8C7D13CdC11aD350DE493',
+    },
+    token: tokens.nbd,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
