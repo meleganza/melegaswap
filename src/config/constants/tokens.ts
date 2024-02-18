@@ -3690,6 +3690,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://t.me/NBDToken',
   },
+  tor: {
+    symbol: 'Tor',
+    address: {
+      56: '0xBFFc63Cf0e844274a9092620a50a15eAb952EC04',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://torwallet.xyz',
+  },
 }
 
 export default tokens
