@@ -1792,5 +1792,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x199D07aa6723e9324F44f89885101FF79e11919A.png"
     }
+    ,
+    {
+      "name": "Tor Wallet",
+      "symbol": "Tor",
+      "address": "0xBFFc63Cf0e844274a9092620a50a15eAb952EC04",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xBFFc63Cf0e844274a9092620a50a15eAb952EC04.png"
+    }
   ]
 }
