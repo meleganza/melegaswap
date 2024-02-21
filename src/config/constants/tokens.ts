@@ -3699,6 +3699,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://torwallet.xyz',
   },
+  sgrok: {
+    symbol: 'SGROK',
+    address: {
+      56: '0x7d8034e01BBe7Af542a05d5B0d9E8B8ABcd2890d',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://spidergrok.network',
+  },
 }
 
 export default tokens
