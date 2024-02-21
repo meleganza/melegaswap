@@ -1801,5 +1801,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xBFFc63Cf0e844274a9092620a50a15eAb952EC04.png"
     }
+    ,
+    {
+      "name": "Spider Grok AI",
+      "symbol": "SGROK",
+      "address": "0x7d8034e01BBe7Af542a05d5B0d9E8B8ABcd2890d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x7d8034e01BBe7Af542a05d5B0d9E8B8ABcd2890d.png"
+    }
   ]
 }
