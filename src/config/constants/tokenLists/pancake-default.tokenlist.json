@@ -1810,5 +1810,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x7d8034e01BBe7Af542a05d5B0d9E8B8ABcd2890d.png"
     }
+    ,
+    {
+      "name": "loveplaysex",
+      "symbol": "love69",
+      "address": "0x4F2c8449C6518fAdf8e16Ff0Df2EfAcb13614B71",
+      "chainId": 56,
+      "decimals": 4,
+      "logoURI": "https://melega.finance/images/tokens/0x4F2c8449C6518fAdf8e16Ff0Df2EfAcb13614B71.png"
+    }
   ]
 }
