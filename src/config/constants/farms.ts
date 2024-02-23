@@ -3195,6 +3195,17 @@ const farms: FarmConfig[] = [
     token: tokens.tor,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 293,
+    lpSymbol: 'BNB-love69 LP',
+    lpAddresses: {
+      97: '',
+      56: '0x38781022A9d36Fcb1C42ca81843ba34F4dCF83f7',
+    },
+    token: tokens.love69,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
