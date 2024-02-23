@@ -3708,6 +3708,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://spidergrok.network',
   },
+  love69: {
+    symbol: 'love69',
+    address: {
+      56: '0x4F2c8449C6518fAdf8e16Ff0Df2EfAcb13614B71',
+      97: '',
+    },
+    decimals: 4,
+    projectLink: 'http://loveplaysex.net/',
+  },
 }
 
 export default tokens
