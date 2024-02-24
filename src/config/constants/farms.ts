@@ -3206,6 +3206,17 @@ const farms: FarmConfig[] = [
     token: tokens.love69,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 294,
+    lpSymbol: 'BNB-SGROK LP',
+    lpAddresses: {
+      97: '',
+      56: '0x02f3D38410843b78c56a86326199775edfc3e631',
+    },
+    token: tokens.sgrok,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
