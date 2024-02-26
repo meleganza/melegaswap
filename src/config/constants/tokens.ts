@@ -3717,6 +3717,15 @@ const tokens = {
     decimals: 4,
     projectLink: 'http://loveplaysex.net/',
   },
+  groklabs2: {
+    symbol: 'GrokLabs',
+    address: {
+      56: '0xaFfAcd3E1524AcB6C6C589d0A3c3A498B756AfC1',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://grokslabratory.vercel.app',
+  },
 }
 
 export default tokens
