@@ -3217,6 +3217,17 @@ const farms: FarmConfig[] = [
     token: tokens.sgrok,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 295,
+    lpSymbol: 'BNB-GrokLabs LP',
+    lpAddresses: {
+      97: '',
+      56: '0xC3199E3069b381eBcF50F0766999E4F1835ee4A3',
+    },
+    token: tokens.groklabs2,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
