@@ -3726,6 +3726,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://grokslabratory.vercel.app',
   },
+  groklabs2: {
+    symbol: 'RAO',
+    address: {
+      56: '0xAe908BA89cE0031D19972F19e863b86AAbB00280',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://rao.cash/',
+  },
 }
 
 export default tokens
