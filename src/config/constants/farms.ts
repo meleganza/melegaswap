@@ -3228,6 +3228,17 @@ const farms: FarmConfig[] = [
     token: tokens.groklabs2,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 296,
+    lpSymbol: 'BNB-RAO LP',
+    lpAddresses: {
+      97: '',
+      56: '0x42a142D122855ED11c3d20b29a36b7A55e2ce026',
+    },
+    token: tokens.rao,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
