@@ -3726,7 +3726,7 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://grokslabratory.vercel.app',
   },
-  groklabs2: {
+  rao: {
     symbol: 'RAO',
     address: {
       56: '0xAe908BA89cE0031D19972F19e863b86AAbB00280',
