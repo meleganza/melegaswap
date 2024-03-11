@@ -3735,6 +3735,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://rao.cash/',
   },
+  dc4: {
+    symbol: '4DC',
+    address: {
+      56: '0x4e7Ef0077a1Bc31FD9BcadD6CA149Dea9C3faeDb',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.4dcoin.us/',
+  },
 }
 
 export default tokens
