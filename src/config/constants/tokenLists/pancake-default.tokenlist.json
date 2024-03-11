@@ -1837,5 +1837,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xAe908BA89cE0031D19972F19e863b86AAbB00280.png"
     }
+    ,
+    {
+      "name": "4DCoin",
+      "symbol": "4DC",
+      "address": "0x4e7Ef0077a1Bc31FD9BcadD6CA149Dea9C3faeDb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x4e7Ef0077a1Bc31FD9BcadD6CA149Dea9C3faeDb.png"
+    }
   ]
 }
