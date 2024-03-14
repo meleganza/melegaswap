@@ -3744,6 +3744,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.4dcoin.us/',
   },
+  xex: {
+    symbol: 'XEX',
+    address: {
+      56: '0xfF38e7a487f68152299Db75B244bB26a61E999Bc',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.xex.exchange/',
+  },
 }
 
 export default tokens
