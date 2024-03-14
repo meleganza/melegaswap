@@ -1846,5 +1846,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x4e7Ef0077a1Bc31FD9BcadD6CA149Dea9C3faeDb.png"
     }
+    ,
+    {
+      "name": "XEX",
+      "symbol": "XEX",
+      "address": "0xfF38e7a487f68152299Db75B244bB26a61E999Bc",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xfF38e7a487f68152299Db75B244bB26a61E999Bc.png"
+    }
   ]
 }
