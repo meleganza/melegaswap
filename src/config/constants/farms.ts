@@ -3250,6 +3250,17 @@ const farms: FarmConfig[] = [
     token: tokens.dc4,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 298,
+    lpSymbol: 'BNB-XEX LP',
+    lpAddresses: {
+      97: '',
+      56: '0xdD1032a68E413b824134f4d2cDbEbc8340f5aFE7',
+    },
+    token: tokens.xex,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
