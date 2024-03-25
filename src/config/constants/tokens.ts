@@ -3753,6 +3753,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.xex.exchange/',
   },
+  msoc: {
+    symbol: 'MSOC',
+    address: {
+      56: '0x0DB3dE7a6F6448E5059A9c570580089f4665077C',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.memesoccer.com',
+  },
 }
 
 export default tokens
