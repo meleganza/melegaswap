@@ -1855,5 +1855,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0xfF38e7a487f68152299Db75B244bB26a61E999Bc.png"
     }
+    ,
+    {
+      "name": "MEME SOCCER",
+      "symbol": "MSOC",
+      "address": "0x0DB3dE7a6F6448E5059A9c570580089f4665077C",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0x0DB3dE7a6F6448E5059A9c570580089f4665077C.png"
+    }
   ]
 }
