@@ -1864,5 +1864,14 @@
       "decimals": 18,
       "logoURI": "https://melega.finance/images/tokens/0x0DB3dE7a6F6448E5059A9c570580089f4665077C.png"
     }
+    ,
+    {
+      "name": "NewYorkNewYorkCoins",
+      "symbol": "NYNYC",
+      "address": "0x8A99D529d60f854ff323d4fFE284cc647CbDA5C3",
+      "chainId": 56,
+      "decimals": 3,
+      "logoURI": "https://melega.finance/images/tokens/0x8A99D529d60f854ff323d4fFE284cc647CbDA5C3.png"
+    }
   ]
 }
