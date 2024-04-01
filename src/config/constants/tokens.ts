@@ -3762,6 +3762,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.memesoccer.com',
   },
+  nynyc: {
+    symbol: 'NYNYC',
+    address: {
+      56: '0x8A99D529d60f854ff323d4fFE284cc647CbDA5C3',
+      97: '',
+    },
+    decimals: 3,
+    projectLink: 'https://www.nynycoins.com',
+  },
 }
 
 export default tokens
