@@ -3261,6 +3261,17 @@ const farms: FarmConfig[] = [
     token: tokens.xex,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 299,
+    lpSymbol: 'BNB-NYNYC LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6075075ccE50004495AC2Cdc513a56C424093Ab3',
+    },
+    token: tokens.nynyc,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
