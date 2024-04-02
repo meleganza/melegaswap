@@ -1873,5 +1873,14 @@
       "decimals": 3,
       "logoURI": "https://melega.finance/images/tokens/0x8A99D529d60f854ff323d4fFE284cc647CbDA5C3.png"
     }
+    ,
+    {
+      "name": "ferscoin",
+      "symbol": "FR",
+      "address": "0xe9BEEA8F4448267a151f744572C57A3Cc309fA92",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://melega.finance/images/tokens/0xe9BEEA8F4448267a151f744572C57A3Cc309fA92.png"
+    }
   ]
 }
