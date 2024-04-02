@@ -3771,6 +3771,15 @@ const tokens = {
     decimals: 3,
     projectLink: 'https://www.nynycoins.com',
   },
+  fr: {
+    symbol: 'FR',
+    address: {
+      56: '0xe9BEEA8F4448267a151f744572C57A3Cc309fA92',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://ferscoin.net/',
+  },
 }
 
 export default tokens
