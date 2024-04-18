@@ -3283,6 +3283,17 @@ const farms: FarmConfig[] = [
     token: tokens.fr,
     quoteToken: tokens.wbnb,
   }
+  ,
+  {
+    pid: 301,
+    lpSymbol: 'BNB-FARM LP',
+    lpAddresses: {
+      97: '',
+      56: '0xE50E4bb7420fC3C079C5AF7Fa0A9cBA0551d3d2c',
+    },
+    token: tokens.farm,
+    quoteToken: tokens.wbnb,
+  }
 ]
 
 export default farms
