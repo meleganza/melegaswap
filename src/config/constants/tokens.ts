@@ -3780,6 +3780,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://ferscoin.net/',
   },
+  bullstar: {
+    symbol: 'BSF',
+    address: {
+      56: '0x39541a42B5085F3cf69b2258EAEb5bB3Ee8C823c',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.bullstarfinance.com/',
+  },
 }
 
 export default tokens
