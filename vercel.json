@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/v1/supply/total", "destination": "/api/v1/supply/total" },
+    { "source": "/v1/supply/total/", "destination": "/api/v1/supply/total" },
+    { "source": "/v1/supply/circulating", "destination": "/api/v1/supply/circulating" },
+    { "source": "/v1/supply/circulating/", "destination": "/api/v1/supply/circulating" }
+  ]
+}
