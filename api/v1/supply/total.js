@@ -14,8 +14,8 @@ module.exports = async (req, res) => {
     return
   }
   try {
-    const { jsonNumber } = await numericSupply('total')
-    sendNumeric(res, jsonNumber)
+    const { formatted } = await numericSupply('total')
+    sendNumeric(res, formatted)
   } catch (err) {
     sendError(res, err)
   }
